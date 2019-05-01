@@ -1,3 +1,3 @@
 # Datasets
-## here are some datasets I've used to visualize.  Below is the list of files and their source when initially pulled.
+Below are some datasets I've used to visualize.  Below is the link to the data, the source and the related visualization
 
