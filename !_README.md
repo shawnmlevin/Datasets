@@ -1,7 +1,7 @@
 # Datasets
 Below are some datasets I've used to visualize.  Below is the link to the data, the source and the related visualization
 
-##NFL_Attendence.xlsx
+## NFL_Attendence.xlsx
 
 **Source**: ESPN.com
 
@@ -11,7 +11,7 @@ Dataset of NFL attendence from 2001-2018 by Team/Stadium
 
 
 
-##PHL_SNOW.xlsx
+## PHL_SNOW.xlsx
 
 **Source**: NOAA | h/t Ben Jones
 
@@ -21,7 +21,7 @@ Viz: https://public.tableau.com/views/SNOW_15561636827060/NotAlwaysSunny?:embed=
 
 
 
-##SheetzvsWawa.csv
+## SheetzvsWawa.csv
 
 **Source**: Sheetz.com and Wawa.com Public API | h/t to Josh Tapley
 
@@ -31,7 +31,7 @@ Location of all Sheetz and Wawa locations as of Febrary 2019
 
 
 
-##coffee.xlsx
+## coffee.xlsx
 
 **Source**: Poi-Factory.com | h/t Joshua Stevenson, Jake Riley, Andy Kirk
 
