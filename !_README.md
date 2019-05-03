@@ -30,6 +30,15 @@ Location of all Sheetz and Wawa locations as of Febrary 2019
 **Viz**: https://public.tableau.com/profile/shawn.m.levin#!/vizhome/wawa1/WAWASHEETZ
 
 
+## emergencies.xlsx
+
+**Source**: Wikipedia
+
+List of Declared US National Emergencies by President
+
+**Viz**: https://public.tableau.com/profile/shawn.m.levin#!/vizhome/NATIONAL_EMERGENCIES/NationalEmergencies
+
+
 
 ## coffee.xlsx
 
@@ -39,6 +48,7 @@ Location of all Starbucks and Dunkin Donut locations as of June 2017
 
 **Viz**: https://public.tableau.com/profile/shawn.m.levin#!/vizhome/Starbucksvs_DunkinDonuts/SBvs_DD
 
+
 ## small_world.xlsx
 
 **Source**: Wikipedia, Disney Wikia, iThemePark via YouTube
@@ -47,3 +57,11 @@ Count of animatronics per room in Walt Disney World's it's a small world ride
 
 **Viz**:  https://public.tableau.com/profile/shawn.m.levin#!/vizhome/IronVizWater-TheHappiestCruisethateversailedroundtheWorld/IronViz
 
+
+## snap_counts.xlsx
+
+**Source**:  Football Outsiders
+
+2018 NFL Snap counts by Player/Position
+
+**Viz**: https://public.tableau.com/profile/shawn.m.levin#!/vizhome/Snap_Count/2018NFLSnapCounts
