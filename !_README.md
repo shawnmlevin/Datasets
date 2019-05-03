@@ -38,3 +38,12 @@ Location of all Sheetz and Wawa locations as of Febrary 2019
 Location of all Starbucks and Dunkin Donut locations as of June 2017
 
 **Viz**: https://public.tableau.com/profile/shawn.m.levin#!/vizhome/Starbucksvs_DunkinDonuts/SBvs_DD
+
+## small_world.xlsx
+
+**Source**: Wikipedia, Disney Wikia, iThemePark via YouTube
+
+Count of animatronics per room in Walt Disney World's it's a small world ride
+
+**Viz**:  https://public.tableau.com/profile/shawn.m.levin#!/vizhome/IronVizWater-TheHappiestCruisethateversailedroundtheWorld/IronViz
+
