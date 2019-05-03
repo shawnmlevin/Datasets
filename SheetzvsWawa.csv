@@ -1,0 +1,1430 @@
+Chain,Store Number,Latitude,Longitude,Accuracy Score,Accuracy Type,Number,Street,City,State,County,Zip,Country,Source
+Sheetz,275,39.658633,-80.000318,1,rooftop,1,Chaplin,Morgantown,WV,Monongalia County,26501,US,Statewide
+Wawa,468,39.912875,-75.056244,1,rooftop,1,Haddon Ave,Collingswood,NJ,Camden County,08108,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,798,40.067532,-74.534848,1,rooftop,1,Maple Ave,New Egypt,NJ,Ocean County,08533,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,69,39.936913,-77.671451,1,rooftop,452,W Queen St,Chambersburg,PA,Franklin County,17201,US,Franklin
+Wawa,322,39.722818,-74.860219,1,rooftop,1,White Horse Pike,Waterford Works,NJ,Camden County,08089,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,151,41.510938,-78.238049,1,rooftop,1,W 4th St,Emporium,PA,Cameron County,15834,US,Cameron
+Wawa,149,40.171739,-75.071193,1,rooftop,10,Davisville Rd,Southampton,PA,Bucks County,18966,US,Bucks
+Wawa,348,40.123423,-74.285069,1,rooftop,10,Manhattan St,Jackson,NJ,Ocean County,08527,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,282,40.259432,-75.729396,1,rooftop,10,Maplewood Dr,Douglassville,PA,Berks County,19518,US,Berks
+Sheetz,583,40.667821,-77.60762,1,rooftop,10,Sheetz Dr,Reedsville,PA,Mifflin County,17084,US,Mifflin
+Sheetz,264,38.286363,-77.43739,1,rooftop,10,Washington Square Plz,Fredericksburg,VA,Stafford County,22405,US,Stafford
+Wawa,203,40.009049,-75.616244,1,rooftop,1436,Pottstown Park,West Chester,PA,Chester County,19380,US,Chester
+Wawa,383,39.633887,-74.805595,1,rooftop,100,12th St,Hammonton,NJ,Atlantic County,08037,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,245,40.000682,-75.701211,1,rooftop,100,Boot Rd,Downingtown,PA,Chester County,19335,US,Chester
+Wawa,253,40.067706,-75.310075,0.99,nearest_street,106,Spring Garden Ln,Conshohocken,PA,Montgomery County,19428,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,100,39.916145,-75.387982,0.99,nearest_street,249,S Monroe St,Media,PA,Delaware County,19063,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,623,35.978286,-77.973463,1,rooftop,479,W Washington St,Nashville,NC,Nash County,27856,US,Nash
+Sheetz,79,40.949677,-78.963847,0.98,nearest_street,103,Elk Run Ave,Punxsutawney,PA,Jefferson County,15767,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8652,37.758779,-77.471887,1,rooftop,610,England St,Ashland,VA,Hanover County,23005,US,Virginia Geographic Information Network (VGIN)
+Sheetz,223,40.626912,-80.228608,1,rooftop,100,Ohio River Blvd,Baden,PA,Beaver County,15005,US,Beaver
+Wawa,289,39.75047,-76.022465,1,rooftop,100,Ponds Edge Dr,Nottingham,PA,Chester County,19362,US,Chester
+Wawa,374,39.860455,-74.975613,1,rooftop,1607,E Evesham Rd,Voorhees,NJ,Camden County,08043,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,226,40.009263,-75.703748,1,rooftop,100,Wallace Ave,Downingtown,PA,Chester County,19335,US,Chester
+Sheetz,114,40.809872,-79.516994,1,rooftop,100,Walnut St,Kittanning,PA,Armstrong County,16201,US,Armstrong
+Wawa,8010,40.305826,-75.974616,0.99,rooftop,407,W Lancaster Ave,Reading,PA,Berks County,19607,US,Berks
+Sheetz,65,40.343061,-78.933488,1,rooftop,917,Chestnut St,Johnstown,PA,Cambria County,15906,US,Cambria
+Sheetz,397,35.605346,-77.372906,1,rooftop,1000,Charles Bv,Greenville,NC,Pitt County,27858,US,Pitt
+Sheetz,376,40.320134,-79.942871,1,rooftop,1000,Clairton Blvd,Pittsburgh,PA,Allegheny County,15236,US,Allegheny
+Wawa,265,39.976048,-75.30297,0.98,nearest_street,21,W Manoa Rd,Havertown,PA,Delaware County,19083,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,626,39.472359,-80.152363,0.98,nearest_street,400,10th St,Fairmont,WV,Marion County,26554,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,432,36.001639,-79.908076,1,rooftop,6020,W Gate City Blvd,Greensboro,NC,Guilford County,27407,US,City of Greensboro
+Sheetz,534,35.386707,-77.94818,1,rooftop,1003,N Spence Ave,Goldsboro,NC,Wayne County,27534,US,NC Geographic Information Coordinating Council
+Wawa,8513,39.416908,-77.438704,1,rooftop,1001,W Patrick St,Frederick,MD,Frederick County,21702,US,Frederick County
+Sheetz,631,40.61897,-79.732161,1,rooftop,1002,California Ave,Natrona Heights,PA,Allegheny County,15065,US,Allegheny
+Sheetz,124,40.016334,-79.599854,0.99,nearest_street,,Pa 711 Truck,Connellsville,PA,Fayette County,15425,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,286,37.691684,-77.441075,1,rooftop,10036,Sliding Hill Rd,Ashland,VA,Hanover County,23005,US,Virginia Geographic Information Network (VGIN)
+Wawa,5207,28.50941,-81.241042,1,rooftop,10052,Curry Ford Rd,Orlando,FL,Orange County,32825,US,Orange County
+Wawa,8617,38.225868,-77.506679,1,rooftop,10060,Jefferson Davis Hwy,Fredericksburg,VA,Spotsylvania County,22407,US,Virginia Geographic Information Network (VGIN)
+Sheetz,340,36.686814,-78.900229,1,rooftop,1128,Huell Matthews Hwy,South Boston,VA,Halifax County,24592,US,Virginia Geographic Information Network (VGIN)
+Sheetz,291,40.991924,-75.984572,0.98,nearest_street,197,Airport Rd,Hazleton,PA,Luzerne County,18202,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8088,40.172728,-75.128018,0.98,nearest_street,100,Easton Rd,Horsham,PA,Montgomery County,19044,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,113,40.329514,-78.747256,1,rooftop,101,Forest Hills Dr,Sidman,PA,Cambria County,15955,US,Cambria
+Wawa,8613,36.65832,-76.224986,1,rooftop,101,Hillcrest Pkwy,Chesapeake,VA,Chesapeake city,23322,US,Virginia Geographic Information Network (VGIN)
+Wawa,8518,38.965421,-76.193825,1,rooftop,101,Hissey Rd,Grasonville,MD,Queen Anne's County,21638,US,Statewide
+Sheetz,49,40.393292,-78.671329,1,rooftop,115,Main St,Portage,PA,Cambria County,15946,US,Cambria
+Sheetz,576,40.630161,-77.567723,1,rooftop,101,N Logan Blvd,Burnham,PA,Mifflin County,17009,US,Mifflin
+Sheetz,166,41.812501,-78.282145,1,rooftop,101,N Main St,Port Allegany,PA,McKean County,16743,US,Mckean
+Sheetz,73,41.027958,-78.440159,1,rooftop,410,W Front St,Clearfield,PA,Clearfield County,16830,US,Clearfield
+Sheetz,503,40.31705,-79.683419,0.97,nearest_street,8500,Us Hwy 30,Irwin,PA,Westmoreland County,15642,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,501,39.273803,-80.369303,1,rooftop,855,Milford St,Clarksburg,WV,Harrison County,26301,US,Harrison
+Sheetz,287,40.811004,-77.922187,1,rooftop,101,Valley Vista Dr,State College,PA,Centre County,16803,US,Centre
+Wawa,355,39.855154,-75.032375,1,rooftop,105,Evesham Ave E,Magnolia,NJ,Camden County,08049,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,221,38.61976,-77.799685,1,rooftop,10101,James Madison Hwy,Bealeton,VA,Fauquier County,22712,US,Fauquier
+Wawa,8506,39.466078,-76.63646,1,rooftop,10111,York Rd,Cockeysville,MD,Baltimore County,21030,US,Baltimore
+Wawa,5133,27.893122,-82.335729,1,rooftop,10115,Bloomingdale Ave,Riverview,FL,Hillsborough County,33569,US, Loveland
+Sheetz,575,39.628081,-79.959108,1,rooftop,1012,University,Morgantown,WV,Monongalia County,26505,US,Statewide
+Wawa,8625,37.442493,-77.582823,1,rooftop,10135,Hull Street Rd,Midlothian,VA,Chesterfield County,23112,US,Virginia Geographic Information Network (VGIN)
+Wawa,8034,40.165478,-75.291803,0.98,nearest_street,947,Us Hwy 202,Blue Bell,PA,Montgomery County,19422,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,420,40.53635,-78.37379,1,rooftop,1019,940 Old Sixth Ave Rd,Altoona,PA,Blair County,16602,US,Blair
+Wawa,116,40.983168,-75.200789,1,rooftop,1015,W Main St,Stroudsburg,PA,Monroe County,18360,US,Monroe
+Sheetz,600,35.809124,-78.821838,1,rooftop,1019,Morrisville Pkwy,Morrisville,NC,Wake County,27560,US,Cary
+Wawa,837,38.58472,-75.295799,1,rooftop,28512,Dupont Blvd,Millsboro,DE,Sussex County,19966,US,Sussex
+Sheetz,428,36.50193,-79.742414,1,rooftop,102,N Van Buren Rd,Eden,NC,Rockingham County,27288,US,NC Geographic Information Coordinating Council
+Wawa,5219,28.654914,-81.225977,1,rooftop,1891,W Sr 426,Oviedo,FL,Seminole County,32765,US,Seminole
+Sheetz,472,35.899969,-79.94603,1,rooftop,10401,S Main St,High Point,NC,Randolph County,27263,US,NC Geographic Information Coordinating Council
+Sheetz,652,39.55496,-76.96039,1,rooftop,1023,Baltimore Blvd,Westminster,MD,Carroll County,21157,US,Carroll
+Sheetz,524,35.671413,-80.853822,1,rooftop,1023,Charlotte Hwy,Troutman,NC,Iredell County,28166,US,Alexander
+Wawa,573,38.717663,-76.661158,1,rooftop,10205,Kirksville Ln,Dunkirk,MD,Calvert County,20754,US,Statewide
+Sheetz,121,41.136486,-80.008318,1,rooftop,202,Mercer St,Harrisville,PA,Butler County,16038,US,Butler
+Wawa,5221,27.263787,-80.432049,1,rooftop,10308,SW Tradition Pkwy,Port Saint Lucie,FL,St. Lucie County,34987,US,MapWise (and individual Florida counties)
+Wawa,5172,29.127269,-81.006867,1,rooftop,1031,Dunlawton Ave,Daytona Beach,FL,Volusia County,32127,US,Volusia
+Sheetz,533,41.425915,-81.759969,1,nearest_street,,I 480,Cleveland,OH,Cuyahoga County,44144,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8607,37.686494,-77.460686,1,rooftop,10373,Sliding Hill Rd,Ashland,VA,Hanover County,23005,US,Virginia Geographic Information Network (VGIN)
+Wawa,735,40.260434,-74.549815,1,rooftop,104,Hickory Corner Rd,Hightstown,NJ,Mercer County,08520,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,612,38.412005,-81.798043,1,rooftop,201,New Goff Mountain Rd,Charleston,WV,Kanawha County,25313,US,Statewide
+Sheetz,433,38.43581,-82.015376,1,rooftop,53,Old Hurricane Creek Rd,Hurricane,WV,Putnam County,25526,US,Statewide
+Wawa,697,38.467355,-77.411733,1,rooftop,105,Garrisonville Rd,Stafford,VA,Stafford County,22554,US,Stafford
+Sheetz,336,41.233185,-77.019907,1,rooftop,105,Maynard St,Williamsport,PA,Lycoming County,17701,US,Lycoming
+Sheetz,136,41.2266,-80.240305,1,rooftop,123,W Market St,Mercer,PA,Mercer County,16137,US,Mercer
+Wawa,8094,40.008437,-75.789252,1,rooftop,105,Reeceville Rd,Coatesville,PA,Chester County,19320,US,Chester
+Wawa,236,40.035697,-75.516149,1,rooftop,115,W King St,Malvern,PA,Chester County,19355,US,Chester
+Wawa,8068,39.967629,-75.576218,1,rooftop,4,S Five Points Rd,West Chester,PA,Chester County,19382,US,Chester
+Wawa,593,39.027272,-76.916741,1,rooftop,10440,Rhode Island Ave,Beltsville,MD,Prince George's County,20705,US,Prince Georges
+Wawa,156,40.138373,-75.212304,0.99,nearest_street,111,N Bethlehem Pike,Fort Washington,PA,Montgomery County,19034,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,562,40.834966,-77.671226,1,rooftop,106,Savannah Ln,Centre Hall,PA,Centre County,16828,US,Centre
+Sheetz,62,39.650834,-78.911617,0.99,rooftop,351,E Main St,Frostburg,MD,Allegany County,21532,US,Allegany
+Wawa,663,38.247598,-77.515071,1,rooftop,10630,Courthouse Rd,Fredericksburg,VA,Spotsylvania County,22407,US,Virginia Geographic Information Network (VGIN)
+Sheetz,454,35.692818,-79.796879,1,rooftop,1064,E Dixie Dr,Asheboro,NC,Randolph County,27203,US,Randolph
+Sheetz,75,41.064881,-80.056892,1,rooftop,156,N Main St,Slippery Rock,PA,Butler County,16057,US,Butler
+Sheetz,525,35.846919,-78.836095,0.99,rooftop,10700,Chapel Hill Rd,Morrisville,NC,Wake County,27560,US,Cary
+Wawa,919,40.127563,-74.705898,1,rooftop,1076,Us Highway 206,Bordentown,NJ,Burlington County,08505,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,485,36.096769,-78.296923,1,rooftop,108,S Bickett Blvd,Louisburg,NC,Franklin County,27549,US,Franklin
+Wawa,779,39.85202,-75.125301,1,rooftop,1080,Delsea Dr,Westville,NJ,Gloucester County,08093,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,167,39.693242,-78.79034,1,rooftop,10710,Kreighbaum Rd NW,Cumberland,MD,Allegany County,21502,US,Allegany
+Wawa,5258,27.485798,-82.434669,1,rooftop,10807,Sr 64 E,Bradenton,FL,Manatee County,34211,US,Manatee
+Wawa,118,40.018863,-75.67854,1,rooftop,1083,E Lancaster Ave,Downingtown,PA,Chester County,19335,US,Chester
+Sheetz,601,36.687244,-80.886663,1,rooftop,1084,E Stuart Dr,Galax,VA,Galax city,24333,US,Virginia Geographic Information Network (VGIN)
+Wawa,966,39.462597,-75.207201,1,rooftop,1090,State Highway 77,Bridgeton,NJ,Cumberland County,08302,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8047,40.111874,-75.023265,1,rooftop,10901,Bustleton Ave,Philadelphia,PA,Philadelphia County,19116,US,Philadelphia
+Wawa,5293,28.146861,-81.442872,0.99,rooftop,4651,Old Pleasant Hill Rd,Kissimmee,FL,Osceola County,34759,US,Osceola
+Wawa,272,40.417693,-75.343342,1,rooftop,1095,S West End Blvd,Quakertown,PA,Bucks County,18951,US,Bucks
+Sheetz,191,40.221537,-77.162948,1,rooftop,1098,Harrisburg Pike,Carlisle,PA,Cumberland County,17013,US,Cumberland
+Sheetz,23,40.010919,-78.373541,1,rooftop,14,W Main St,Everett,PA,Bedford County,15537,US,Bedford
+Wawa,771,39.252226,-74.613304,1,rooftop,3408-30,Haven Ave,Ocean City,NJ,Cape May County,08226,US,Cape May
+Sheetz,659,35.639145,-78.844652,1,rooftop,1100,Avent Ferry Rd,Holly Springs,NC,Wake County,27540,US,Wake
+Sheetz,3,40.429248,-78.384518,1,rooftop,1004,1004 Blair St St,Hollidaysburg,PA,Blair County,16648,US,Blair
+Sheetz,217,40.845471,-79.881754,1,rooftop,1100,Center Ave,Butler,PA,Butler County,16001,US,Butler
+Wawa,823,39.631921,-75.660749,1,rooftop,1110,Pulaski Hwy,Bear,DE,New Castle County,19701,US,New Castle
+Sheetz,639,41.126703,-80.767924,1,rooftop,1101,N Canfield Niles Rd,Youngstown,OH,Mahoning County,44515,US,Mahoning
+Sheetz,343,41.43745,-75.619641,1,rooftop,1101,Oneill Hwy,Scranton,PA,Lackawanna County,18512,US,Lackawanna
+Sheetz,643,39.263099,-81.544253,1,rooftop,1110,7th St,Parkersburg,WV,Wood County,26101,US,Statewide
+Wawa,670,37.36418,-77.497448,1,rooftop,11021,Iron Bridge Rd,Chester,VA,Chesterfield County,23831,US,Virginia Geographic Information Network (VGIN)
+Wawa,659,37.505526,-77.600834,1,rooftop,11021,Midlothian Tpke,Richmond,VA,Chesterfield County,23235,US,Virginia Geographic Information Network (VGIN)
+Wawa,5200,26.617772,-81.770137,1,rooftop,11031,Colonial Blvd,Fort Myers,FL,Lee County,33913,US,Lee
+Wawa,5316,28.080285,-80.603351,1,rooftop,1206,Strawbridge Ave E,Melbourne,FL,Brevard County,32901,US, Loveland
+Wawa,8615,37.648535,-77.58995,1,rooftop,11052,W Broad St,Glen Allen,VA,Henrico County,23060,US,Henrico
+Sheetz,84,41.395099,-79.827137,1,rooftop,1107,Liberty St,Franklin,PA,Venango County,16323,US,Venango
+Sheetz,363,41.485329,-75.6946,1,rooftop,1109,Northern Blvd,Clarks Summit,PA,Lackawanna County,18411,US,Lackawanna
+Sheetz,92,40.199906,-79.922243,0.99,nearest_street,109,State Rte 88,Monongahela,PA,Washington County,15063,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,284,39.896748,-80.161765,1,rooftop,111,E Roy Furman Hw,Waynesburg,PA,Greene County,15370,US,Greene
+Wawa,8048,39.883713,-75.32929,0.98,nearest_street,104,Morton Ave,Folsom,PA,Delaware County,19033,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,198,38.866776,-78.518705,1,rooftop,111,W Reservoir Rd,Woodstock,VA,Shenandoah County,22664,US,Virginia Geographic Information Network (VGIN)
+Wawa,732,39.911656,-74.997276,1,rooftop,1110,State Highway 70,Cherry Hill,NJ,Camden County,08034,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,451,39.785548,-77.706305,1,rooftop,805,Buchanan Trl E,Greencastle,PA,Franklin County,17225,US,Franklin
+Wawa,6001,38.904417,-77.04296,1,rooftop,1111,19th St NW,Washington,DC,District of Columbia,20036,US,City of Washington
+Wawa,8067,40.311627,-75.634064,0.98,nearest_street,,Pa 100,Boyertown,PA,Montgomery County,19512,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8637,38.737141,-77.532118,1,rooftop,11111,Nokesville Rd,Manassas,VA,Prince William County,20110,US,Virginia Geographic Information Network (VGIN)
+Wawa,960,39.927057,-74.953862,1,rooftop,1115,State Highway 73,Mount Laurel,NJ,Burlington County,08054,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,461,39.331425,-74.591868,1,rooftop,112,New Rd,Linwood,NJ,Atlantic County,08221,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,216,40.10518,-75.344773,0.99,nearest_street,430,Mill St,Bridgeport,PA,Montgomery County,19405,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,933,40.083936,-74.266854,1,rooftop,1120,E Veterans Hwy,Jackson,NJ,Ocean County,08527,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5123,28.246664,-81.256775,1,rooftop,1125,E Irlo Bronson Memorial Hwy,Saint Cloud,FL,Osceola County,34769,US,MapWise (and individual Florida counties)
+Sheetz,158,40.595649,-77.579905,1,rooftop,71,N Juniata St Suite A & B,Lewistown,PA,Mifflin County,17044,US,Mifflin
+Sheetz,438,39.30274,-77.815243,1,rooftop,1130,Marlow Rd,Charles Town,WV,Jefferson County,25414,US,Jefferson
+Sheetz,492,36.046971,-79.394664,1,rooftop,128,E Moore St,Graham,NC,Alamance County,27253,US,NC Geographic Information Coordinating Council
+Wawa,148,40.211325,-75.186019,0.98,nearest_street,1140,Limekiln Pike,Ambler,PA,Montgomery County,19002,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,660,38.297256,-77.513588,1,rooftop,1140,Carl D Silver Pkwy,Fredericksburg,VA,Fredericksburg city,22401,US,Virginia Geographic Information Network (VGIN)
+Sheetz,307,38.239378,-77.149247,1,rooftop,11449,Kings Hwy,King George,VA,King George County,22485,US,Virginia Geographic Information Network (VGIN)
+Wawa,8060,40.139662,-75.172842,0.98,nearest_street,1289,Virginia Dr,Fort Washington,PA,Montgomery County,19034,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8645,36.861237,-76.209482,1,rooftop,1146,N Military Hwy,Norfolk,VA,Norfolk city,23502,US,City of Norfolk
+Sheetz,48,40.450347,-78.838039,0.99,rooftop,115,Pace St,Nanty-Glo,PA,Cambria County,15943,US,Cambria
+Wawa,565,38.629883,-76.918912,1,rooftop,11505,Berry Rd,Waldorf,MD,Charles County,20603,US,Statewide
+Wawa,5107,28.053235,-82.426962,1,rooftop,11510,N 30th St,Tampa,FL,Hillsborough County,33612,US,Hillsborough County
+Wawa,317,39.876911,-75.111265,1,rooftop,1177,W Browning Rd,Bellmawr,NJ,Camden County,08031,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,236,40.063271,-76.542205,1,rooftop,1158,River Rd,Marietta,PA,Lancaster County,17547,US,Lancaster
+Wawa,997,40.029319,-74.143854,1,rooftop,116,Brick Blvd,Brick,NJ,Ocean County,08723,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,591,39.635212,-78.845498,1,nearest_street,,I 68,Cumberland,MD,Allegany County,21502,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,282,41.225162,-80.740696,1,rooftop,1162,Niles Cortland Rd SE,Warren,OH,Trumbull County,44484,US,Trumbull
+Sheetz,630,38.732643,-77.544787,1,rooftop,11627,Nokesville Rd,Bristow,VA,Prince William County,20136,US,Prince William
+Wawa,939,39.98839,-74.147401,1,rooftop,1166,Fischer Blvd,Toms River,NJ,Ocean County,08753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,270,41.072492,-75.702301,1,nearest_street,,I 476,White Haven,PA,Carbon County,18661,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,400,41.427853,-78.559346,1,rooftop,117,S Michael St,Saint Marys,PA,Elk County,15857,US,Elk
+Wawa,866,39.663351,-75.60774,1,rooftop,117,S Dupont Hwy,New Castle,DE,New Castle County,19720,US,New Castle
+Wawa,692,37.36752,-77.416473,1,rooftop,11701,Jefferson Davis Hwy,Chester,VA,Chesterfield County,23831,US,Virginia Geographic Information Network (VGIN)
+Sheetz,590,38.478983,-77.474373,1,rooftop,1183,Garrisonville Rd,Stafford,VA,Stafford County,22556,US,Virginia Geographic Information Network (VGIN)
+Wawa,5145,28.597349,-81.214591,1,rooftop,11750,University Blvd,Orlando,FL,Orange County,32817,US,Orange County
+Wawa,5282,28.927187,-82.03766,1,rooftop,11732,N US 301,Oxford,FL,Sumter County,34484,US,Sumter
+Sheetz,579,38.783594,-77.519962,1,rooftop,11774,Sudley Manor Dr,Manassas,VA,Prince William County,20109,US,Virginia Geographic Information Network (VGIN)
+Sheetz,60,40.007361,-79.083031,1,rooftop,301,W Patriot St,Somerset,PA,Somerset County,15501,US,Somerset
+Sheetz,421,40.058582,-76.318368,1,rooftop,1160,Manheim Pike,Lancaster,PA,Lancaster County,17601,US,Lancaster
+Wawa,948,39.960856,-74.391584,1,rooftop,1180,State Highway 70,Whiting,NJ,Ocean County,08759,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5201,27.623115,-80.389015,1,rooftop,1190,Us Highway 1,Vero Beach,FL,Indian River County,32960,US, Loveland
+Wawa,911,40.43335,-74.182068,1,rooftop,1181,State Highway 36,Hazlet,NJ,Monmouth County,07730,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5264,30.286413,-81.509672,1,rooftop,11812,Beach Blvd,Jacksonville,FL,Duval County,32224,US,Duval
+Sheetz,179,40.021214,-79.077711,1,rooftop,1177,N Center Ave,Somerset,PA,Somerset County,15501,US,Somerset
+Wawa,8018,40.269052,-75.254682,0.98,nearest_street,1941,Walnut St,Colmar,PA,Montgomery County,18915,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,493,36.394809,-80.72184,1,rooftop,201,S Main St,Dobson,NC,Surry County,27017,US,NC Geographic Information Coordinating Council
+Wawa,8112,39.951848,-75.159471,1,rooftop,1150-98,Market St,Philadelphia,PA,Philadelphia County,19107,US,Philadelphia
+Sheetz,199,39.823282,-76.997212,1,rooftop,1191,Carlisle St,Hanover,PA,York County,17331,US,York
+Wawa,81,39.990711,-75.615829,1,rooftop,1195,Pottstown Park,West Chester,PA,Chester County,19380,US,Chester
+Wawa,8033,40.047626,-75.662854,1,rooftop,551,W Uwchlan Ave,Downingtown,PA,Chester County,19335,US,Chester
+Wawa,5287,29.209793,-81.022723,1,rooftop,120,S Ridgewood Ave,Daytona Beach,FL,Volusia County,32114,US,Volusia
+Wawa,8024,40.132091,-75.537141,1,rooftop,120,Schuylkill Rd,Phoenixville,PA,Chester County,19460,US,Chester
+Sheetz,475,40.784192,-77.831755,1,rooftop,120,Southridge Plz,State College,PA,Centre County,16801,US,Centre
+Wawa,8636,36.827446,-76.339901,0.99,rooftop,3109,Scott St,Portsmouth,VA,Portsmouth city,23707,US,Virginia Geographic Information Network (VGIN)
+Sheetz,581,41.773269,-76.416547,0.96,nearest_street,5675,T617,Wysox,PA,Bradford County,18854,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8357,40.228197,-74.665123,1,rooftop,1170,State Highway 33,Trenton,NJ,Mercer County,08690,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5150,28.552699,-81.396352,1,rooftop,1200,W Colonial Dr,Orlando,FL,Orange County,32804,US,Orange County
+Sheetz,277,40.634078,-80.059311,1,rooftop,12000,Perry Hwy,Wexford,PA,Allegheny County,15090,US,Allegheny
+Wawa,566,38.426355,-75.056563,1,rooftop,12001,Coastal Hwy,Ocean City,MD,Worcester County,21842,US,Statewide
+Wawa,657,37.40504,-77.665047,1,rooftop,12001,Southshore Pointe Dr,Midlothian,VA,Chesterfield County,23112,US,Virginia Geographic Information Network (VGIN)
+Wawa,8110,40.106918,-75.000248,1,rooftop,12004,E Roosevelt Blv,Philadelphia,PA,Philadelphia County,19116,US,Philadelphia
+Wawa,371,39.625434,-74.342457,1,rooftop,1201,County Route 539,Tuckerton,NJ,Ocean County,08087,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,415,35.583119,-77.311071,1,rooftop,1201,Portertown Rd,Greenville,NC,Pitt County,27858,US,Pitt
+Wawa,5206,28.527966,-81.309865,1,rooftop,1201,S Semoran Blvd,Orlando,FL,Orange County,32807,US,Orange County
+Wawa,5334,28.189648,-82.616236,1,rooftop,12048,State Road 54,Odessa,FL,Pasco County,33556,US,Pasco
+Sheetz,614,40.139392,-76.382154,1,rooftop,1205,Lancaster Rd,Manheim,PA,Lancaster County,17545,US,Lancaster
+Wawa,5155,28.390485,-81.405074,1,rooftop,2004,Pepper Mill Blvd,Orlando,FL,Orange County,32837,US,Orange County
+Wawa,8631,37.100486,-76.492317,1,rooftop,12093,Jefferson Ave,Newport News,VA,Newport News city,23606,US,City of Newport News
+Wawa,470,39.190309,-74.821072,1,rooftop,1180,Nj Rt 47 Hwy,Woodbine,NJ,Cape May County,08270,US,Cape May
+Sheetz,317,41.119629,-81.485006,1,rooftop,1210,Main St,Cuyahoga Falls,OH,Summit County,44221,US,Summit
+Sheetz,300,37.283169,-79.933345,1,rooftop,1304,Williamson Rd NE,Roanoke,VA,Roanoke County,24012,US,Virginia Geographic Information Network (VGIN)
+Wawa,5176,27.928692,-82.788233,1,rooftop,1215,N Missouri Ave,Largo,FL,Pinellas County,33770,US,Pinellas
+Sheetz,182,39.300236,-80.276881,1,rooftop,1220,Johnson Ave,Bridgeport,WV,Harrison County,26330,US,Statewide
+Wawa,6003,38.905872,-77.063187,1,rooftop,1222,Wisconsin Ave NW,Washington,DC,District of Columbia,20007,US,City of Washington
+Sheetz,261,37.305203,-79.307637,1,rooftop,12259,E Lynchburg Salem Tpke,Forest,VA,Bedford County,24551,US,Virginia Geographic Information Network (VGIN)
+Sheetz,411,35.995099,-80.266911,1,rooftop,12292,N Nc Hwy 150,Winston Salem,NC,Davidson County,27127,US,Davidson
+Wawa,974,39.76033,-75.305125,0.99,rooftop,117,Paulsboro Rd,Swedesboro,NJ,Gloucester County,08085,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8035,40.095614,-74.976963,1,rooftop,12291,Academy Rd,Philadelphia,PA,Philadelphia County,19154,US,Philadelphia
+Wawa,5161,28.566328,-81.195447,1,rooftop,12315,E Colonial Dr,Orlando,FL,Orange County,32826,US,Orange County
+Sheetz,344,41.262841,-75.816541,0.98,nearest_street,79,Jumper Rd,Wilkes-Barre,PA,Luzerne County,18702,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,315,37.745872,-77.471792,1,rooftop,12341,Washington Hw,Ashland,VA,Hanover County,23005,US,Virginia Geographic Information Network (VGIN)
+Sheetz,380,36.069297,-79.270064,1,rooftop,1301,Mebane Oaks Rd,Mebane,NC,Alamance County,27302,US,Alamance
+Sheetz,149,41.118825,-78.759438,1,rooftop,24,E Park Ave,Dubois,PA,Clearfield County,15801,US,Clearfield
+Sheetz,319,41.305845,-75.933123,0.99,nearest_street,44,N Memorial Hwy,Shavertown,PA,Luzerne County,18708,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,184,39.652472,-77.800709,0.99,rooftop,12404,Lager Dr,Hagerstown,MD,Washington County,21740,US,Statewide
+Wawa,142,40.173515,-74.792933,1,rooftop,1244,Old Route 13,Morrisville,PA,Bucks County,19067,US,Bucks
+Sheetz,405,35.801722,-80.905155,1,nearest_street,,I 40,Statesville,NC,Iredell County,28625,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,171,39.153225,-80.04137,1,rooftop,149,N Main St,Philippi,WV,Barbour County,26416,US,Statewide
+Sheetz,302,38.133612,-79.043355,1,rooftop,1250,Richmond Ave,Staunton,VA,Augusta County,24401,US,City of Staunton
+Wawa,728,39.275668,-74.58255,1,rooftop,1242,West Ave,Ocean City,NJ,Cape May County,08226,US,Cape May
+Wawa,556,38.338426,-75.119463,1,rooftop,12502,Ocean Gtwy,Ocean City,MD,Worcester County,21842,US,Statewide
+Wawa,696,37.66348,-77.649871,1,rooftop,12564,Broad Street Rd,Richmond,VA,Goochland County,23233,US,Virginia Geographic Information Network (VGIN)
+Sheetz,192,39.083753,-78.084053,1,rooftop,12582,Lord Fairfax Hwy,Boyce,VA,Clarke County,22620,US,Clarke
+Wawa,8510,39.39658,-76.575124,1,rooftop,1300,E Joppa Rd,Towson,MD,Baltimore County,21286,US,Baltimore
+Wawa,8114,39.934274,-75.391864,0.98,nearest_street,21,Kirk Ln,Media,PA,Delaware County,19063,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8624,37.253347,-77.383997,0.99,rooftop,457,Charles H Dimmock Pkwy,Colonial Heights,VA,Colonial Heights city,23834,US,Virginia Geographic Information Network (VGIN)
+Sheetz,497,40.272524,-78.459629,1,rooftop,116,,,,,16628,US,Blair
+Wawa,5169,26.55768,-81.871,1,rooftop,12701,S Cleveland Ave,Fort Myers,FL,Lee County,33907,US,MapWise (and individual Florida counties)
+Wawa,306,40.403253,-74.648887,1,rooftop,1273,Van Horne Rd,Skillman,NJ,Somerset County,08558,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5147,27.879758,-82.815472,1,rooftop,12750,Walsingham Rd,Largo,FL,Pinellas County,33774,US,Pinellas
+Sheetz,168,39.410471,-79.001503,1,rooftop,1336,New Creek Hwy,Keyser,WV,Mineral County,26726,US,Statewide
+Sheetz,529,40.969963,-81.35546,1,rooftop,801,Edison St NW,Hartville,OH,Stark County,44632,US,Stark
+Sheetz,58,41.208576,-79.367871,0.98,nearest_street,1282,Us Hwy 322,Clarion,PA,Clarion County,16214,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,357,40.493722,-81.473107,1,rooftop,110,Bluebell Dr NW,New Philadelphia,OH,Tuscarawas County,44663,US,Tuscarawas
+Sheetz,587,40.79481,-77.859379,1,rooftop,131,S Pugh St,State College,PA,Centre County,16801,US,Centre
+Wawa,5184,28.532792,-82.513244,1,rooftop,12984,Cortez Blvd,Brooksville,FL,Hernando County,34613,US,Hernando
+Sheetz,228,40.448454,-76.93142,1,rooftop,13,S River Rd,Halifax,PA,Dauphin County,17032,US,Dauphin
+Wawa,710,39.395231,-75.041662,1,rooftop,13,W Main St,Millville,NJ,Cumberland County,08332,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,509,36.086606,-79.805926,1,rooftop,1300,Battleground Ave,Greensboro,NC,Guilford County,27408,US,NC Geographic Information Coordinating Council
+Wawa,8113,39.950408,-75.162062,1,rooftop,1300-6,Chestnut St,Philadelphia,PA,Philadelphia County,19107,US,Philadelphia
+Sheetz,249,39.406762,-77.388038,1,rooftop,1300,E Patrick St,Frederick,MD,Frederick County,21701,US,Frederick County
+Wawa,8071,40.10785,-75.319655,0.98,nearest_street,1320,E Ridge Pike,Plymouth Meeting,PA,Montgomery County,19462,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,207,40.005347,-75.102834,1,rooftop,1300-14,E Erie Ave,Philadelphia,PA,Philadelphia County,19124,US,Philadelphia
+Wawa,8635,37.561973,-77.376781,1,rooftop,1300,N Laburnum Ave,Richmond,VA,Henrico County,23223,US,Virginia Geographic Information Network (VGIN)
+Wawa,8313,40.675039,-75.140415,0.99,rooftop,1396,Us Highway 22,Phillipsburg,NJ,Warren County,08865,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8360,40.263169,-74.802864,1,rooftop,1300,Silvia Rd,Trenton,NJ,Mercer County,08628,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,443,38.302609,-80.834473,1,rooftop,1300,Wal St,Summersville,WV,Nicholas County,26651,US,Statewide
+Wawa,967,39.796031,-75.038621,0.99,rooftop,1324,Little Gloucester Rd,Blackwood,NJ,Camden County,08012,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,347,39.973328,-74.847073,1,rooftop,1301,State Highway 38,Hainesport,NJ,Burlington County,08036,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5175,27.796769,-82.334085,1,rooftop,13026,S Us Highway 301,Riverview,FL,Hillsborough County,33579,US,Hillsborough County
+Sheetz,401,39.737912,-77.527006,1,rooftop,11542,Buchanan Trl E,Waynesboro,PA,Franklin County,17268,US,Franklin
+Sheetz,595,38.783952,-77.564805,1,rooftop,13039,Balls Ford Rd,Manassas,VA,Prince William County,20109,US,Virginia Geographic Information Network (VGIN)
+Sheetz,424,38.435671,-82.123629,1,rooftop,1304,Johns Creek Rd,Milton,WV,Cabell County,25541,US,Statewide
+Wawa,929,40.215857,-74.126141,1,rooftop,1310,Sr 34,Farmingdale,NJ,Monmouth County,07727,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,977,39.58568,-74.223584,1,rooftop,5,E Pennsylvania Ave,Beach Haven,NJ,Ocean County,08008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,76,39.928,-77.62959,1,rooftop,1315,Lincoln Way E,Chambersburg,PA,Franklin County,17202,US,Franklin
+Wawa,778,39.887734,-75.111473,1,rooftop,1313,Market St,Gloucester City,NJ,Camden County,08030,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8020,40.179463,-74.870682,1,rooftop,132,Oxford Valley Rd,Langhorne,PA,Bucks County,19047,US,Bucks
+Sheetz,133,40.685823,-80.105912,1,rooftop,1329,Freedom Rd,Cranberry Twp,PA,Butler County,16066,US,Butler
+Sheetz,10,40.494661,-78.016322,1,rooftop,1322,Moore St,Huntingdon,PA,Huntingdon County,16652,US,Huntingdon
+Wawa,5286,27.853122,-82.269914,1,rooftop,13323,Boyette Rd,Riverview,FL,Hillsborough County,33569,US,Hillsborough County
+Wawa,661,38.658836,-77.300009,1,rooftop,13355,Minnieville Rd,Woodbridge,VA,Prince William County,22192,US,Prince William
+Sheetz,407,36.959461,-81.095618,1,rooftop,1340,N 4th St,Wytheville,VA,Wythe County,24382,US,Virginia Geographic Information Network (VGIN)
+Sheetz,586,35.91784,-80.057879,1,rooftop,1340,National Hwy,Thomasville,NC,Davidson County,27360,US,NC Geographic Information Coordinating Council
+Sheetz,333,37.289174,-80.07939,1,rooftop,1340,W Main St,Salem,VA,Roanoke County,24153,US,City of Salem
+Sheetz,479,35.51603,-78.578622,1,rooftop,13433,Nc Hwy 210,Benson,NC,Johnston County,27504,US,Johnston
+Wawa,8329,40.209106,-74.026233,1,rooftop,200,Highway 35 So,Neptune,NJ,Monmouth County,07753,US,Monmouth
+Sheetz,491,37.979448,-78.209949,1,rooftop,135,Market St,Louisa,VA,Louisa County,23093,US,Louisa
+Wawa,8319,40.048474,-74.211355,0.99,rooftop,135,State Highway 70,Lakewood,NJ,Ocean County,08701,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5210,28.551431,-81.583872,1,rooftop,13501,W Colonial Dr,Winter Garden,FL,Orange County,34787,US,Orange County
+Sheetz,445,40.802534,-79.486141,1,rooftop,13512,State Route 422,Kittanning,PA,Armstrong County,16201,US,Armstrong
+Wawa,5132,28.365694,-81.382449,1,rooftop,13585,S Orange Ave,Orlando,FL,Orange County,32824,US,Orange County
+Sheetz,180,39.340633,-78.755237,1,rooftop,157,Gravel,Romney,WV,Hampshire County,26757,US,Statewide
+Sheetz,313,40.345414,-79.76509,0.99,nearest_street,89,Carpenter Ln,Irwin,PA,Westmoreland County,15642,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,35,40.436654,-78.413323,1,rooftop,1371,1371 Plank Rd Rd,Duncansville,PA,Blair County,16635,US,Blair
+Sheetz,96,41.424345,-78.730188,1,rooftop,138,N Broad St,Ridgway,PA,Elk County,15853,US,Elk
+Sheetz,127,40.601405,-78.709846,1,rooftop,139,S Main St,Carrolltown,PA,Cambria County,15722,US,Cambria
+Wawa,5186,28.662712,-81.346137,1,rooftop,1390,E Altamonte Dr,Altamonte Springs,FL,Seminole County,32701,US,MapWise (and individual Florida counties)
+Sheetz,262,39.612633,-77.73021,1,rooftop,1396,S Potomac St,Hagerstown,MD,Washington County,21740,US,Statewide
+Wawa,790,40.351371,-74.07583,1,rooftop,14,N Bridge Ave,Red Bank,NJ,Monmouth County,07701,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,857,39.641289,-75.625658,1,rooftop,1400,Beaver Brook Plz,New Castle,DE,New Castle County,19720,US,New Castle
+Sheetz,15,40.675762,-78.236602,1,rooftop,10,W 10 W 14th St St,Tyrone,PA,Blair County,16686,US,Blair
+Sheetz,512,36.0934,-80.062093,1,rooftop,1400,66 South Hwy,Kernersville,NC,Forsyth County,27284,US,NC Geographic Information Coordinating Council
+Wawa,744,39.726869,-74.291154,1,rooftop,1400,State Highway 72,Manahawkin,NJ,Ocean County,08050,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,79,40.24427,-75.33917,0.97,nearest_street,1600,Sumneytown Pike,Lansdale,PA,Montgomery County,19446,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,597,38.87004,-76.850707,1,rooftop,1401,Hampton Park Blvd,Capitol Heights,MD,Prince George's County,20743,US,Prince Georges
+Sheetz,574,40.199435,-76.754686,1,rooftop,1401,W Harrisburg Pke,Middletown,PA,Dauphin County,17057,US,Dauphin
+Sheetz,416,35.839639,-78.324773,1,rooftop,1406,N Arendell Ave,Zebulon,NC,Wake County,27597,US,NC Geographic Information Coordinating Council
+Sheetz,146,41.246894,-78.786911,0.99,nearest_street,1398,Us Hwy 219,Brockway,PA,Jefferson County,15824,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,482,37.804623,-81.182553,1,rooftop,1408,N Eisenhower Dr,Beckley,WV,Raleigh County,25801,US,Statewide
+Wawa,232,40.131901,-75.011542,1,rooftop,14101,Bustleton Ave,Philadelphia,PA,Philadelphia County,19116,US,Philadelphia
+Wawa,775,39.669151,-74.973999,1,rooftop,1445,S Black Horse Pike,Williamstown,NJ,Gloucester County,08094,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,298,39.900506,-75.562972,0.98,nearest_street,,Us 202,West Chester,PA,Delaware County,19380,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,431,40.891407,-81.419395,1,rooftop,1400,Pittsburg Ave NW,Canton,OH,Stark County,44720,US,Stark
+Sheetz,201,40.192944,-76.991549,1,rooftop,1423,S Market St,Mechanicsburg,PA,Cumberland County,17055,US,Cumberland
+Wawa,295,40.20847,-75.661487,1,rooftop,1417,S Hanover St,Pottstown,PA,Chester County,19465,US,Chester
+Wawa,599,39.440233,-76.345864,1,rooftop,1419,S Mountain Rd,Joppa,MD,Harford County,21085,US,Harford
+Sheetz,252,41.03363,-78.405041,1,rooftop,14191,Clearfield Shawville Hwy,Clearfield,PA,Clearfield County,16830,US,Clearfield
+Wawa,452,38.946765,-74.909157,1,rooftop,1426-1428,Texas Ave,Cape May,NJ,Cape May County,08204,US,Cape May
+Wawa,87,40.59993,-75.401479,1,rooftop,1429,Broadway,Bethlehem,PA,Lehigh County,18015,US,Lehigh
+Sheetz,325,37.271792,-80.036595,1,rooftop,1507,Apperson Dr,Salem,VA,Roanoke County,24153,US,City of Salem
+Sheetz,247,40.485327,-75.837695,1,rooftop,14350,Kutztown Rd,Fleetwood,PA,Berks County,19522,US,Berks
+Wawa,7,39.825758,-75.421634,0.98,nearest_street,1426,Market St,Marcus Hook,PA,Delaware County,19061,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,440,37.369689,-79.302175,1,rooftop,14449,Forest Rd,Forest,VA,Bedford County,24551,US,Bedford
+Wawa,651,38.792556,-77.62248,1,rooftop,14461,Lee Hwy,Gainesville,VA,Prince William County,20155,US,Prince William
+Sheetz,265,37.325155,-79.190728,1,rooftop,14480,Wards Rd,Lynchburg,VA,Campbell County,24502,US,Campbell
+Sheetz,455,35.918944,-80.585475,1,rooftop,1449,Yadkinville Rd,Mocksville,NC,Davie County,27028,US,NC Geographic Information Coordinating Council
+Wawa,8058,40.093763,-75.365652,0.98,nearest_street,,Us 202,King of Prussia,PA,Montgomery County,19406,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,855,39.158177,-75.558982,1,rooftop,1462,Forrest Ave,Dover,DE,Kent County,19904,US,Kent
+Wawa,5185,27.431028,-82.394666,1,rooftop,14510,Sr 70 E,Bradenton,FL,Manatee County,34202,US,Manatee
+Wawa,940,40.390876,-74.339434,1,rooftop,1453,State Highway 18,Old Bridge,NJ,Middlesex County,08857,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5142,28.564739,-81.16659,1,rooftop,14548,E Colonial Dr,Orlando,FL,Orange County,32826,US,Orange County
+Sheetz,312,40.112286,-76.452457,1,rooftop,1555,E Main St,Mount Joy,PA,Lancaster County,17552,US,Lancaster
+Sheetz,496,40.270886,-78.857142,1,rooftop,1455,Scalp Ave,Johnstown,PA,Cambria County,15904,US,Cambria
+Sheetz,517,38.448383,-81.818097,1,rooftop,1439,Charleston Rd,Poca,WV,Putnam County,25159,US,Statewide
+Wawa,993,40.254899,-74.367795,1,rooftop,207,Woodward Rd,Englishtown,NJ,Monmouth County,07726,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,46,39.594446,-78.830572,1,rooftop,14610,McMullen Hwy SW,Cumberland,MD,Allegany County,21502,US,Statewide
+Sheetz,220,39.484368,-77.957006,1,rooftop,25,Administrative Dr,Martinsburg,WV,Berkeley County,25404,US,Statewide
+Sheetz,241,39.442355,-77.986137,1,rooftop,14686,Apple Harvest Dr,Martinsburg,WV,Berkeley County,25405,US,Statewide
+Wawa,656,37.136764,-76.546555,1,rooftop,14803,Warwick Blvd,Newport News,VA,Newport News city,23608,US,City of Newport News
+Sheetz,255,39.966845,-76.777613,1,rooftop,2208,Brougher Ln,Shiloh,PA,York County,17408,US,York
+Wawa,5187,28.348501,-81.233525,1,rooftop,14988,Narcoossee Rd,Saint Cloud,FL,Orange County,34771,US, Loveland
+Wawa,5126,28.008048,-81.730095,1,rooftop,1490,SW 3rd St,Winter Haven,FL,Polk County,33880,US,MapWise (and individual Florida counties)
+Wawa,689,38.473232,-77.436028,1,rooftop,15,Eustace Rd,Stafford,VA,Stafford County,22554,US,Virginia Geographic Information Network (VGIN)
+Wawa,8326,40.891348,-74.074508,1,nearest_street,,I 80,Lodi,NJ,Bergen County,07644,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8623,37.513036,-77.698917,1,rooftop,150,Pike View Dr,Midlothian,VA,Chesterfield County,23113,US,Virginia Geographic Information Network (VGIN)
+Wawa,8131,39.949503,-75.150984,1,rooftop,130,S Independence W Ml,Philadelphia,PA,Philadelphia County,19106,US,Philadelphia
+Sheetz,27,40.235021,-78.830848,1,rooftop,1444,Graham Ave,Windber,PA,Somerset County,15963,US,Somerset
+Sheetz,567,36.434414,-77.636985,1,rooftop,1500,Julian R Allsbrook Hwy,Roanoke Rapids,NC,Halifax County,27870,US,Halifax
+Wawa,8045,39.967314,-75.527379,1,rooftop,1501,W Chester Park,West Chester,PA,Chester County,19382,US,Chester
+Wawa,137,40.603516,-75.491086,1,rooftop,1501,W Gordon St,Allentown,PA,Lehigh County,18102,US,Lehigh
+Sheetz,186,39.209328,-78.179292,1,rooftop,1503,N Frederick Pike,Winchester,VA,Frederick County,22603,US,Virginia Geographic Information Network (VGIN)
+Sheetz,189,40.542074,-79.798174,1,rooftop,1512,Elkins St,Cheswick,PA,Allegheny County,15024,US,Allegheny
+Wawa,952,39.987787,-75.022205,1,rooftop,1505,State Highway 73,Pennsauken,NJ,Camden County,08110,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,458,37.359156,-81.106321,1,rooftop,151,Courthouse Rd,Princeton,WV,Mercer County,24740,US,Statewide
+Wawa,291,40.046119,-75.406378,0.99,rooftop,670,Lancaster Ave,Wayne,PA,Chester County,19087,US,Chester
+Sheetz,627,37.191333,-77.365569,1,rooftop,151,Wagner Rd,Petersburg,VA,Petersburg city,23805,US,Virginia Geographic Information Network (VGIN)
+Wawa,285,40.211028,-75.13725,0.99,rooftop,1619,County Line Rd,Warminster,PA,Bucks County,18974,US,Bucks
+Wawa,8350,40.722972,-74.252533,1,rooftop,1505,Springfield Ave,Maplewood,NJ,Essex County,07040,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,963,39.023197,-74.934861,1,rooftop,1518,Main St,Villas,NJ,Cape May County,08251,US,Cape May
+Wawa,557,39.546223,-76.314146,1,rooftop,1515,E Churchville Rd,Bel Air,MD,Harford County,21014,US,Statewide
+Wawa,852,39.692773,-75.580246,1,rooftop,1515,N Dupont Hwy,New Castle,DE,New Castle County,19720,US,New Castle
+Sheetz,637,38.035258,-78.500544,1,rooftop,1517-19,University Ave,Charlottesville,VA,Albemarle County,22903,US,City of Charlottesville
+Sheetz,618,40.89574,-79.908253,1,rooftop,1518,N Main St Ext,Butler,PA,Butler County,16001,US,Butler
+Wawa,8331,40.343059,-74.661134,1,rooftop,99,Alexander St,Princeton,NJ,Mercer County,08540,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8040,40.243058,-75.614592,0.98,nearest_street,1576,Sunset Dr,Pottstown,PA,Montgomery County,19464,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,470,35.64171,-80.47554,1,rooftop,1500,S Jake Alexander Blvd,Salisbury,NC,Rowan County,28146,US,NC Geographic Information Coordinating Council
+Wawa,957,39.981895,-74.806329,1,rooftop,1522,State Highway 38,Lumberton,NJ,Burlington County,08048,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,845,39.123019,-75.501218,1,rooftop,1525,E Lebanon Rd,Dover,DE,Kent County,19901,US,Kent
+Sheetz,446,40.338833,-80.598102,1,rooftop,1525,Main St,Follansbee,WV,Brooke County,26037,US,Statewide
+Sheetz,298,41.167524,-80.110199,1,rooftop,1526,W Main Street Ext,Grove City,PA,Mercer County,16127,US,Mercer
+Wawa,70,40.154807,-74.896415,1,rooftop,1528,Trenton Rd,Langhorne,PA,Bucks County,19047,US,Bucks
+Wawa,5211,26.690001,-80.074063,1,rooftop,1530,Belvedere Rd,West Palm Beach,FL,Palm Beach County,33406,US,Palm Beach County
+Sheetz,205,38.81472,-77.642898,1,rooftop,15315,Washington St,Haymarket,VA,Prince William County,20169,US,Prince William
+Sheetz,621,35.768421,-80.854734,1,rooftop,1532,Salisbury Hwy,Statesville,NC,Iredell County,28625,US,Alexander
+Wawa,346,39.806663,-75.095041,1,rooftop,1929,Ivanhoe Ave,Woodbury,NJ,Gloucester County,08096,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,45,40.074192,-74.960209,1,rooftop,1549,Eagle Rd,Bensalem,PA,Bucks County,19020,US,Bucks
+Wawa,8007,39.903808,-75.282525,0.98,nearest_street,1565,Us Hwy 13,Folcroft,PA,Delaware County,19032,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,288,40.355706,-76.987294,1,rooftop,1550,State Rd,Duncannon,PA,Perry County,17020,US,Perry
+Sheetz,578,36.069884,-80.112917,1,rooftop,1591,Glenn Center Dr,Kernersville,NC,Forsyth County,27284,US,Forsyth
+Wawa,5191,28.092907,-82.502978,1,rooftop,15524,N Dale Mabry Hy,Tampa,FL,Hillsborough County,33624,US, Loveland
+Wawa,5289,30.113416,-81.813301,1,rooftop,1563,Blanding Blvd,Middleburg,FL,Clay County,32068,US,Clay County
+Wawa,343,40.119545,-74.144137,1,rooftop,129,157 Newtons Corner Rd,Howell,NJ,Monmouth County,07731,US,Monmouth
+Sheetz,504,35.972335,-77.896566,1,rooftop,142,N Carriage Rd,Rocky Mount,NC,Nash County,27804,US,NC Geographic Information Coordinating Council
+Wawa,5149,27.915483,-82.728625,1,rooftop,15701,Us Highway 19 N,Clearwater,FL,Pinellas County,33764,US,Pinellas
+Sheetz,309,39.21536,-78.141033,1,rooftop,1544,Martinsburg Pike,Winchester,VA,Frederick County,22603,US,Virginia Geographic Information Network (VGIN)
+Sheetz,251,40.672992,-80.575826,1,rooftop,15762,St Clair Ave,East Liverpool,OH,Columbiana County,43920,US,Columbiana
+Wawa,679,36.795734,-76.102306,1,rooftop,1579,Lynnhaven Pkwy,Virginia Beach,VA,Virginia Beach city,23453,US,Virginia Geographic Information Network (VGIN)
+Wawa,680,38.609126,-77.290193,1,rooftop,15809,Jefferson Davis Hwy,Woodbridge,VA,Prince William County,22191,US,Prince William
+Wawa,8001,40.635714,-75.395226,1,rooftop,1584,8th Ave,Bethlehem,PA,Lehigh County,18018,US,Lehigh
+Wawa,684,37.305886,-77.409683,1,rooftop,15840,Jefferson Davis Hwy,Colonial Heights,VA,Chesterfield County,23834,US,Virginia Geographic Information Network (VGIN)
+Wawa,88,39.994058,-75.544845,1,rooftop,1594,Paoli Park,West Chester,PA,Chester County,19380,US,Chester
+Wawa,8324,39.310232,-74.601365,1,rooftop,110,Woodland Ave,Somers Point,NJ,Atlantic County,08244,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,615,39.910902,-76.70159,1,rooftop,163,Leader Heights Rd,York,PA,York County,17402,US,York
+Sheetz,399,35.855202,-78.796306,0.98,nearest_street,,Aviation Pkwy,Morrisville,NC,Wake County,27560,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8062,40.133514,-75.451471,0.98,nearest_street,16040,Egypt Rd,Norristown,PA,Montgomery County,19403,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,242,39.426334,-77.430912,1,rooftop,1600,Rosemont Ave,Frederick,MD,Frederick County,21702,US,Frederick County
+Wawa,763,39.952901,-74.15557,1,rooftop,1600,State Highway 37,Toms River,NJ,Ocean County,08753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8307,39.989798,-74.266037,0.99,rooftop,1600,State Highway 37,Toms River,NJ,Ocean County,08755,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5309,25.993936,-80.296366,1,rooftop,1600,S Hiatus Rd,Hollywood,FL,Broward County,33025,US,Broward
+Wawa,8651,37.397921,-77.708397,1,rooftop,7500,Otterdale Rd,Chesterfield,VA,Chesterfield County,23832,US,Virginia Geographic Information Network (VGIN)
+Wawa,21,40.106345,-75.214107,0.99,nearest_street,2,Weiss Ave,Flourtown,PA,Montgomery County,19031,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,563,38.895319,-79.846615,1,rooftop,4,Ferree Rd,Elkins,WV,Randolph County,26241,US,Statewide
+Wawa,273,40.228687,-75.315186,0.98,nearest_street,1407,S Valley Forge Rd,Lansdale,PA,Montgomery County,19446,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,191,39.926868,-75.145688,1,rooftop,1600,S Chris Columbus Blv,Philadelphia,PA,Philadelphia County,19148,US,Philadelphia
+Wawa,5121,28.378534,-81.687928,1,rooftop,16126,Greater Groves Blvd,Clermont,FL,Lake County,34714,US,Lake
+Wawa,5112,28.653964,-81.469016,1,rooftop,1607,S Orange Blossom Trl,Apopka,FL,Orange County,32703,US,Orange County
+Sheetz,155,39.463171,-77.987771,1,rooftop,1617,W King St,Martinsburg,WV,Berkeley County,25401,US,Statewide
+Wawa,5156,28.697121,-81.345102,1,rooftop,162,E Sr 434,Longwood,FL,Seminole County,32750,US,Seminole
+Sheetz,489,36.116912,-79.872743,1,rooftop,1638,New Garden Rd,Greensboro,NC,Guilford County,27410,US,City of Greensboro
+Wawa,5170,26.667063,-81.940412,1,rooftop,761,Del Prado Blvd N,Cape Coral,FL,Lee County,33909,US,MapWise (and individual Florida counties)
+Wawa,562,38.889107,-76.720159,1,rooftop,163,Robert Crain Hwy SE,Upper Marlboro,MD,Prince George's County,20774,US,Prince Georges
+Sheetz,589,35.593191,-78.598618,1,rooftop,16272,50 Hwy N,Garner,NC,Johnston County,27529,US,NC Geographic Information Coordinating Council
+Sheetz,636,36.063439,-79.818539,1,rooftop,1639,Spring Garden St,Greensboro,NC,Guilford County,27403,US,Guilford
+Wawa,580,38.664595,-76.87591,1,rooftop,16410,McKendree Rd,Brandywine,MD,Prince George's County,20613,US,Prince Georges
+Sheetz,225,39.999464,-78.238765,1,nearest_street,,I 70,Breezewood,PA,Bedford County,15533,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,508,36.351748,-79.69355,1,rooftop,1647,Freeway Dr,Reidsville,NC,Rockingham County,27320,US,NC Geographic Information Coordinating Council
+Sheetz,382,41.255578,-80.451554,1,rooftop,1640,N Hermitage Rd,Hermitage,PA,Mercer County,16148,US,Mercer
+Sheetz,368,40.974325,-81.463997,1,rooftop,1651,E Turkeyfoot Lake Rd,Akron,OH,Summit County,44312,US,Summit
+Sheetz,365,35.596953,-78.760146,1,rooftop,1655,N Main St,Fuquay-Varina,NC,Wake County,27526,US,NC Geographic Information Coordinating Council
+Wawa,547,39.653269,-75.790922,1,rooftop,1741,Elkton Rd,Elkton,MD,Cecil County,21921,US,Cecil
+Sheetz,337,41.622984,-80.204828,1,rooftop,16590,Conneaut Lake Rd,Meadville,PA,Crawford County,16335,US,Crawford
+Sheetz,100,40.539797,-78.354216,1,rooftop,1667,1667 Bellmeade Dr Dr,Altoona,PA,Blair County,16602,US,Blair
+Wawa,5198,27.71196,-82.334575,1,rooftop,16620,S Us Highway 301,Wimauma,FL,Hillsborough County,33598,US,Hillsborough County
+Sheetz,542,35.63304,-78.495118,1,rooftop,1671,42 Hwy W,Clayton,NC,Johnston County,27520,US,NC Geographic Information Coordinating Council
+Wawa,321,40.011563,-74.216902,1,rooftop,1680,Lakewood Rd,Toms River,NJ,Ocean County,08755,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,207,39.187276,-78.12579,1,rooftop,1683,Berryville Pike,Winchester,VA,Frederick County,22603,US,Virginia Geographic Information Network (VGIN)
+Sheetz,437,35.980937,-77.809575,1,rooftop,1621,Benvenue Rd,Rocky Mount,NC,Nash County,27804,US,NC Geographic Information Coordinating Council
+Wawa,844,39.619396,-75.694747,1,rooftop,1605,Pulaski Hwy,Bear,DE,New Castle County,19701,US,New Castle
+Sheetz,506,35.564902,-77.076328,1,rooftop,1695,W 5th St,Washington,NC,Beaufort County,27889,US,Beaufort
+Sheetz,257,40.069763,-76.301228,1,rooftop,1699,Oregon Pike,Lancaster,PA,Lancaster County,17601,US,Lancaster
+Wawa,961,39.760917,-75.361707,1,nearest_street,,I 295,Swedesboro,NJ,Gloucester County,08085,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,511,35.504683,-78.325717,1,rooftop,1700,E Market St,Smithfield,NC,Johnston County,27577,US,Johnston
+Wawa,767,39.839192,-74.99792,1,rooftop,1702,Burnt Mill Rd,Voorhees,NJ,Camden County,08043,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8608,36.843121,-76.021692,1,rooftop,1700,Virginia Beach Blvd,Virginia Beach,VA,Virginia Beach city,23454,US,Virginia Beach
+Sheetz,34,40.508271,-78.400426,0.99,nearest_street,640,17th St,Altoona,PA,Blair County,16602,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,872,39.825991,-75.545814,1,rooftop,1700,Rocky Run Pkwy,Wilmington,DE,New Castle County,19803,US,New Castle
+Wawa,86,39.955285,-75.168203,1,rooftop,100,N 17th St,Philadelphia,PA,Philadelphia County,19103,US,Philadelphia
+Wawa,5197,27.936864,-82.309672,1,rooftop,1609,W Brandon Bv,Brandon,FL,Hillsborough County,33511,US, Loveland
+Wawa,720,39.394321,-75.01722,0.99,rooftop,1711,E Main St,Millville,NJ,Cumberland County,08332,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,259,38.352825,-77.048231,1,rooftop,4460,James Madison Pkwy,King George,VA,King George County,22485,US,Virginia Geographic Information Network (VGIN)
+Sheetz,638,40.233281,-77.118434,1,rooftop,1760,Harrisburg Pike,Carlisle,PA,Cumberland County,17015,US,Cumberland
+Wawa,937,40.004529,-74.152029,1,rooftop,1725,Hooper Ave,Toms River,NJ,Ocean County,08753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,67,40.089767,-75.290746,0.98,nearest_street,1734,Butler Pike,Conshohocken,PA,Montgomery County,19428,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8081,39.895457,-75.315047,0.98,nearest_street,240,Kedron Ave,Folsom,PA,Delaware County,19033,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,5173,29.111718,-81.024843,1,rooftop,1740,Dunlawton Ave,Daytona Beach,FL,Volusia County,32127,US,Volusia
+Wawa,861,39.699936,-75.700536,1,rooftop,1750,Capitol Trl,Newark,DE,New Castle County,19711,US,New Castle
+Wawa,5183,27.995293,-82.477757,1,rooftop,1760,W Hillsborough Ave,Tampa,FL,Hillsborough County,33603,US,Hillsborough County
+Sheetz,390,41.15431,-81.330468,1,rooftop,1762,E Main St,Kent,OH,Portage County,44240,US,Portage
+Wawa,834,38.744045,-75.15388,1,rooftop,17663,Dartmouth Dr,Lewes,DE,Sussex County,19958,US,Sussex
+Wawa,934,40.424873,-74.287194,1,rooftop,177,State Highway 34,Matawan,NJ,Middlesex County,07747,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5223,26.650172,-80.088613,1,rooftop,1771,S Congress Ave,West Palm Beach,FL,Palm Beach County,33406,US,Palm Beach County
+Wawa,5222,29.01446,-80.940462,1,rooftop,1780,Sr 44,New Smyrna Beach,FL,Volusia County,32168,US,Volusia
+Sheetz,163,39.608582,-77.750543,1,rooftop,17807,Venture Dr,Hagerstown,MD,Washington County,21740,US,Statewide
+Sheetz,122,40.80915,-77.901263,1,rooftop,1781,N Atherton St,State College,PA,Centre County,16803,US,Centre
+Wawa,197,40.924445,-75.393551,1,rooftop,1781,Route 209,Brodheadsville,PA,Monroe County,18322,US,Monroe
+Wawa,995,39.962004,-74.185601,1,rooftop,821,Conifer St,Toms River,NJ,Ocean County,08753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,544,40.008753,-76.344098,1,rooftop,1790,Millersville Rd,Lancaster,PA,Lancaster County,17603,US,Lancaster
+Sheetz,86,40.326802,-78.951698,1,rooftop,177,Westgate Dr,Johnstown,PA,Cambria County,15905,US,Cambria
+Sheetz,426,40.199218,-77.153443,1,rooftop,1784,W Trindle Rd,Carlisle,PA,Cumberland County,17013,US,Cumberland
+Wawa,201,40.074798,-75.685904,1,rooftop,1800,Ticonderoga Bl,Chester Springs,PA,Chester County,19425,US,Chester
+Sheetz,290,37.903565,-76.865727,1,rooftop,1804,Tappahannock Blvd,Tappahannock,VA,Essex County,22560,US,Virginia Geographic Information Network (VGIN)
+Sheetz,566,35.854802,-80.071967,1,rooftop,1811,Liberty Dr,Thomasville,NC,Davidson County,27360,US,NC Geographic Information Coordinating Council
+Sheetz,541,35.938703,-79.995179,1,rooftop,1813,S Main St,High Point,NC,Guilford County,27260,US,Guilford
+Wawa,382,40.049545,-74.87133,0.99,rooftop,813,Sunset Rd,Burlington,NJ,Burlington County,08016,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,593,35.697643,-81.261216,1,rooftop,1819,Fairgrove Church Rd SE,Conover,NC,Catawba County,28613,US,Catawba
+Sheetz,466,39.905994,-77.647221,1,rooftop,1819,Wayne Rd,Chambersburg,PA,Franklin County,17202,US,Franklin
+Wawa,8311,39.906834,-74.973953,1,rooftop,25,Rockhill Rd,Cherry Hill,NJ,Camden County,08003,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,222,38.425407,-78.888973,1,rooftop,1801,S Main St,Harrisonburg,VA,Rockingham County,22801,US,Virginia Geographic Information Network (VGIN)
+Wawa,841,39.676795,-75.627425,1,rooftop,183,Airport Rd,New Castle,DE,New Castle County,19720,US,New Castle
+Sheetz,448,39.763427,-76.96101,1,rooftop,1801,Baltimore Pike,Hanover,PA,York County,17331,US,York
+Sheetz,153,41.619903,-80.1687,1,rooftop,18425,Smock Hwy,Meadville,PA,Crawford County,16335,US,Crawford
+Wawa,864,38.726101,-75.591617,1,rooftop,18586,Sussex Hwy,Bridgeville,DE,Sussex County,19933,US,Sussex
+Wawa,141,40.214928,-75.499726,0.98,nearest_street,1,Township Line Rd,Royersford,PA,Montgomery County,19468,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8019,40.177782,-75.459079,0.98,nearest_street,462,2nd Ave,Collegeville,PA,Montgomery County,19426,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,194,41.141317,-78.785238,1,rooftop,1867,Rich Hwy,Dubois,PA,Clearfield County,15801,US,Clearfield
+Sheetz,145,39.685097,-77.720406,1,rooftop,13527,Pennsylvania Ave,Hagerstown,MD,Washington County,21742,US,Statewide
+Wawa,267,40.096197,-74.943624,1,rooftop,1817,Hulmeville,Bensalem,PA,Bucks County,19020,US,Bucks
+Sheetz,598,35.610259,-78.806634,1,rooftop,1880,N Broad St,Fuquay-Varina,NC,Wake County,27526,US,City of Fuquay Varina
+Wawa,989,40.355775,-74.355068,1,rooftop,1886,Englishtown Rd,Old Bridge,NJ,Middlesex County,08857,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,505,35.950319,-78.508538,1,rooftop,1895,S Franklin St,Wake Forest,NC,Wake County,27587,US,NC Geographic Information Coordinating Council
+Wawa,293,39.926122,-75.31091,0.98,nearest_street,32,S Bishop Ave,Springfield,PA,Delaware County,19064,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8093,39.953095,-75.172449,1,rooftop,1900,Market St,Philadelphia,PA,Philadelphia County,19103,US,Philadelphia
+Sheetz,263,40.190478,-77.241306,1,rooftop,1900,Ritner Hwy,Carlisle,PA,Cumberland County,17013,US,Cumberland
+Sheetz,349,39.620119,-79.922624,1,rooftop,1904,Listravia,Morgantown,WV,Monongalia County,26505,US,Statewide
+Wawa,134,40.299481,-75.585158,0.98,nearest_street,2880,N Charlotte St,Gilbertsville,PA,Montgomery County,19525,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,5144,28.542605,-81.740455,1,rooftop,1909,Us Hwy 27,Clermont,FL,Lake County,34711,US,Lake
+Sheetz,464,39.638025,-77.696653,1,rooftop,1020,Professional Ct,Hagerstown,MD,Washington County,21740,US,Statewide
+Sheetz,500,40.553921,-80.116534,1,nearest_street,,I 79,Pittsburgh,PA,Allegheny County,15237,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,912,40.460954,-74.507648,1,rooftop,1910,State Highway 27,North Brunswick,NJ,Middlesex County,08902,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8361,40.008349,-74.972849,1,rooftop,1911,Taylors Ln,Riverton,NJ,Burlington County,08077,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,354,40.498524,-78.390626,0.99,rooftop,1915,1915 Valley View Blvd Blvd,Altoona,PA,Blair County,16602,US,Blair
+Sheetz,43,39.699965,-78.184091,1,rooftop,184,W Main St,Hancock,MD,Washington County,21750,US,Statewide
+Wawa,223,39.87068,-75.353135,0.98,nearest_street,274,Bullens Ln,Woodlyn,PA,Delaware County,19094,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,5181,28.186814,-82.740959,1,rooftop,1929,Us Highway 19,Holiday,FL,Pasco County,34691,US,Pasco
+Wawa,40,40.023145,-75.230564,0.99,nearest_street,202,Belmont Ave,Bala-Cynwyd,PA,Montgomery County,19004,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,299,41.144153,-80.156891,1,rooftop,1901,Butler Pike,Mercer,PA,Mercer County,16137,US,Mercer
+Wawa,8022,40.247039,-75.091291,0.99,rooftop,1600,Meyer Way,Jamison,PA,Bucks County,18929,US,Bucks
+Wawa,153,40.364553,-75.916421,1,rooftop,1900,N 11th St,Reading,PA,Berks County,19604,US,Berks
+Wawa,978,39.581788,-74.369022,1,rooftop,191,Mathistown Rd,Tuckerton,NJ,Ocean County,08087,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,370,40.304747,-76.423099,0.99,nearest_street,188,Rocherty Rd,Lebanon,PA,Lebanon County,17042,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,154,39.927058,-75.332923,0.99,nearest_street,183,Powell Rd,Springfield,PA,Delaware County,19064,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,66,40.010981,-75.295564,0.99,nearest_street,35,Woodside Rd,Ardmore,PA,Montgomery County,19003,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,480,39.846705,-75.183267,1,rooftop,496,Crown Point Rd,Thorofare,NJ,Gloucester County,08086,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,42,40.084589,-75.387737,0.98,nearest_street,116,S Gulph Rd,King of Prussia,PA,Montgomery County,19406,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8021,40.436242,-75.415234,0.99,rooftop,1950,John Fries Hwy,Quakertown,PA,Bucks County,18951,US,Bucks
+Sheetz,560,39.799397,-77.199275,1,rooftop,1978,Baltimore Pike,Gettysburg,PA,Adams County,17325,US,Adams
+Wawa,691,38.249639,-77.493064,1,rooftop,199,Falcon Dr,Fredericksburg,VA,Spotsylvania County,22408,US,Spotsylvania
+Wawa,353,39.915339,-74.826409,1,rooftop,199,Mt Holly Rd,Medford,NJ,Burlington County,08055,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,158,40.093019,-76.351601,1,rooftop,1990,Miller Rd,East Petersburg,PA,Lancaster County,17520,US,Lancaster
+Sheetz,647,36.056774,-79.079998,1,rooftop,1990,NC 86 S,Hillsborough,NC,Orange County,27278,US,Orange
+Sheetz,613,41.977236,-78.616745,1,rooftop,1002,E Main St,Bradford,PA,McKean County,16701,US,Mckean
+Wawa,750,39.640532,-75.516313,1,rooftop,2,Carroll Ave,Pennsville,NJ,Salem County,08070,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,25,39.943795,-75.591665,1,rooftop,2,E Rhodes Ave,West Chester,PA,Chester County,19382,US,Chester
+Wawa,8346,39.844456,-75.018298,1,rooftop,2,White Horse Pike,Somerdale,NJ,Camden County,08083,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,392,39.833101,-75.063028,1,rooftop,1791,Chews Landing Clementon Rd,Blackwood,NJ,Camden County,08012,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,497,39.603145,-74.340607,1,rooftop,20,E Main St,Tuckerton,NJ,Ocean County,08087,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,991,40.505556,-74.852108,1,rooftop,20,State Highway 31,Flemington,NJ,Hunterdon County,08822,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,516,39.333507,-80.239243,1,rooftop,20,Oakmont Ln,Bridgeport,WV,Harrison County,26330,US,Harrison
+Sheetz,338,37.496288,-77.547546,1,rooftop,20,S* Providence Rd,Richmond,VA,Chesterfield County,23235,US,Virginia Geographic Information Network (VGIN)
+Wawa,5242,26.317356,-80.119512,1,rooftop,20,SW 12th Ave,Deerfield Beach,FL,Broward County,33442,US,Broward
+Sheetz,311,41.027811,-81.527906,1,rooftop,20,W Waterloo Rd,Akron,OH,Summit County,44319,US,Summit
+Wawa,8050,40.262715,-75.318815,0.97,nearest_street,2374,W Main St,Lansdale,PA,Montgomery County,19446,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,196,40.110469,-74.838274,1,rooftop,200,Green Ln,Bristol,PA,Bucks County,19007,US,Bucks
+Wawa,8318,40.749415,-74.137261,0.99,rooftop,1200,Harrison Ave,Kearny,NJ,Hudson County,07032,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,358,39.9531,-74.870277,1,rooftop,200,Larchmont Blvd,Mount Laurel,NJ,Burlington County,08054,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,521,40.7351,-80.10883,1,rooftop,2000,Ehrman Rd,Cranberry Twp,PA,Butler County,16066,US,Butler
+Sheetz,320,37.157164,-80.418625,1,rooftop,2000,N Franklin St,Christiansburg,VA,Montgomery County,24073,US,Virginia Geographic Information Network (VGIN)
+Wawa,5235,26.253865,-80.200263,1,rooftop,2000,N State Rd 7,Pompano Beach,FL,Broward County,33063,US,Broward
+Wawa,996,40.257989,-74.090941,1,rooftop,2000,Shafto Rd,Asbury Park,NJ,Monmouth County,07712,US,Monmouth
+Sheetz,346,38.310612,-77.512829,0.99,rooftop,2001,Carl D Silver Pkwy,Fredericksburg,VA,Fredericksburg city,22401,US,Virginia Geographic Information Network (VGIN)
+Sheetz,190,40.454916,-79.711593,1,rooftop,2003,Golden Mile Hwy,Pittsburgh,PA,Allegheny County,15239,US,Allegheny
+Wawa,943,40.051944,-74.841539,1,rooftop,2003,Mount Holly Rd,Burlington,NJ,Burlington County,08016,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,349,40.233135,-74.709537,1,rooftop,2004,Nottingham Way,Trenton,NJ,Mercer County,08619,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5259,28.540448,-82.402465,1,rooftop,20019,Cortez Blvd,Brooksville,FL,Hernando County,34601,US, Loveland
+Sheetz,40,40.387002,-77.88245,1,rooftop,34,W Water St,Mount Union,PA,Huntingdon County,17066,US,Huntingdon
+Wawa,8069,39.949029,-75.163957,1,rooftop,201-11,S Broad St,Philadelphia,PA,Philadelphia County,19107,US,Philadelphia
+Wawa,168,40.016816,-75.322317,0.99,nearest_street,783,Miller St,Bryn Mawr,PA,Delaware County,19010,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,671,36.833544,-76.095947,1,rooftop,201,S Rosemont Rd,Virginia Beach,VA,Virginia Beach city,23452,US,Virginia Geographic Information Network (VGIN)
+Wawa,8310,39.803296,-74.950968,1,rooftop,195,W White Horse Pike,Berlin,NJ,Camden County,08009,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8063,40.145623,-75.114755,0.98,nearest_street,249,Mineral Ave,Willow Grove,PA,Montgomery County,19090,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,395,37.272084,-78.401918,1,rooftop,2016,S Main St,Farmville,VA,Prince Edward County,23901,US,Virginia Geographic Information Network (VGIN)
+Wawa,14,39.961559,-75.278347,0.99,nearest_street,7801,Park Ave,Upper Darby,PA,Delaware County,19082,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,632,37.070241,-79.896458,0.99,rooftop,20281,Virgil H Goode Hwy,Rocky Mount,VA,Franklin County,24151,US,Virginia Geographic Information Network (VGIN)
+Sheetz,477,40.58764,-79.746609,0.98,nearest_street,2505,Leechburg Rd,New Kensington,PA,Westmoreland County,15068,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,858,39.721283,-75.656803,1,rooftop,2030,Limestone Rd,Wilmington,DE,New Castle County,19808,US,New Castle
+Wawa,585,39.612914,-75.930547,1,rooftop,2031,W Pulaski Hwy,Elkton,MD,Cecil County,21921,US,Cecil
+Wawa,8500,39.503268,-76.383615,1,rooftop,204,Connolly Rd,Fallston,MD,Harford County,21047,US,Statewide
+Wawa,976,40.440272,-74.225153,1,rooftop,204,State Highway 35,Keyport,NJ,Monmouth County,07735,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,161,39.96252,-75.173241,1,rooftop,2101,Hamilton St,Philadelphia,PA,Philadelphia County,19130,US,Philadelphia
+Sheetz,41,39.677694,-78.737247,1,rooftop,2031,Bedford St,Cumberland,MD,Allegany County,21502,US,Statewide
+Sheetz,239,40.21862,-79.609318,0.99,nearest_street,113,W Byers Ave,New Stanton,PA,Westmoreland County,15672,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8,39.966501,-75.359127,0.99,nearest_street,2070,Sproul Rd,Broomall,PA,Delaware County,19008,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,662,38.632845,-77.275813,1,rooftop,2051,Daniel Stuart Sq,Woodbridge,VA,Prince William County,22191,US,Virginia Geographic Information Network (VGIN)
+Sheetz,322,37.520839,-77.612865,1,rooftop,2053,Huguenot Rd,Richmond,VA,Chesterfield County,23235,US,Virginia Geographic Information Network (VGIN)
+Wawa,921,40.101869,-74.793894,1,rooftop,2060,Us Highway 130,Burlington,NJ,Burlington County,08016,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,373,39.936588,-76.693742,1,rooftop,2068,S Queen St,York,PA,York County,17403,US,York
+Sheetz,209,39.571986,-77.645738,0.99,rooftop,20810,National Pike,Boonsboro,MD,Washington County,21713,US,Statewide
+Wawa,376,39.931574,-74.742803,1,rooftop,2075,Us Highway 206,Vincentown,NJ,Burlington County,08088,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,318,38.237016,-76.496428,1,rooftop,20764,Old Great Mills Rd,Great Mills,MD,St. Mary's County,20634,US,Statewide
+Sheetz,22,40.320953,-78.918758,1,rooftop,203,203-205 Haynes St,Johnstown,PA,Cambria County,15901,US,Cambria
+Sheetz,165,41.769451,-78.021801,1,rooftop,302,S Main St,Coudersport,PA,Potter County,16915,US,Potter
+Sheetz,604,39.579459,-79.953156,1,rooftop,21,Asturias,Morgantown,WV,Monongalia County,26505,US,Statewide
+Wawa,178,39.907373,-75.326527,0.98,nearest_street,81,Silver Lake Ter,Morton,PA,Delaware County,19070,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,345,40.061254,-74.63247,1,rooftop,210,Georgetown Wrightstown Rd,Wrightstown,NJ,Burlington County,08562,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,51,39.649928,-78.769954,1,rooftop,214,Greene St,Cumberland,MD,Allegany County,21502,US,Statewide
+Sheetz,391,35.565262,-77.355454,1,rooftop,1900,E Fire Tower Rd,Greenville,NC,Pitt County,27858,US,Pitt
+Sheetz,327,40.398101,-79.769069,1,rooftop,2125,Mosside Blvd,Monroeville,PA,Allegheny County,15146,US,Allegheny
+Sheetz,434,41.047053,-76.273184,0.98,nearest_street,2090,W Front St,Berwick,PA,Columbia County,18603,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,387,40.003797,-81.575102,1,rooftop,2101,Southgate Pkwy,Cambridge,OH,Guernsey County,43725,US,Guernsey
+Sheetz,422,41.312693,-81.858176,1,rooftop,21034,Royalton Rd,Strongsville,OH,Cuyahoga County,44136,US,Cuyahoga
+Wawa,964,39.421407,-75.039287,1,rooftop,2105,N 2nd St,Millville,NJ,Cumberland County,08332,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,154,40.307663,-79.538487,0.99,nearest_street,447,Us Hwy 119,Greensburg,PA,Westmoreland County,15601,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,610,40.53325,-80.071548,1,rooftop,211,Mount Nebo Rd,Pittsburgh,PA,Allegheny County,15237,US,Allegheny
+Wawa,748,39.86956,-74.844158,1,rooftop,211,Tuckerton Rd,Medford,NJ,Burlington County,08055,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8428,39.988283,-75.009041,1,rooftop,6,Us Highway 130,Riverton,NJ,Burlington County,08077,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,148,41.08266,-78.783845,1,rooftop,2120,Blinker Pkwy,Dubois,PA,Clearfield County,15801,US,Clearfield
+Wawa,275,40.02935,-76.231422,1,rooftop,2126,Lincoln Hwy E,Lancaster,PA,Lancaster County,17602,US,Lancaster
+Wawa,8105,39.945475,-75.178674,1,rooftop,2201,South St,Philadelphia,PA,Philadelphia County,19146,US,Philadelphia
+Wawa,495,39.652372,-74.796325,1,rooftop,214,N White Horse Pike,Hammonton,NJ,Atlantic County,08037,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,462,39.983684,-76.726167,1,rooftop,300,Arsenal Rd,York,PA,York County,17402,US,York
+Wawa,257,40.044868,-75.392634,0.98,nearest_street,125,Francis Ave,Wayne,PA,Delaware County,19087,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,556,39.640078,-79.956271,1,rooftop,2161,University,Morgantown,WV,Monongalia County,26505,US,Statewide
+Sheetz,126,39.597995,-78.241132,0.99,rooftop,39,Nevada Ln,Berkeley Springs,WV,Morgan County,25411,US,Statewide
+Sheetz,408,38.07655,-78.915748,1,rooftop,2156,W Main St,Waynesboro,VA,Augusta County,22980,US,Virginia Geographic Information Network (VGIN)
+Sheetz,588,38.021938,-78.000091,1,rooftop,214,E Main St,Louisa,VA,Louisa County,23093,US,Virginia Geographic Information Network (VGIN)
+Sheetz,459,40.526554,-79.816944,1,rooftop,2175,Hulton Rd,Verona,PA,Allegheny County,15147,US,Allegheny
+Wawa,5163,27.960113,-82.747364,1,rooftop,2177,Gulf To Bay Blvd,Clearwater,FL,Pinellas County,33765,US,Pinellas
+Wawa,5102,28.285932,-81.355776,1,rooftop,2184,E Irlo Bronson Mem Hwy,Kissimmee,FL,Osceola County,34744,US,Osceola
+Sheetz,597,35.706802,-81.29563,1,rooftop,2185,13th Ave Dr SE,Hickory,NC,Catawba County,28602,US,Alexander
+Wawa,931,39.92418,-74.168788,1,rooftop,215,Us Highway 9,Bayville,NJ,Ocean County,08721,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,120,40.572554,-75.479827,1,rooftop,2209,Lehigh St,Allentown,PA,Lehigh County,18103,US,City of Allentown
+Sheetz,174,39.028271,-79.934602,1,rooftop,221,N Crim Ave,Belington,WV,Barbour County,26250,US,Statewide
+Wawa,5151,27.894373,-82.245102,1,rooftop,3322,Lithia Pinecrest Rd,Valrico,FL,Hillsborough County,33596,US, Loveland
+Wawa,5131,28.516284,-81.289149,1,rooftop,2225,S Goldenrod Rd,Orlando,FL,Orange County,32822,US,Orange County
+Sheetz,635,40.815822,-77.901459,1,rooftop,223,Colonnade Blvd,State College,PA,Centre County,16803,US,Centre
+Wawa,5111,28.573913,-81.310324,1,rooftop,2239,N Semoran Blvd,Orlando,FL,Orange County,32807,US,Orange County
+Wawa,492,39.077986,-74.825456,1,rooftop,224,S Main St,Cape May Court House,NJ,Cape May County,08210,US,Cape May
+Sheetz,655,40.306722,-75.978546,1,rooftop,2246,Lancaster Pi,Reading,PA,Berks County,19607,US,Berks
+Wawa,101,40.700129,-75.205377,1,rooftop,217,Cattell St,Easton,PA,Northampton County,18042,US,Northampton
+Sheetz,406,39.909733,-82.017021,1,rooftop,225,N Maysville Ave,Zanesville,OH,Muskingum County,43701,US,Muskingum
+Wawa,277,40.121273,-74.978738,1,rooftop,2250,Lincoln Hwy,Feasterville-Trevose,PA,Bucks County,19053,US,Bucks
+Sheetz,547,38.423371,-82.418248,1,rooftop,2251,5th Ave,Huntington,WV,Cabell County,25703,US,Statewide
+Wawa,587,38.286983,-76.476789,1,rooftop,22530,Three Notch Rd,California,MD,St. Mary's County,20619,US,St Marys
+Sheetz,369,40.553226,-79.159179,0.99,nearest_street,,Pa 56,Homer City,PA,Indiana County,15748,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,701,38.761078,-78.63222,1,rooftop,223,Conicville,Mount Jackson,VA,Shenandoah County,22842,US,Shenandoah
+Wawa,5195,26.275037,-80.152874,1,rooftop,2271,W Sample Rd,Pompano Beach,FL,Broward County,33073,US,Broward
+Sheetz,292,38.290673,-76.493536,1,rooftop,22711,Three Notch Rd,California,MD,St. Mary's County,20619,US,Statewide
+Wawa,990,39.963997,-75.050951,1,rooftop,2290,Clements Ave,Pennsauken,NJ,Camden County,08110,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5128,28.683773,-81.333231,1,rooftop,23,Seminola Blvd,Casselberry,FL,Seminole County,32707,US,Seminole
+Wawa,30,39.829645,-75.437435,0.99,nearest_street,1050,Malatesta Ave,Marcus Hook,PA,Delaware County,19061,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,219,40.33664,-76.82676,1,rooftop,2300,Colonial Rd,Harrisburg,PA,Dauphin County,17112,US,Dauphin
+Wawa,582,39.555915,-76.278178,1,rooftop,2300,E Churchville Rd,Bel Air,MD,Harford County,21015,US,Statewide
+Wawa,953,39.950636,-74.132665,1,rooftop,230,State Highway 37,Toms River,NJ,Ocean County,08753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8640,38.978106,-77.41143,1,rooftop,23055,Oakgrove Rd,Sterling,VA,Loudoun County,20166,US,Virginia Geographic Information Network (VGIN)
+Wawa,239,39.898525,-75.307867,0.99,nearest_street,2316,Macdade Blvd,Holmes,PA,Delaware County,19043,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,386,37.347783,-77.356151,1,rooftop,231,E* Hundred Rd,Chester,VA,Chesterfield County,23836,US,Virginia Geographic Information Network (VGIN)
+Wawa,567,39.51329,-76.160405,1,rooftop,231,N Philadelphia Blvd,Aberdeen,MD,Harford County,21001,US,Harford
+Sheetz,203,39.160229,-78.186087,1,rooftop,2311,Valley Ave,Winchester,VA,Frederick County,22601,US,Virginia Geographic Information Network (VGIN)
+Wawa,592,38.302909,-76.519386,1,rooftop,23141,Three Notch Rd,California,MD,St. Mary's County,20619,US,Statewide
+Wawa,5199,28.069402,-82.430292,1,rooftop,2602,E Fletcher Ave,Tampa,FL,Hillsborough County,33612,US,Hillsborough County
+Wawa,112,40.994145,-75.177085,1,rooftop,233,Prospect St,East Stroudsburg,PA,Monroe County,18301,US,Monroe
+Wawa,5216,27.049201,-82.405416,1,rooftop,4007,Englewood Rd,Venice,FL,Sarasota County,34293,US,Sarasota
+Sheetz,569,35.800117,-80.288353,0.98,nearest_street,223,State Rd 3157,Lexington,NC,Davidson County,27292,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8300,39.971123,-74.734948,1,rooftop,2356,Us Highway 206,Vincentown,NJ,Burlington County,08088,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,128,40.173913,-74.987614,1,rooftop,202,Holland Rd,Southampton,PA,Bucks County,18966,US,Bucks
+Sheetz,375,40.901571,-81.108725,1,rooftop,236,W State St,Alliance,OH,Stark County,44601,US,Stark
+Wawa,725,39.961655,-74.95158,1,rooftop,236,W Main St,Moorestown,NJ,Burlington County,08057,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5277,27.956081,-81.620034,0.99,rooftop,23623,Us Highway 27,Lake Wales,FL,Polk County,33859,US,MapWise (and individual Florida counties)
+Wawa,5168,26.596161,-81.864252,1,rooftop,2370,Colonial Blvd,Fort Myers,FL,Lee County,33907,US,MapWise (and individual Florida counties)
+Sheetz,202,41.200812,-80.456002,1,rooftop,2443,S Hermitage Rd,Hermitage,PA,Mercer County,16148,US,Mercer
+Sheetz,602,35.751317,-81.288574,1,rooftop,2415,Springs Rd NE,Hickory,NC,Catawba County,28601,US,NC Geographic Information Coordinating Council
+Sheetz,234,40.400893,-80.549243,1,rooftop,239,Three Springs Dr,Weirton,WV,Hancock County,26062,US,Statewide
+Wawa,667,38.29555,-77.500064,1,rooftop,2390,Plank Rd,Fredericksburg,VA,Fredericksburg city,22401,US,Virginia Geographic Information Network (VGIN)
+Wawa,828,39.500407,-75.648776,1,rooftop,2398,Dupont Pkwy,Middletown,DE,New Castle County,19709,US,New Castle
+Sheetz,89,39.812783,-79.025434,1,rooftop,24,Center St,Meyersdale,PA,Somerset County,15552,US,Somerset
+Sheetz,276,40.923197,-77.030967,1,rooftop,233,E Chestnut St,Mifflinburg,PA,Union County,17844,US,Union
+Wawa,5204,27.175359,-80.252315,1,rooftop,2401,S Kanner Hwy,Stuart,FL,Martin County,34994,US,Martin
+Wawa,74,40.122813,-75.135103,0.98,nearest_street,1108,Bradfield Rd,Abington,PA,Montgomery County,19001,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8629,37.036056,-76.409304,1,rooftop,2401,W Mercury Blvd,Hampton,VA,Hampton city,23666,US,Virginia Geographic Information Network (VGIN)
+Sheetz,279,40.252852,-80.171241,0.98,nearest_street,485,Weavertown Rd,Canonsburg,PA,Washington County,15317,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,701,39.362465,-74.565261,1,rooftop,2405,New Rd,Northfield,NJ,Atlantic County,08225,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,537,35.862873,-78.59937,1,rooftop,2324,Dixie Forest Rd,Raleigh,NC,Wake County,27615,US,Wake
+Sheetz,274,41.875741,-80.764289,1,rooftop,2424,N Ridge Rd E,Ashtabula,OH,Ashtabula County,44004,US,Ashtabula
+Sheetz,599,36.628051,-82.149337,1,rooftop,2415,Lee Hwy,Bristol,VA,Bristol city,24202,US,Virginia Geographic Information Network (VGIN)
+Wawa,8630,37.591694,-77.492649,1,rooftop,2415,Staples Mill Rd,Richmond,VA,Henrico County,23230,US,Henrico
+Wawa,920,39.431324,-74.577332,1,rooftop,6402,Delilah Rd,Egg Harbor Township,NJ,Atlantic County,08234,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,520,41.874718,-79.152813,0.99,nearest_street,1,Pvt Conewango Twp 020th Ln,Warren,PA,Warren County,16365,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,558,40.039771,-76.207877,1,rooftop,2425,Old Philadelphia Pike,Lancaster,PA,Lancaster County,17602,US,Lancaster
+Wawa,8402,39.940747,-75.008662,1,rooftop,2405,State Highway 38,Cherry Hill,NJ,Camden County,08002,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,917,40.123569,-74.068711,1,rooftop,2432,State Highway 35,Manasquan,NJ,Monmouth County,08736,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,193,40.582484,-77.369449,1,rooftop,23,Parkside Ct,Mifflintown,PA,Juniata County,17059,US,Juniata
+Wawa,5159,27.792435,-82.666128,1,rooftop,2465,22nd Ave N,Saint Petersburg,FL,Pinellas County,33713,US,Pinellas
+Wawa,8056,40.298507,-75.28297,0.99,rooftop,2333,Bethlehem Pike,Hatfield,PA,Bucks County,19440,US,Bucks
+Wawa,955,40.178211,-74.242386,1,rooftop,2485,US 9 N,Howell,NJ,Monmouth County,07731,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,549,40.816859,-79.926718,1,rooftop,249,Pittsburgh Rd,Butler,PA,Butler County,16002,US,Butler
+Wawa,865,38.633904,-75.19496,1,rooftop,24930,John J Williams Hwy,Millsboro,DE,Sussex County,19966,US,Sussex
+Sheetz,393,41.311818,-81.44866,1,rooftop,2495,E Aurora Rd,Twinsburg,OH,Summit County,44087,US,Summit
+Wawa,5104,28.318502,-81.403118,1,rooftop,2499,N Orange Blossom Trl,Kissimmee,FL,Osceola County,34744,US,MapWise (and individual Florida counties)
+Sheetz,650,40.060593,-80.588948,1,rooftop,25,Gantzer Ridge Rd,Triadelphia,WV,Ohio County,26059,US,Statewide
+Wawa,8334,39.894438,-74.933291,1,rooftop,336,State Highway 70,Marlton,NJ,Burlington County,08053,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,606,38.656088,-77.289024,1,rooftop,13609,Telegraph Rd,Woodbridge,VA,Prince William County,22192,US,Prince William
+Wawa,465,39.1764,-74.732511,1,rooftop,556,Sea Isle Blvd,Ocean View,NJ,Cape May County,08230,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8057,40.120468,-75.058159,0.98,nearest_street,2514,Philmont Ave,Huntingdon Valley,PA,Montgomery County,19006,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,5249,26.093109,-80.226772,1,nearest_street,,I 595,Fort Lauderdale,FL,Broward County,33314,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,678,36.8406,-76.056052,1,rooftop,2501,Virginia Beach Blvd,Virginia Beach,VA,Virginia Beach city,23454,US,Virginia Geographic Information Network (VGIN)
+Wawa,5231,27.966652,-82.403308,1,nearest_street,,I 4,Tampa,FL,Hillsborough County,33619,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,385,36.049098,-80.327067,1,rooftop,2505,Somerset Center Dr,Winston-Salem,NC,Forsyth County,27103,US,NC Geographic Information Coordinating Council
+Wawa,5100,28.57742,-81.415458,1,rooftop,2507,N John Young Pkwy,Orlando,FL,Orange County,32804,US,Orange County
+Wawa,5271,27.462255,-82.586713,1,rooftop,2600,Cortez Rd W,Bradenton,FL,Manatee County,34207,US,Manatee
+Sheetz,253,40.336191,-79.970766,1,rooftop,251,Curry Hollow Rd,Pittsburgh,PA,Allegheny County,15236,US,Allegheny
+Sheetz,213,41.01217,-76.410157,0.98,nearest_street,198,Seiple Dr,Bloomsburg,PA,Columbia County,17815,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,444,39.617311,-75.080421,1,rooftop,2515,Delsea Dr,Franklinville,NJ,Gloucester County,08322,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,488,35.656197,-77.365404,1,rooftop,2521,N Memorial Dr,Greenville,NC,Pitt County,27834,US,Pitt
+Wawa,5171,28.917079,-81.296058,1,rooftop,2522,Enterprise Rd,De Bary,FL,Volusia County,32713,US, Loveland
+Sheetz,304,38.919296,-77.496052,1,rooftop,25224,Poland Rd,Chantilly,VA,Loudoun County,20152,US,Loudoun
+Wawa,8036,40.644105,-75.348105,1,rooftop,2525,Easton Ave,Bethlehem,PA,Northampton County,18017,US,Northampton
+Wawa,5255,26.994049,-82.116285,1,rooftop,2525,Tamiami Trl,Port Charlotte,FL,Charlotte County,33952,US, Loveland
+Wawa,8013,39.97725,-75.118448,1,rooftop,2535,Aramingo Ave,Philadelphia,PA,Philadelphia County,19125,US,Philadelphia
+Wawa,429,39.967584,-74.228084,1,rooftop,254,State Highway 37,Toms River,NJ,Ocean County,08755,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8061,40.141774,-75.389104,0.98,nearest_street,2560,W Main St,Norristown,PA,Montgomery County,19403,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,915,39.90416,-74.804704,1,rooftop,257,State Highway 70,Medford,NJ,Burlington County,08055,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,378,40.989158,-76.878028,1,rooftop,260,International Dr,Milton,PA,Union County,17847,US,Union
+Wawa,5220,27.318811,-80.340481,1,rooftop,160,SE Floresta Dr,Fort Pierce,FL,St. Lucie County,34950,US,MapWise (and individual Florida counties)
+Wawa,146,40.232674,-75.658284,1,rooftop,260,W Schuylkill Rd,Wayne,PA,Chester County,19087,US,Chester
+Sheetz,331,37.523126,-77.8226,1,rooftop,2544,Anderson Hwy,Powhatan,VA,Powhatan County,23139,US,Virginia Geographic Information Network (VGIN)
+Wawa,8030,40.077346,-75.023608,1,rooftop,2600L,Grant Ave,Philadelphia,PA,Philadelphia County,19114,US,Philadelphia
+Sheetz,183,40.05534,-79.560699,0.99,nearest_street,109,Pleasant Valley Rd,Connellsville,PA,Fayette County,15425,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,5127,27.923298,-82.349045,1,rooftop,2604,S Us Highway 301,Tampa,FL,Hillsborough County,33619,US,Hillsborough County
+Sheetz,551,41.014117,-80.39777,1,rooftop,2604,W State St,New Castle,PA,Lawrence County,16101,US,Lawrence
+Wawa,926,39.475295,-74.97699,1,rooftop,610,S Brewster Rd,Vineland,NJ,Cumberland County,08361,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,617,40.61202,-80.10031,1,rooftop,2609,Nicholson Rd,Sewickley,PA,Allegheny County,15143,US,Allegheny
+Wawa,5232,26.121074,-80.177394,1,rooftop,2620,W Broward Blvd,Fort Lauderdale,FL,Broward County,33312,US,City of Fort Lauderdale
+Wawa,854,39.794286,-75.469005,1,rooftop,2621,Philadelphia Pike,Claymont,DE,New Castle County,19703,US,New Castle
+Sheetz,417,36.066493,-79.467763,1,rooftop,2564,Kirkwood Dr,Burlington,NC,Alamance County,27215,US,NC Geographic Information Coordinating Council
+Sheetz,271,37.396415,-79.229596,1,rooftop,2630,Lakeside Dr,Lynchburg,VA,Lynchburg city,24501,US,Virginia Geographic Information Network (VGIN)
+Sheetz,329,37.012336,-79.869959,1,rooftop,265,Old Franklin Tpke,Rocky Mount,VA,Franklin County,24151,US,Virginia Geographic Information Network (VGIN)
+Wawa,5294,28.012887,-82.73781,1,rooftop,2521,Enterprise Rd,Clearwater,FL,Pinellas County,33761,US, Loveland
+Sheetz,592,36.05951,-79.434121,1,rooftop,2669,Maple Ave,Burlington,NC,Alamance County,27215,US,Alamance
+Sheetz,144,39.077623,-78.96582,1,rooftop,268,Genny Loop,Moorefield,WV,Hardy County,26836,US,Statewide
+Wawa,5158,28.787001,-81.297016,1,rooftop,2690,W 25th St,Sanford,FL,Seminole County,32771,US,MapWise (and individual Florida counties)
+Sheetz,444,38.031504,-81.12399,1,rooftop,27,Whitewater Ave,Fayetteville,WV,Fayette County,25840,US,Statewide
+Wawa,369,39.914408,-74.922551,1,rooftop,252,E Greentree Rd,Marlton,NJ,Burlington County,08053,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,188,41.329402,-80.41347,1,rooftop,3639,N Hermitage Rd,Transfer,PA,Mercer County,16154,US,Mercer
+Sheetz,410,40.640967,-76.158435,0.99,nearest_street,,Pa 443,Schuylkill Haven,PA,Schuylkill County,17972,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,981,39.770521,-75.046673,0.99,rooftop,2700,Sicklerville Rd,Sicklerville,NJ,Camden County,08081,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,432,39.098434,-74.723059,1,rooftop,290,27th St,Avalon,NJ,Cape May County,08202,US,Cape May
+Sheetz,295,37.315955,-80.003929,1,rooftop,2703,Peters Creek Rd NW,Roanoke,VA,Roanoke County,24019,US,Virginia Geographic Information Network (VGIN)
+Wawa,5162,28.027086,-82.152298,1,nearest_street,,I 4,Plant City,FL,Hillsborough County,33563,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,147,40.355196,-75.981514,1,rooftop,2759,Paper Mill Rd,Reading,PA,Berks County,19610,US,Berks
+Sheetz,321,37.259411,-77.394984,1,rooftop,2711,Conduit Rd,Colonial Heights,VA,Colonial Heights city,23834,US,Virginia Geographic Information Network (VGIN)
+Wawa,8365,40.512058,-74.363965,1,rooftop,2650,Woodbridge Ave,Edison,NJ,Middlesex County,08837,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,248,41.14308,-80.721622,1,rooftop,2725,Salt Springs Youngstown Rd,Girard,OH,Trumbull County,44420,US,Trumbull
+Wawa,819,39.662709,-75.735658,1,rooftop,6,Kensington Cir,Newark,DE,New Castle County,19713,US,New Castle
+Wawa,561,38.420409,-75.565733,1,rooftop,2740,N Salisbury Blvd,Salisbury,MD,Wicomico County,21801,US,Statewide
+Wawa,850,39.60249,-75.76212,1,rooftop,2754,Pulaski Hwy,Newark,DE,New Castle County,19702,US,New Castle
+Wawa,688,38.316338,-77.450331,1,rooftop,275,Butler Rd,Fredericksburg,VA,Stafford County,22405,US,Virginia Geographic Information Network (VGIN)
+Wawa,8343,39.479415,-74.574464,1,rooftop,277,Langley Ave,Egg Harbor City,NJ,Atlantic County,08215,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,583,38.42663,-76.715703,1,rooftop,27605,Three Notch Rd,Mechanicsville,MD,St. Mary's County,20659,US,St Marys
+Sheetz,648,41.238629,-81.78545,1,rooftop,2771,Center Rd,Brunswick,OH,Medina County,44212,US,Medina
+Wawa,5226,28.185147,-82.354444,1,rooftop,1929,Bruce B Downs Blvd,Zephyrhills,FL,Pasco County,33544,US, Loveland
+Wawa,8389,40.595503,-74.29079,1,rooftop,280,Saint Georges Ave,Rahway,NJ,Union County,07065,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8340,39.872037,-75.045228,1,rooftop,300,White Horse Pike,Barrington,NJ,Camden County,08007,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,404,41.765717,-81.179468,1,rooftop,2826,N Ridge Rd,Perry,OH,Lake County,44081,US,Lake
+Wawa,848,39.195008,-75.547272,1,rooftop,2800,N Dupont Hwy,Dover,DE,Kent County,19901,US,Kent
+Wawa,924,39.446315,-75.04212,1,rooftop,2802,S Delsea Dr,Vineland,NJ,Cumberland County,08360,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,532,38.270993,-77.483538,1,rooftop,2715,Lafayette Blvd,Fredericksburg,VA,Spotsylvania County,22408,US,Spotsylvania
+Sheetz,564,35.427336,-78.063984,1,rooftop,2829,W US 70 Hwy,Goldsboro,NC,Wayne County,27530,US,Wayne
+Sheetz,396,35.707627,-77.951296,1,rooftop,3007,Downing St SW,Wilson,NC,Wilson County,27893,US,Wilson
+Wawa,387,40.039824,-74.728028,1,rooftop,2835,Us Highway 206,Columbus,NJ,Burlington County,08022,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,598,39.333129,-76.758982,1,rooftop,2845,Rolling Rd,Windsor Mill,MD,Baltimore County,21244,US,Baltimore
+Sheetz,450,40.884309,-77.779696,1,rooftop,2850,Benner Pike,Bellefonte,PA,Centre County,16823,US,Centre
+Sheetz,59,40.300229,-79.371104,0.99,nearest_street,8,State Rte 982,Latrobe,PA,Westmoreland County,15650,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,594,36.010393,-80.444968,0.99,rooftop,286,Nc Hwy 801 N,Mocksville,NC,Davie County,27028,US,Davie
+Sheetz,572,38.038327,-79.026219,1,rooftop,2870,Stuarts Draft Hwy,Stuarts Draft,VA,Augusta County,24477,US,Virginia Geographic Information Network (VGIN)
+Sheetz,619,40.539164,-79.83108,1,rooftop,2871,Freeport Rd,Pittsburgh,PA,Allegheny County,15238,US,Allegheny
+Sheetz,280,41.115205,-77.478639,1,rooftop,270,Hogan Blvd,Mill Hall,PA,Clinton County,17751,US,Clinton
+Sheetz,561,37.775644,-81.195401,1,rooftop,810,W Neville St,Beckley,WV,Raleigh County,25801,US,Statewide
+Sheetz,303,38.34659,-78.286314,1,rooftop,2902,S Seminole Trl,Madison,VA,Madison County,22727,US,Madison
+Sheetz,490,36.4592,-80.636725,1,rooftop,2905,Rockford St,Mount Airy,NC,Surry County,27030,US,Surry
+Wawa,8638,36.777644,-76.582038,1,rooftop,2916,Godwin Blvd,Suffolk,VA,Suffolk city,23434,US,Virginia Geographic Information Network (VGIN)
+Wawa,8316,39.949944,-74.986413,1,rooftop,2920,State Highway 73,Maple Shade,NJ,Burlington County,08052,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5152,27.938165,-82.23609,1,rooftop,2926,E State Road 60,Valrico,FL,Hillsborough County,33594,US,Hillsborough County
+Wawa,8339,40.274135,-74.70761,0.99,rooftop,2935,Brunswick Tpke,Trenton,NJ,Mercer County,08648,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,389,40.83202,-81.424528,1,rooftop,2939,Whipple Ave NW,Canton,OH,Stark County,44708,US,Stark
+Sheetz,139,41.40716,-80.383265,1,rooftop,294,Main St,Greenville,PA,Mercer County,16125,US,Mercer
+Wawa,694,36.844223,-76.074467,1,rooftop,2954,Virginia Beach Blvd,Virginia Beach,VA,Virginia Beach city,23452,US,Virginia Beach
+Wawa,159,41.09288,-75.591575,1,rooftop,296,Route 940,Blakeslee,PA,Monroe County,18610,US,Monroe
+Wawa,5225,27.105552,-82.383471,1,rooftop,19289,Times Cir,Venice,FL,Sarasota County,34292,US,Sarasota
+Wawa,838,39.158304,-75.513168,1,rooftop,298,S Dupont Hwy Apt # 838,Dover,DE,Kent County,19901,US,City of Dover
+Sheetz,414,36.05969,-79.960378,1,rooftop,4301,Pin Oak St,High Point,NC,Guilford County,27265,US,NC Geographic Information Coordinating Council
+Sheetz,633,36.142571,-80.291028,1,rooftop,7183,Silas Creek Pkwy,Winston-Salem,NC,Forsyth County,27106,US,Forsyth
+Wawa,8014,40.651011,-75.499935,1,rooftop,2985,Macarthur Rd,Whitehall,PA,Lehigh County,18052,US,Lehigh
+Sheetz,212,38.999909,-79.128143,1,rooftop,299,Bryan St,Petersburg,WV,Grant County,26847,US,Statewide
+Wawa,8390,40.836572,-74.823049,1,rooftop,301,Mountain Ave,Hackettstown,NJ,Warren County,07840,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,455,39.871775,-74.933841,1,rooftop,2999,E Evesham Rd,Voorhees,NJ,Camden County,08043,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,982,39.977938,-74.680588,1,rooftop,3,Arneys Mount Rd,Pemberton,NJ,Burlington County,08068,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,281,40.277789,-75.480404,0.98,nearest_street,1219,Gravel Pike,Zieglerville,PA,Montgomery County,19492,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,174,39.904885,-75.292005,0.99,nearest_street,450,W Ashland Ave,Glenolden,PA,Delaware County,19036,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,326,39.844408,-77.199018,1,rooftop,30,Camp Letterman Dr,Gettysburg,PA,Adams County,17325,US,Adams
+Wawa,758,39.263494,-74.649348,1,rooftop,42,Us Highway 9 S,Marmora,NJ,Cape May County,08223,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,749,39.45476,-74.72543,1,rooftop,5916,4th St,Mays Landing,NJ,Atlantic County,08330,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5328,30.186258,-81.703057,1,rooftop,300,Park Ave,Orange Park,FL,Clay County,32073,US,Clay County
+Sheetz,66,41.163184,-79.097867,0.97,nearest_street,190,Allegheny Blvd,Brookville,PA,Jefferson County,15825,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,5118,28.627017,-81.208786,1,rooftop,3000,Alafaya Trl,Oviedo,FL,Seminole County,32765,US,Seminole
+Sheetz,82,39.639126,-77.714542,1,rooftop,301,E Washington St,Hagerstown,MD,Washington County,21740,US,Statewide
+Wawa,8642,37.03278,-76.324676,1,rooftop,301,E Mercury Blvd,Hampton,VA,Hampton city,23669,US,Virginia Geographic Information Network (VGIN)
+Sheetz,72,40.243189,-79.575635,0.98,nearest_street,,Us 119,Youngwood,PA,Westmoreland County,15697,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,816,39.812589,-75.444323,1,rooftop,301,Ridge Rd,Claymont,DE,New Castle County,19703,US,New Castle
+Sheetz,656,41.709803,-78.693733,1,rooftop,3014,Route 219,Kane,PA,McKean County,16735,US,Mckean
+Wawa,871,38.712577,-75.104251,1,rooftop,30155,Veterans Way,Rehoboth Beach,DE,Sussex County,19971,US,Sussex
+Wawa,8512,39.603364,-75.840078,1,rooftop,303,Landing Ln,Elkton,MD,Cecil County,21921,US,Statewide
+Sheetz,398,35.924208,-78.845367,1,rooftop,1603,T W Alexander Dr,Durham,NC,Durham County,27703,US,NC Geographic Information Coordinating Council
+Sheetz,476,40.515084,-80.009617,1,rooftop,3025,Babcock Blvd,Pittsburgh,PA,Allegheny County,15237,US,Allegheny
+Wawa,5130,28.524643,-81.344976,1,rooftop,3025,Curry Ford Rd,Orlando,FL,Orange County,32806,US,Orange County
+Wawa,8011,39.99365,-75.762879,1,rooftop,3025,Lincoln Hw,Thorndale,PA,Chester County,19372,US,Chester
+Wawa,588,38.501544,-76.77388,1,rooftop,30320,Three Notch Rd,Charlotte Hall,MD,St. Mary's County,20622,US,St Marys
+Wawa,591,38.557039,-76.599819,0.99,rooftop,950,Costley Way,Prince Frederick,MD,Calvert County,20678,US,Statewide
+Sheetz,640,39.266423,-81.564103,1,rooftop,101,3rd St,Parkersburg,WV,Wood County,26101,US,Statewide
+Sheetz,52,40.633602,-78.645656,1,rooftop,231,Magee Ave,Patton,PA,Cambria County,16668,US,Cambria
+Sheetz,660,38.413568,-82.289839,0.99,rooftop,6451,US 60,Barboursville,WV,Cabell County,25504,US,Statewide
+Wawa,89,40.686918,-75.210122,1,rooftop,310,390 Larry Holmes Dr,Easton,PA,Northampton County,18042,US,Northampton
+Wawa,8648,37.57451,-77.463882,1,rooftop,3100,N Blvd,Richmond,VA,Richmond city,23230,US,City of Richmond
+Wawa,5157,28.508924,-81.377077,1,rooftop,3100,S Orange Ave,Orlando,FL,Orange County,32806,US, Loveland
+Sheetz,388,40.041756,-76.391211,1,rooftop,3101,Columbia Ave,Lancaster,PA,Lancaster County,17601,US,Lancaster
+Wawa,5110,27.845831,-82.677689,1,rooftop,3101,Gandy Blvd,Pinellas Park,FL,Pinellas County,33782,US,City of Pinellas Park
+Wawa,5253,28.012806,-81.913421,1,rooftop,3101,S Rd 98,Lakeland,FL,Polk County,33803,US,City of Lakeland
+Wawa,5116,28.341191,-81.483738,1,rooftop,3140,Vineland Rd,Kissimmee,FL,Osceola County,34746,US,Osceola
+Wawa,681,37.273362,-76.711629,1,rooftop,315,Richmond Rd,Williamsburg,VA,Williamsburg city,23185,US,Virginia Geographic Information Network (VGIN)
+Sheetz,159,41.602566,-80.304036,1,rooftop,275,Strawberry Ln,Conneaut Lake,PA,Crawford County,16316,US,Crawford
+Wawa,5192,28.0786,-80.674031,1,rooftop,3165,W New Haven Ave,Melbourne,FL,Brevard County,32904,US,Brevard County
+Wawa,577,38.935866,-76.567927,1,rooftop,3166,Solomons Island Rd,Edgewater,MD,Anne Arundel County,21037,US,Anne Arundel County
+Wawa,683,37.189308,-77.370223,1,rooftop,3199,Crater Rd S,Petersburg,VA,Petersburg city,23805,US,City of Petersburg
+Wawa,994,39.687259,-74.250495,1,rooftop,320,State Highway 72,Manahawkin,NJ,Ocean County,08050,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,730,39.890656,-75.065296,1,rooftop,320,S White Horse Pike,Audubon,NJ,Camden County,08106,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,229,40.381407,-75.219353,1,rooftop,320,Dublin Pike,Perkasie,PA,Bucks County,18944,US,Bucks
+Sheetz,268,39.915042,-76.629503,1,rooftop,3200,Cape Horn Rd,Red Lion,PA,York County,17356,US,York
+Wawa,954,38.992479,-74.814711,1,rooftop,122,W Pine Ave,Wildwood,NJ,Cape May County,08260,US,Cape May
+Sheetz,384,40.6559,-75.417336,1,rooftop,3201,Schoenersville Rd,Bethlehem,PA,Lehigh County,18017,US,Lehigh
+Sheetz,624,36.094801,-79.996514,1,rooftop,3201,Sandy Ridge Rd,Colfax,NC,Guilford County,27235,US,NC Geographic Information Coordinating Council
+Sheetz,246,40.973707,-80.266344,1,rooftop,3208,US 422,New Castle,PA,Lawrence County,16101,US,Lawrence
+Wawa,569,39.026977,-76.456213,1,rooftop,321,Buschs Frontage Rd,Annapolis,MD,Anne Arundel County,21409,US,Anne Arundel County
+Wawa,8366,40.432985,-74.547678,1,rooftop,3222,State Highway 27,Kendall Park,NJ,Middlesex County,08824,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,119,39.983663,-75.100635,1,rooftop,3222-48,Richmond St,Philadelphia,PA,Philadelphia County,19134,US,Philadelphia
+Sheetz,347,41.385346,-81.976995,1,rooftop,7307,Avon Belden Rd N,North Ridgeville,OH,Lorain County,44039,US,Lorain
+Sheetz,99,40.554895,-79.758894,0.99,nearest_street,770,Bridge St,New Kensington,PA,Westmoreland County,15068,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,219,40.127889,-74.882132,1,nearest_street,,I 276,Levittown,PA,Bucks County,19056,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,177,39.664101,-76.886028,1,rooftop,3269,Main St,Manchester,MD,Carroll County,21102,US,Statewide
+Wawa,8328,40.137421,-74.298873,0.99,rooftop,146,Brookfield Dr,Jackson,NJ,Ocean County,08527,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,469,40.139899,-77.366031,1,rooftop,3299,Ritner Hwy,Newville,PA,Cumberland County,17241,US,Cumberland
+Wawa,8322,39.012058,-74.796114,1,rooftop,314,W Spruce Ave,Wildwood,NJ,Cape May County,08260,US,Cape May
+Sheetz,283,41.248142,-76.95813,1,rooftop,2019,E 3rd St,Williamsport,PA,Lycoming County,17701,US,Lycoming
+Wawa,8141,39.955529,-75.191871,1,rooftop,3400,Market St,Philadelphia,PA,Philadelphia County,19104,US,Philadelphia
+Wawa,297,40.658632,-75.418327,1,rooftop,3300,Schoenersville Rd,Bethlehem,PA,Northampton County,18017,US,Northampton
+Sheetz,502,41.626937,-79.679735,1,rooftop,401,W Central Ave,Titusville,PA,Crawford County,16354,US,Crawford
+Sheetz,14,40.493716,-78.416011,0.98,nearest_street,645,N Logan Blvd,Altoona,PA,Blair County,16602,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,285,38.252566,-78.114237,1,rooftop,325,N Madison Rd,Orange,VA,Orange County,22960,US,Orange
+Wawa,721,39.685686,-74.988933,1,rooftop,332,S Black Horse Pike,Williamstown,NJ,Gloucester County,08094,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,98,40.519472,-75.564784,1,rooftop,3321,Pa Route 100,Macungie,PA,Lehigh County,18062,US,Lehigh
+Wawa,77,40.135507,-74.942197,1,rooftop,3300,Bristol Rd,Bensalem,PA,Bucks County,19020,US,Bucks
+Wawa,54,39.988836,-75.309576,0.98,nearest_street,44,E Eagle Rd,Havertown,PA,Delaware County,19083,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,286,40.326077,-76.009119,1,rooftop,3337,Penn Ave,Reading,PA,Berks County,19608,US,Berks
+Wawa,5137,28.054784,-81.77856,1,rooftop,334,Havendale Blvd,Auburndale,FL,Polk County,33823,US, Loveland
+Wawa,8064,40.068877,-75.00526,1,rooftop,3341,Grant Ave,Philadelphia,PA,Philadelphia County,19114,US,Philadelphia
+Sheetz,571,36.004883,-80.038221,1,rooftop,3350,N Main St,High Point,NC,Guilford County,27265,US,NC Geographic Information Coordinating Council
+Wawa,438,39.462359,-74.494001,1,rooftop,330,S Pitney Rd,Absecon,NJ,Atlantic County,08205,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8633,36.863437,-76.246205,1,rooftop,3350,Princess Anne Rd,Norfolk,VA,Norfolk city,23513,US,Virginia Geographic Information Network (VGIN)
+Wawa,365,40.323113,-74.471119,1,rooftop,346,Applegarth Rd,Jamesburg,NJ,Middlesex County,08831,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,294,41.265077,-80.783177,1,rooftop,3379,Elm Rd NE,Warren,OH,Trumbull County,44483,US,Trumbull
+Wawa,258,40.183013,-75.569252,1,rooftop,3380,Schuylkill Rd,Spring City,PA,Chester County,19475,US,Chester
+Wawa,56,40.30271,-75.128194,1,rooftop,339,S Main St,Doylestown,PA,Bucks County,18901,US,Bucks
+Wawa,658,38.271238,-77.44792,1,rooftop,3302,Shannon Park Dr,Fredericksburg,VA,Spotsylvania County,22408,US,Spotsylvania
+Wawa,695,36.865642,-76.416353,1,rooftop,3408,Western Branch Blvd,Chesapeake,VA,Chesapeake city,23321,US,Virginia Geographic Information Network (VGIN)
+Sheetz,214,38.998904,-80.232804,1,rooftop,341,N Locust St,Buckhannon,WV,Upshur County,26201,US,Statewide
+Wawa,185,40.362679,-74.965786,1,rooftop,341,W Bridge St,New Hope,PA,Bucks County,18938,US,Bucks
+Sheetz,570,36.019583,-78.94599,1,rooftop,3414,Hillsborough Rd,Durham,NC,Durham County,27705,US,Durham
+Sheetz,306,36.582882,-79.427543,1,rooftop,3425,Riverside Dr,Danville,VA,Danville city,24541,US,Virginia Geographic Information Network (VGIN)
+Wawa,754,40.336176,-74.319244,1,rooftop,345,Union Hill Rd,Englishtown,NJ,Monmouth County,07726,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8639,38.914369,-77.426683,1,rooftop,3454,Historic Sully Way,Chantilly,VA,Fairfax County,20151,US,Fairfax
+Sheetz,381,41.064587,-80.35904,1,rooftop,3450,Wilmington Rd,New Castle,PA,Lawrence County,16105,US,Lawrence
+Sheetz,468,40.430581,-79.811167,1,rooftop,3457,William Penn Hwy,Pittsburgh,PA,Allegheny County,15235,US,Allegheny
+Wawa,949,39.994314,-74.063456,1,rooftop,3485,State Highway 35,Lavallette,NJ,Ocean County,08735,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,141,39.744727,-77.086516,1,rooftop,35,E King St,Littlestown,PA,Adams County,17340,US,Adams
+Wawa,476,40.374904,-74.511123,1,rooftop,386,Ridge Rd,Dayton,NJ,Middlesex County,08810,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8302,40.850224,-74.35139,1,rooftop,963,Edwards Rd,Parsippany,NJ,Morris County,07054,US,Morris
+Wawa,8314,40.072943,-74.850128,1,rooftop,350,E Us Highway 130 S,Burlington,NJ,Burlington County,08016,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,581,39.465184,-76.311027,1,rooftop,3500,Woodsdale Rd,Abingdon,MD,Harford County,21009,US,Harford
+Wawa,5189,28.493191,-81.418342,1,rooftop,4912,S John Young Pkwy,Orlando,FL,Orange County,32839,US,Orange County
+Sheetz,522,40.708044,-75.27677,1,rooftop,3511,15 Nazareth Rd,Easton,PA,Northampton County,18045,US,Northampton
+Sheetz,646,40.116833,-76.305095,1,rooftop,3205,Lititz Pike,Lititz,PA,Lancaster County,17543,US,Lancaster
+Wawa,5117,28.732459,-81.309394,1,rooftop,3510,N Us Hwy 17-92,Lake Mary,FL,Seminole County,32746,US,Seminole
+Wawa,8008,40.320099,-75.304152,1,rooftop,3520,Bethlehem Pike,Souderton,PA,Bucks County,18964,US,Bucks
+Wawa,8303,40.225131,-74.076367,1,rooftop,3516,State Highway 66,Neptune,NJ,Monmouth County,07753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,486,39.658017,-79.990586,1,rooftop,3522,Monongahela,Morgantown,WV,Monongalia County,26505,US,Statewide
+Wawa,559,39.636817,-76.268446,1,rooftop,3530,Conowingo Rd,Street,MD,Harford County,21154,US,Harford
+Wawa,849,38.731543,-75.132113,1,rooftop,35436,Wolfe Neck Rd,Rehoboth Beach,DE,Sussex County,19971,US,Sussex
+Sheetz,250,40.877297,-79.947945,0.99,rooftop,540,Butler Xing,Butler,PA,Butler County,16001,US,Butler
+Sheetz,70,40.054531,-77.512975,1,rooftop,352,E King St,Shippensburg,PA,Cumberland County,17257,US,Cumberland
+Wawa,269,39.896952,-75.485313,0.98,nearest_street,,Us 1,Chester Heights,PA,Delaware County,19017,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8315,40.3775,-74.307695,1,rooftop,3610,Us Highway 9,Old Bridge,NJ,Middlesex County,08857,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5194,26.276607,-80.097827,1,rooftop,3685,N Federal Hwy,Pompano Beach,FL,Broward County,33064,US, Loveland
+Wawa,946,39.015493,-74.876368,1,rooftop,3601,Us Rt 9 Hwy S,Rio Grande,NJ,Cape May County,08242,US,Cape May
+Wawa,55,39.955029,-75.194809,1,rooftop,3601-13,Chestnut St,Philadelphia,PA,Philadelphia County,19104,US,Philadelphia
+Wawa,8321,39.965794,-74.920999,0.99,rooftop,3609,State Highway 38,Mount Laurel,NJ,Burlington County,08054,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,152,40.777602,-80.324734,1,rooftop,3611,4th Ave,Beaver Falls,PA,Beaver County,15010,US,Beaver
+Wawa,8072,40.1247,-74.962221,1,rooftop,3401,Street Rd,Bensalem,PA,Bucks County,19020,US,Bucks
+Wawa,5148,27.805475,-82.680361,1,rooftop,3650,34th St N,Saint Petersburg,FL,Pinellas County,33713,US,Pinellas
+Wawa,274,40.389239,-75.93561,1,rooftop,3650,Pottsville Pi,Reading,PA,Berks County,19605,US,Berks
+Sheetz,374,40.253708,-76.824473,1,nearest_street,,I 83,Harrisburg,PA,Dauphin County,17111,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,105,40.313514,-75.328925,0.98,nearest_street,17,W Summit St,Souderton,PA,Montgomery County,18964,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,5217,27.367419,-82.531269,1,rooftop,3703,N Washington Blvd,Sarasota,FL,Sarasota County,34234,US,Sarasota
+Wawa,8098,39.995513,-75.746473,1,rooftop,3730,Lincoln Hw,Downingtown,PA,Chester County,19335,US,Chester
+Wawa,263,39.984326,-75.933861,1,rooftop,3711,W Lincoln Hw,Parkesburg,PA,Chester County,19365,US,Chester
+Sheetz,447,36.022595,-77.768149,1,rooftop,3715,N Wesleyan Blvd,Rocky Mount,NC,Nash County,27804,US,NC Geographic Information Coordinating Council
+Wawa,8504,39.246463,-76.67324,1,rooftop,3716,Washington Blvd,Halethorpe,MD,Baltimore County,21227,US,Baltimore
+Wawa,980,38.982894,-74.940566,1,rooftop,101,Orchard Dr,Cape May,NJ,Cape May County,08204,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,137,39.401972,-77.912287,1,rooftop,3728,Charles Town Rd,Kearneysville,WV,Berkeley County,25430,US,Statewide
+Wawa,242,40.274826,-75.380094,0.98,nearest_street,372,Main St,Harleysville,PA,Montgomery County,19438,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,179,39.950808,-75.198553,1,rooftop,3700-12,Spruce St,Philadelphia,PA,Philadelphia County,19104,US,Philadelphia
+Wawa,344,39.929646,-74.97436,1,rooftop,3763,Church Rd,Mount Laurel,NJ,Burlington County,08054,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8371,39.941554,-74.211662,1,rooftop,379,Dover Rd,Toms River,NJ,Ocean County,08757,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,68,39.600125,-77.818633,1,rooftop,100,E Potomac St,Williamsport,MD,Washington County,21795,US,Statewide
+Sheetz,216,40.860668,-76.549239,1,rooftop,264,S Market St,Elysburg,PA,Northumberland County,17824,US,Northumberland
+Sheetz,31,40.622143,-79.145108,0.99,nearest_street,378,Gompers Ave,Indiana,PA,Indiana County,15701,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,212,39.944091,-75.296983,0.99,nearest_street,382,Burmont Rd,Drexel Hill,PA,Delaware County,19026,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,300,39.157114,-74.689285,1,rooftop,3800,Pleasure Ave,Sea Isle City,NJ,Cape May County,08243,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,373,40.264703,-74.67566,1,rooftop,3800,Mer-quaker Br Rd,Trenton,NJ,Mercer County,08619,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,467,38.446517,-81.958023,1,rooftop,3370,Teays Valley Rd,Hurricane,WV,Putnam County,25526,US,Statewide
+Wawa,439,40.517842,-74.633521,1,rooftop,382,Triangle Rd,Hillsborough,NJ,Somerset County,08844,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8342,40.192215,-74.647911,0.99,rooftop,680,Us Highway 130,Trenton,NJ,Mercer County,08650,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8046,40.719318,-75.29004,1,rooftop,3820,Easton Nazareth Hwy,Easton,PA,Northampton County,18045,US,Northampton
+Wawa,733,40.037983,-74.108493,1,rooftop,5,Poppy Ct,Brick,NJ,Ocean County,08723,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,345,40.155395,-75.873741,1,rooftop,3830,Main St,Morgantown,PA,Berks County,19543,US,Berks
+Sheetz,173,40.261271,-79.197448,0.98,nearest_street,100,Picadio Ln,Ligonier,PA,Westmoreland County,15658,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,176,39.336894,-77.640232,1,rooftop,847,Jefferson Pike,Knoxville,MD,Frederick County,21758,US,Statewide
+Wawa,674,37.434577,-77.610503,1,rooftop,3850,N* Bailey Bridge Rd,Midlothian,VA,Chesterfield County,23112,US,Virginia Geographic Information Network (VGIN)
+Wawa,856,38.45614,-75.557116,1,rooftop,38711,Sussex Hwy,Delmar,DE,Sussex County,19940,US,Sussex
+Wawa,499,39.751169,-75.076178,1,rooftop,388,Egg Harbor Rd,Sewell,NJ,Gloucester County,08080,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,206,39.019164,-80.417087,1,rooftop,39,Berlin Rd,Weston,WV,Lewis County,26452,US,Statewide
+Sheetz,642,35.877629,-78.863848,1,rooftop,390,Davis Dr,Morrisville,NC,Durham County,27560,US,NC Geographic Information Coordinating Council
+Wawa,8065,39.99728,-75.088403,1,rooftop,3901,Aramingo Ave,Philadelphia,PA,Philadelphia County,19137,US,Philadelphia
+Wawa,759,39.289139,-74.967999,1,rooftop,3904,State Highway 47,Millville,NJ,Cumberland County,08332,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,403,37.349311,-79.184865,1,rooftop,3927,Wards Rd,Lynchburg,VA,Lynchburg city,24502,US,Virginia Geographic Information Network (VGIN)
+Wawa,713,39.394396,-74.396442,1,rooftop,3916,Atlantic Brigantine Blvd,Brigantine,NJ,Atlantic County,08203,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,484,36.068477,-79.854901,1,rooftop,3941,W Market St,Greensboro,NC,Guilford County,27407,US,City of Greensboro
+Wawa,5114,27.981017,-82.361078,1,rooftop,3942,N Us Hwy 301,Tampa,FL,Hillsborough County,33619,US, Loveland
+Wawa,5213,26.617848,-80.088747,1,rooftop,2981,Lake Worth Rd,Lake Worth,FL,Palm Beach County,33461,US,Palm Beach County
+Wawa,5205,28.411711,-81.421677,1,rooftop,3579,Grande Reserve Way,Orlando,FL,Orange County,32837,US,Orange County
+Sheetz,360,40.437491,-79.774157,1,rooftop,3954,William Penn Hwy,Monroeville,PA,Allegheny County,15146,US,Allegheny
+Sheetz,654,39.898136,-80.132135,0.99,rooftop,121,Kiwi Rd,Waynesburg,PA,Greene County,15370,US,Greene
+Sheetz,423,39.992126,-76.635527,1,rooftop,3998,E Market St,York,PA,York County,17402,US,York
+Sheetz,419,38.416447,-82.261014,1,rooftop,4,E Mall Rd,Barboursville,WV,Cabell County,25504,US,Statewide
+Wawa,388,39.898037,-74.595011,1,rooftop,4,State Highway 72,Vincentown,NJ,Burlington County,08088,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,132,39.647926,-77.156261,1,rooftop,40,Antrim Blvd,Taneytown,MD,Carroll County,21787,US,Carroll
+Sheetz,607,35.698039,-78.585324,1,rooftop,30,Cabela Dr,Garner,NC,Wake County,27529,US,Wake
+Wawa,781,40.455257,-74.367682,1,rooftop,42,Washington Ave,Sayreville,NJ,Middlesex County,08872,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,811,39.788725,-75.533134,1,rooftop,400,Wilson Rd,Wilmington,DE,New Castle County,19803,US,New Castle
+Wawa,398,39.782127,-75.182707,1,rooftop,400,Bridgeton Pike,Mantua,NJ,Gloucester County,08051,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,187,40.480072,-78.40339,0.99,nearest_street,500,Aldrich Ave,Altoona,PA,Blair County,16602,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,391,39.812642,-74.930644,1,rooftop,428,State Highway 73,Berlin,NJ,Camden County,08009,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,416,39.717674,-74.970243,1,rooftop,400,Sicklerville Rd,Sicklerville,NJ,Camden County,08081,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,540,35.721958,-78.820931,1,rooftop,4000,Lufkin Rd,Apex,NC,Wake County,27502,US,Wake
+Wawa,840,39.709622,-75.562466,1,rooftop,4000,N Dupont Hwy,New Castle,DE,New Castle County,19720,US,New Castle
+Sheetz,523,40.277902,-76.823211,1,rooftop,4001,Union Deposit Rd,Harrisburg,PA,Dauphin County,17109,US,Dauphin
+Wawa,8612,36.810617,-76.359483,1,rooftop,4005,Victory Blvd,Portsmouth,VA,Portsmouth city,23701,US,Virginia Geographic Information Network (VGIN)
+Sheetz,535,36.270774,-80.852752,1,rooftop,401,Cc Camp Rd,Elkin,NC,Surry County,28621,US,Surry
+Wawa,5122,27.948991,-82.504825,1,rooftop,401,N Dale Mabry Hwy,Tampa,FL,Hillsborough County,33609,US,Hillsborough County
+Sheetz,559,40.035597,-76.456154,1,rooftop,4010,Columbia Ave,Columbia,PA,Lancaster County,17512,US,Lancaster
+Sheetz,555,35.860249,-78.894772,1,rooftop,4010,Convenience Ln,Cary,NC,Wake County,27519,US,NC Geographic Information Coordinating Council
+Wawa,578,39.268553,-76.470176,1,rooftop,4017,N Point Blvd,Dundalk,MD,Baltimore County,21222,US,Baltimore
+Sheetz,244,38.666113,-77.332945,1,rooftop,4021,Prince William Pkwy,Woodbridge,VA,Prince William County,22192,US,Prince William
+Sheetz,55,40.660919,-78.781536,1,rooftop,4025,Crawford Ave,Barnesboro,PA,Cambria County,15714,US,Cambria
+Sheetz,348,39.93251,-76.808204,1,rooftop,4000,W Market St,Shiloh,PA,York County,17408,US,York
+Wawa,5115,28.217764,-82.736189,1,rooftop,4026,Us Highway 19,New Port Richey,FL,Pasco County,34652,US,Pasco
+Wawa,862,39.810107,-75.551167,1,rooftop,4030,Concord Pike,Wilmington,DE,New Castle County,19803,US,New Castle
+Sheetz,38,40.534309,-78.401465,0.99,nearest_street,2422,Juniata Gap Rd,Altoona,PA,Blair County,16601,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,227,40.292354,-78.839057,0.99,rooftop,405,Galleria Dr,Johnstown,PA,Cambria County,15904,US,Cambria
+Sheetz,224,39.978127,-76.681987,0.99,rooftop,380,Memory Ln,York,PA,York County,17402,US,York
+Wawa,97,40.092425,-75.261004,0.98,nearest_street,406,E Germantown Pike,Lafayette Hill,PA,Montgomery County,19444,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8078,40.581363,-75.523349,0.99,rooftop,510,S Cedar Crest Blvd,Allentown,PA,Lehigh County,18104,US,Lehigh
+Sheetz,272,37.466372,-79.117999,1,rooftop,112,Amelon Expy,Madison Heights,VA,Amherst County,24572,US,Virginia Geographic Information Network (VGIN)
+Wawa,956,39.794856,-74.921951,1,rooftop,401,State Highway 73,Berlin,NJ,Camden County,08009,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,101,40.764325,-79.528037,1,rooftop,509,Main St,Ford City,PA,Armstrong County,16226,US,Armstrong
+Wawa,5153,28.552935,-81.333758,1,rooftop,4100,E Colonial Dr,Orlando,FL,Orange County,32803,US,Orange County
+Wawa,985,40.696158,-75.175659,1,rooftop,411,Roseberry St,Phillipsburg,NJ,Warren County,08865,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,663,36.033035,-79.956447,1,rooftop,4112,Brian Jordan Pl,High Point,NC,Guilford County,27265,US,Guilford
+Wawa,143,40.22858,-75.405701,0.98,nearest_street,4315,W Skippack Pike,Skippack,PA,Montgomery County,19474,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8109,40.320692,-75.935424,1,rooftop,413,Lancaster Ave,Reading,PA,Berks County,19611,US,Berks
+Wawa,959,40.035714,-74.922775,1,rooftop,4167,S Us Highway 130,Beverly,NJ,Burlington County,08010,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,269,40.131199,-76.21814,1,rooftop,4179,Oregon Pike,Ephrata,PA,Lancaster County,17522,US,Lancaster
+Wawa,8332,39.677102,-75.494733,1,rooftop,418,N Broadway,Pennsville,NJ,Salem County,08070,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,729,38.987237,-74.829145,1,rooftop,410,W Rio Grande Ave,Wildwood,NJ,Cape May County,08260,US,Cape May
+Sheetz,232,40.120639,-77.190362,1,rooftop,413,N Baltimore Ave,Mount Holly Springs,PA,Cumberland County,17065,US,Cumberland
+Sheetz,565,37.554701,-77.941779,1,rooftop,4201,Anderson Hwy,Powhatan,VA,Powhatan County,23139,US,Virginia Geographic Information Network (VGIN)
+Wawa,973,39.814567,-74.989149,1,rooftop,421,S White Horse Pike,Clementon,NJ,Camden County,08021,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,568,38.595242,-76.937373,1,rooftop,4210,Crain Hwy,White Plains,MD,Charles County,20695,US,Statewide
+Wawa,975,39.738624,-75.042326,1,rooftop,4231,State Highway 42,Blackwood,NJ,Gloucester County,08012,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5280,28.61111,-81.278783,1,rooftop,4984,Hall Rd,Orlando,FL,Orange County,32817,US,Orange County
+Wawa,914,40.435701,-74.422442,1,rooftop,426,Ryders Ln,East Brunswick,NJ,Middlesex County,08816,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,941,39.445437,-74.629354,1,rooftop,4262,Black Horse Pike,Mays Landing,NJ,Atlantic County,08330,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,200,39.633462,-77.409994,1,rooftop,426,N Church St,Thurmont,MD,Frederick County,21788,US,Frederick County
+Sheetz,649,38.945979,-77.520155,1,rooftop,42855,Yardley Ridge Dr,Sterling,VA,Loudoun County,20166,US,Loudoun
+Sheetz,129,39.634124,-78.764448,1,rooftop,419,Virginia Ave,Cumberland,MD,Allegany County,21502,US,Allegany
+Sheetz,233,40.048205,-76.722812,1,rooftop,4309,N George St,Manchester,PA,York County,17345,US,York
+Sheetz,356,36.056932,-79.889114,1,rooftop,4319,W Wendover Ave,Greensboro,NC,Guilford County,27407,US,Guilford
+Sheetz,427,38.410775,-82.487156,1,rooftop,432,US 60,Huntington,WV,Cabell County,25704,US,Statewide
+Wawa,5106,28.098103,-81.974647,1,rooftop,4320,Us Highway 98 N,Lakeland,FL,Polk County,33805,US,MapWise (and individual Florida counties)
+Sheetz,494,38.449791,-81.904778,1,rooftop,48,Lincoln St,Scott Depot,WV,Putnam County,25560,US,Statewide
+Wawa,8082,39.915689,-75.381314,0.99,nearest_street,465,Baltimore Ave,Media,PA,Delaware County,19063,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,435,41.58003,-81.212768,1,rooftop,108,Wilson Mills Rd,Chardon,OH,Geauga County,44024,US,Geauga
+Sheetz,352,40.052746,-78.510381,1,rooftop,4354,Business 220,Bedford,PA,Bedford County,15522,US,Bedford
+Wawa,5230,28.228884,-81.64891,1,rooftop,43582,Us Highway 27 N,Davenport,FL,Polk County,33837,US,MapWise (and individual Florida counties)
+Wawa,457,39.816898,-74.76074,1,rooftop,436,Oakshade Rd,Vincentown,NJ,Burlington County,08088,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,252,39.996618,-75.074324,1,rooftop,4371,Richmond St,Philadelphia,PA,Philadelphia County,19137,US,Philadelphia
+Sheetz,430,40.467592,-78.756334,1,rooftop,4375,Admiral Peary Hwy,Ebensburg,PA,Cambria County,15931,US,Cambria
+Wawa,690,36.82238,-76.12617,1,rooftop,4377,Holland Rd,Virginia Beach,VA,Virginia Beach city,23462,US,Virginia Beach
+Wawa,5143,28.3046,-81.457361,1,rooftop,4397,W Vine St,Kissimmee,FL,Osceola County,34746,US,MapWise (and individual Florida counties)
+Wawa,59,40.241652,-74.837104,1,rooftop,44,S Main St,Morrisville,PA,Bucks County,19067,US,Bucks
+Wawa,8317,40.536404,-74.297672,1,rooftop,440,King Georges Post Rd,Woodbridge,NJ,Middlesex County,07095,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,658,36.09012,-79.701166,1,rooftop,200,Willowlake Rd,Greensboro,NC,Guilford County,27405,US,NC Geographic Information Coordinating Council
+Sheetz,585,38.355933,-81.724626,1,rooftop,407,McDonald Ave,Charleston,WV,Kanawha County,25309,US,Statewide
+Wawa,5278,26.179403,-80.251979,1,rooftop,4401,N University Dr,Fort Lauderdale,FL,Broward County,33319,US, Loveland
+Wawa,5279,28.47996,-81.332442,1,rooftop,4408,Hoffner Ave,Orlando,FL,Orange County,32812,US,Orange County
+Wawa,5283,28.120464,-80.700385,1,rooftop,4539,Eau Gallie Blvd W,Melbourne,FL,Brevard County,32934,US, Loveland
+Sheetz,546,39.398826,-78.002537,1,rooftop,4430,Winchester Ave,Martinsburg,WV,Berkeley County,25405,US,Statewide
+Wawa,958,39.828844,-74.200302,1,rooftop,444,S Main St,Forked River,NJ,Ocean County,08731,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5178,27.499199,-82.508272,1,rooftop,4455,E Sr 64,Bradenton,FL,Manatee County,34208,US, Loveland
+Wawa,5140,28.679907,-81.521101,1,rooftop,426,Old Dixie Hwy,Apopka,FL,Orange County,32712,US,Orange County
+Sheetz,553,39.759913,-77.728281,1,rooftop,45,Antrim Commons Dr,Greencastle,PA,Franklin County,17225,US,Franklin
+Sheetz,530,41.214016,-76.763619,0.99,rooftop,3326,Rt 405 Hwy,Muncy,PA,Lycoming County,17756,US,Lycoming
+Wawa,486,39.57232,-75.053086,1,rooftop,450,Delsea Dr,Malaga,NJ,Gloucester County,08328,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5203,27.445404,-82.5049,1,rooftop,4506,53rd Ave E,Bradenton,FL,Manatee County,34203,US,Manatee
+Wawa,240,40.018842,-75.097062,1,rooftop,4510,Castor Ave,Philadelphia,PA,Philadelphia County,19124,US,Philadelphia
+Wawa,8038,40.231898,-75.52797,0.98,nearest_street,874,N Lewis Rd,Royersford,PA,Montgomery County,19468,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,664,38.289799,-77.538103,1,rooftop,4527,Plank Rd,Fredericksburg,VA,Spotsylvania County,22407,US,Virginia Geographic Information Network (VGIN)
+Wawa,784,40.332573,-74.246201,1,rooftop,455,County Route 520,Marlboro,NJ,Monmouth County,07746,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,378,39.790844,-74.19527,1,rooftop,452,Us Highway 9,Waretown,NJ,Ocean County,08758,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,831,39.735254,-75.691239,1,rooftop,4555,Linden Hill Rd,Wilmington,DE,New Castle County,19808,US,New Castle
+Sheetz,622,38.978158,-77.425598,1,rooftop,45550,Dulles Plz,Sterling,VA,Loudoun County,20166,US,Loudoun
+Sheetz,57,40.007116,-79.070656,1,rooftop,450,E Main St,Somerset,PA,Somerset County,15501,US,Somerset
+Sheetz,328,41.024109,-80.736306,1,rooftop,4585,Boardman Canfield Rd,Canfield,OH,Mahoning County,44406,US,Mahoning
+Sheetz,515,40.351025,-80.022557,1,rooftop,4599,Library Rd,Bethel Park,PA,Allegheny County,15102,US,Allegheny
+Wawa,11,39.952438,-75.256886,0.98,nearest_street,466,S 69th St,Upper Darby,PA,Delaware County,19082,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,653,38.264415,-77.494269,1,rooftop,4625,Harrison Rd,Fredericksburg,VA,Spotsylvania County,22408,US,Spotsylvania
+Wawa,396,39.864876,-75.099286,1,rooftop,109,Edgewood Ave,Bellmawr,NJ,Camden County,08031,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,780,39.736607,-75.071441,1,rooftop,468,Hurffville Crosskeys,Sewell,NJ,Gloucester County,08080,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,297,41.233855,-75.866283,0.98,nearest_street,455,Wilkes Barre Township Blvd,Wilkes-Barre,PA,Luzerne County,18702,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,580,40.240633,-76.803057,1,nearest_street,,I 283,Harrisburg,PA,Dauphin County,17111,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,868,39.686669,-75.678235,1,rooftop,4657,Ogletown Stanton Rd,Newark,DE,New Castle County,19713,US,New Castle
+Sheetz,536,35.848864,-78.587501,1,rooftop,2710,E Millbrook Rd,Raleigh,NC,Wake County,27604,US,Wake
+Wawa,5218,28.812149,-81.33366,1,rooftop,4660,W 46 Sr,Sanford,FL,Seminole County,32771,US,MapWise (and individual Florida counties)
+Sheetz,289,40.327161,-76.039645,1,rooftop,4661A,Penn Ave,Reading,PA,Berks County,19608,US,Berks
+Wawa,165,40.105584,-74.915546,1,rooftop,4662,Bensalem Blvd,Bensalem,PA,Bucks County,19020,US,Bucks
+Sheetz,245,42.072925,-80.181948,1,rooftop,4662,W Ridge Rd,Erie,PA,Erie County,16506,US,Erie
+Wawa,938,40.136704,-74.225488,1,rooftop,4690,Us Highway 9 S,Howell,NJ,Monmouth County,07731,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,377,40.186631,-79.81768,0.99,nearest_street,,Pa 51,Belle Vernon,PA,Westmoreland County,15012,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,935,39.707387,-74.252804,0.99,rooftop,470,Main St,Manahawkin,NJ,Ocean County,08050,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5103,28.480029,-81.287932,1,rooftop,4700,S Goldenrod Rd,Orlando,FL,Orange County,32822,US,Orange County
+Sheetz,204,40.42415,-79.666649,0.99,nearest_street,,Us 22,Murrysville,PA,Westmoreland County,15668,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8042,39.875737,-75.393875,0.98,nearest_street,4750,Edgmont Ave,Brookhaven,PA,Delaware County,19015,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8632,36.742845,-76.225995,1,rooftop,471,Kempsville Rd,Chesapeake,VA,Chesapeake city,23320,US,City of Chesapeake
+Wawa,215,40.324406,-75.060173,1,rooftop,4712,York Rd,Buckingham,PA,Bucks County,18912,US,Bucks
+Sheetz,582,40.435139,-79.732964,1,rooftop,4723,William Penn Hwy,Monroeville,PA,Allegheny County,15146,US,Allegheny
+Sheetz,548,36.166385,-79.717394,1,rooftop,3703,Anita Ln,Greensboro,NC,Guilford County,27405,US,Guilford
+Wawa,5238,26.154248,-81.751402,1,rooftop,4787,Radio Rd,Naples,FL,Collier County,34104,US,Collier
+Wawa,675,36.904849,-76.136442,1,rooftop,4800,Shore Dr,Virginia Beach,VA,Virginia Beach city,23455,US,Virginia Geographic Information Network (VGIN)
+Sheetz,361,35.898964,-78.556173,1,rooftop,8800,Wadford Dr,Raleigh,NC,Wake County,27616,US,Wake
+Sheetz,367,42.150455,-79.993946,1,rooftop,4801,Buffalo Rd,Erie,PA,Erie County,16510,US,Erie
+Wawa,8403,39.7491,-75.127021,1,rooftop,485,Woodbury Glassboro Rd,Sewell,NJ,Gloucester County,08080,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5257,30.253612,-81.536735,1,rooftop,4866,Gate Pkwy,Jacksonville,FL,Duval County,32246,US,Duval
+Wawa,8059,39.848856,-75.438406,0.99,nearest_street,447,Us Hwy 322,Aston,PA,Delaware County,19014,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,21,40.299096,-78.911647,1,rooftop,500,Central Ave,Johnstown,PA,Cambria County,15902,US,Cambria
+Wawa,287,40.566453,-75.552385,1,rooftop,4900,Hamilton Blvd,Allentown,PA,Lehigh County,18106,US,Lehigh
+Wawa,418,39.881553,-74.922235,1,rooftop,491,State Highway 73,Marlton,NJ,Burlington County,08053,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,413,40.116326,-77.038815,1,rooftop,493,N Rt 15th Rd,Dillsburg,PA,York County,17019,US,York
+Sheetz,128,40.704432,-80.278097,1,rooftop,493,Adams St,Rochester,PA,Beaver County,15074,US,Beaver
+Sheetz,335,40.861231,-79.967208,1,rooftop,105,Lawrence Ave,Butler,PA,Butler County,16001,US,Butler
+Sheetz,29,40.430828,-79.264573,0.99,nearest_street,1,E Market St,Blairsville,PA,Indiana County,15717,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,205,40.050529,-75.5247,1,rooftop,5,Matthews Rd,Media,PA,Chester County,19063,US,Chester
+Sheetz,147,39.410431,-79.40515,1,rooftop,5,N 3rd St,Oakland,MD,Garrett County,21550,US,Statewide
+Wawa,8325,39.949213,-75.027529,1,rooftop,51,Haddonfield Rd,Cherry Hill,NJ,Camden County,08002,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8086,39.989166,-75.402659,0.98,nearest_street,55,N Newtown Street Rd,Newtown Square,PA,Delaware County,19073,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,204,40.178866,-75.105749,0.99,nearest_street,4,N York Rd,Hatboro,PA,Montgomery County,19040,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,853,39.282471,-75.594162,1,rooftop,500,Jimmy Dr,Smyrna,DE,Kent County,19977,US,Kent
+Sheetz,662,41.41387,-75.671264,0.99,rooftop,400,7th Ave,Scranton,PA,Lackawanna County,18503,US,Lackawanna
+Wawa,8336,39.936294,-75.047933,1,rooftop,500,State Highway 38,Cherry Hill,NJ,Camden County,08002,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8605,37.524584,-77.329229,1,rooftop,500,S Airport Dr,Montrose Heights,VA,Henrico County,23231,US,Virginia Geographic Information Network (VGIN)
+Sheetz,330,40.673821,-75.51613,1,rooftop,5001,Macarthur Rd,Whitehall,PA,Lehigh County,18052,US,Lehigh
+Wawa,8027,39.865428,-75.428045,0.98,nearest_street,221,Pennell Rd,Aston,PA,Delaware County,19014,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,226,40.387137,-75.926973,1,rooftop,501,E Bellevue Ave,Reading,PA,Berks County,19605,US,Berks
+Wawa,942,39.494112,-75.04234,1,rooftop,501,N Delsea Dr,Vineland,NJ,Cumberland County,08360,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8304,40.016565,-74.952366,1,rooftop,5010,Us Highway 130,Riverside,NJ,Burlington County,08075,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,9,39.921362,-75.298729,0.98,nearest_street,506,Mildred Ave,Primos,PA,Delaware County,19018,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,433,39.319515,-74.591405,1,rooftop,502,Shore Rd,Somers Point,NJ,Atlantic County,08244,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,641,36.188278,-80.277932,1,rooftop,5030,Raven Rd,Winston-Salem,NC,Forsyth County,27105,US,Forsyth
+Wawa,5124,28.256279,-81.48435,1,rooftop,5035,S Orange Blossom Trl,Kissimmee,FL,Osceola County,34758,US, Loveland
+Wawa,8618,36.794581,-76.167615,1,rooftop,5048,Ferrell Pkwy,Virginia Beach,VA,Virginia Beach city,23464,US,Virginia Geographic Information Network (VGIN)
+Wawa,8338,40.86236,-74.036273,1,rooftop,505,S,Hackensack,NJ,Bergen County,07601,US,Bergen
+Sheetz,481,35.804096,-78.420709,1,rooftop,501,Wendell Blvd,Wendell,NC,Wake County,27591,US,NC Geographic Information Coordinating Council
+Wawa,34,39.844648,-75.717627,1,rooftop,504,W Cypress St,Kennett Square,PA,Chester County,19348,US,Chester
+Sheetz,342,40.792528,-81.445366,1,rooftop,5064,Tuscarawas St W,Canton,OH,Stark County,44708,US,Stark
+Wawa,166,40.301288,-75.853476,1,rooftop,5060,Perkiomen Ave,Reading,PA,Berks County,19606,US,Berks
+Sheetz,661,40.300781,-79.490312,0.98,nearest_street,5064,Us Hwy 30,Greensburg,PA,Westmoreland County,15601,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8305,39.82266,-75.239904,1,rooftop,260,Lodge Ave,Paulsboro,NJ,Gloucester County,08066,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,240,39.295437,-77.844594,1,rooftop,51,Flowing Springs Rd,Charles Town,WV,Jefferson County,25414,US,Jefferson
+Wawa,35,39.882638,-75.346356,0.98,nearest_street,1300,6th Ave,Woodlyn,PA,Delaware County,19094,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8622,38.716671,-77.80884,1,rooftop,510,Frost Ave,Warrenton,VA,Fauquier County,20186,US,Warrenton
+Wawa,969,39.391443,-74.637828,0.99,rooftop,5100,English Creek Ave,Egg Harbor Township,NJ,Atlantic County,08234,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,324,41.135912,-81.735528,1,rooftop,1344,Medina Rd,Wadsworth,OH,Medina County,44281,US,Medina
+Wawa,984,39.744846,-74.994389,0.99,rooftop,501,Cross Keys Berlin Rd,Sicklerville,NJ,Camden County,08081,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,652,37.344619,-76.523305,1,rooftop,5120,George Washington Memorial Hwy,Hayes,VA,Gloucester County,23072,US,Virginia Geographic Information Network (VGIN)
+Wawa,8026,41.055502,-75.094118,1,rooftop,5121,Milford Rd,East Stroudsburg,PA,Monroe County,18301,US,Monroe
+Wawa,970,39.408169,-74.521314,1,rooftop,513,W Delilah Rd,Pleasantville,NJ,Atlantic County,08232,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8051,40.564355,-76.007812,1,rooftop,515,Lowland Rd,Hamburg,PA,Berks County,19526,US,Berks
+Wawa,8501,39.455729,-76.826123,1,rooftop,516,Main St,Reisterstown,MD,Baltimore County,21136,US,Baltimore
+Wawa,247,39.941926,-75.14628,1,rooftop,511,S Philip St,Philadelphia,PA,Philadelphia County,19147,US,Philadelphia
+Sheetz,355,36.164347,-80.137025,1,rooftop,5198,Reidsville Rd,Walkertown,NC,Forsyth County,27051,US,NC Geographic Information Coordinating Council
+Wawa,57,40.041556,-75.485736,1,rooftop,54,W Lancaster Ave,Paoli,PA,Chester County,19301,US,Chester
+Sheetz,371,35.793216,-78.548588,1,rooftop,1090,N Rogers Ln,Raleigh,NC,Wake County,27610,US,NC Geographic Information Coordinating Council
+Wawa,925,39.446097,-74.702792,1,rooftop,5201,Harding Hwy,Mays Landing,NJ,Atlantic County,08330,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,527,40.218639,-76.978853,1,rooftop,5201,Simpson Ferry Rd,Mechanicsburg,PA,Cumberland County,17050,US,Cumberland
+Wawa,5224,27.387325,-82.465536,1,rooftop,5208,University Pkwy,Sarasota,FL,Sarasota County,34243,US,Sarasota
+Wawa,753,39.343314,-74.471353,1,rooftop,5212,Ventnor Ave,Ventnor City,NJ,Atlantic County,08406,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,184,40.140482,-74.875108,1,rooftop,5220,New Falls Rd,Levittown,PA,Bucks County,19056,US,Bucks
+Wawa,965,39.934032,-75.069231,1,rooftop,4950,Marlton Pike,Merchantville,NJ,Camden County,08109,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,568,36.093698,-80.369917,1,rooftop,5230,Beauchamp Ln,Winston Salem,NC,Forsyth County,27104,US,NC Geographic Information Coordinating Council
+Wawa,655,37.604606,-77.453968,1,rooftop,5231,Brook Rd,Richmond,VA,Henrico County,23227,US,Henrico
+Sheetz,550,40.278323,-78.844851,1,rooftop,524,Town Centre Dr,Johnstown,PA,Cambria County,15904,US,Cambria
+Sheetz,170,40.610104,-79.188637,0.98,nearest_street,599,Us Hwy 422 Bus,Indiana,PA,Indiana County,15701,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,12,39.946849,-75.301912,0.99,nearest_street,530,Burmont Rd,Drexel Hill,PA,Delaware County,19026,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,843,39.448321,-75.728117,1,rooftop,528,W Main St,Middletown,DE,New Castle County,19709,US,New Castle
+Wawa,8641,37.022297,-76.440299,1,rooftop,5280,W Mercury Blvd,Newport News,VA,Hampton city,23605,US,Virginia Geographic Information Network (VGIN)
+Sheetz,441,41.426597,-82.075872,1,rooftop,906,N Clark St,Elyria,OH,Lorain County,44035,US,Lorain
+Sheetz,123,40.613606,-79.946703,1,rooftop,2884,E Hardies Rd,Gibsonia,PA,Allegheny County,15044,US,Allegheny
+Wawa,8626,37.512111,-77.348953,1,rooftop,5301,S Laburnum Ave,Montrose Heights,VA,Henrico County,23231,US,Henrico
+Wawa,5177,27.44752,-82.575835,1,rooftop,5310,W 14th St,Bradenton,FL,Manatee County,34207,US, Loveland
+Wawa,5304,27.269865,-82.462788,1,rooftop,5321,Clark Rd,Sarasota,FL,Sarasota County,34233,US,Sarasota
+Sheetz,218,38.429181,-78.855654,1,rooftop,1790,Reservoir St,Harrisonburg,VA,Rockingham County,22801,US,Virginia Geographic Information Network (VGIN)
+Sheetz,178,40.068172,-77.333355,0.96,nearest_street,391,T350,Newville,PA,Cumberland County,17241,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,271,40.186375,-75.146573,0.97,nearest_street,1,Forrester Rd,Horsham,PA,Montgomery County,19044,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,653,38.659865,-77.368425,0.99,rooftop,5350,Dale Blvd,Woodbridge,VA,Prince William County,22193,US,Virginia Geographic Information Network (VGIN)
+Wawa,669,38.339622,-77.077498,1,rooftop,5362,James Madison Pkwy,King George,VA,King George County,22485,US,Virginia Geographic Information Network (VGIN)
+Sheetz,461,40.409147,-77.009907,1,rooftop,54,Benvenue Rd,Duncannon,PA,Dauphin County,17020,US,Dauphin
+Sheetz,353,40.44771,-80.157389,1,rooftop,5410,Campbells Run Rd,Pittsburgh,PA,Allegheny County,15205,US,Allegheny
+Sheetz,366,36.059143,-79.908882,1,rooftop,805,Guilford College Rd,Greensboro,NC,Guilford County,27409,US,Guilford
+Wawa,8505,39.381817,-77.40096,1,rooftop,5440,Urbana Pike,Frederick,MD,Frederick County,21704,US,Statewide
+Wawa,200,40.266334,-75.228446,1,rooftop,545,W Butler Ave,Chalfont,PA,Bucks County,18914,US,Bucks
+Wawa,909,40.157254,-74.429722,1,rooftop,548,Monmouth Rd,Clarksburg,NJ,Monmouth County,08510,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,457,37.847147,-81.196084,1,rooftop,5481,Robert C Byrd Dr,Bradley,WV,Raleigh County,25818,US,Raleigh
+Wawa,8055,40.204539,-75.094582,1,rooftop,555,W Street Rd,Warminster,PA,Bucks County,18974,US,Bucks
+Sheetz,281,41.099087,-80.763045,1,rooftop,5499,Mahoning Ave,Youngstown,OH,Mahoning County,44515,US,Mahoning
+Wawa,740,39.957088,-75.002988,1,rooftop,55,Forked Landing Rd,Maple Shade,NJ,Burlington County,08052,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,645,35.420823,-78.807131,1,rooftop,55,Pine State St,Lillington,NC,Harnett County,27546,US,Harnett
+Wawa,221,40.228194,-75.139878,1,rooftop,550,Easton Rd,Warrington,PA,Bucks County,18976,US,Bucks
+Wawa,441,39.767808,-74.21359,1,rooftop,550,N Main St,Barnegat,NJ,Ocean County,08005,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,554,35.617493,-78.534806,1,rooftop,3796,42 Hwy W,Clayton,NC,Johnston County,27520,US,NC Geographic Information Coordinating Council
+Sheetz,323,38.326158,-77.729339,1,rooftop,5504,Germanna Hwy,Locustgrove,VA,Orange County,22508,US,Virginia Geographic Information Network (VGIN)
+Sheetz,463,40.989283,-76.065709,0.98,nearest_street,551,State Rte 93,Sugarloaf,PA,Luzerne County,18249,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,293,40.444812,-75.954624,1,rooftop,5515,Pottsville Pi,Leesport,PA,Berks County,19533,US,Berks
+Sheetz,453,36.026441,-80.160846,1,rooftop,5519,Gumtree Rd,Winston-Salem,NC,Davidson County,27107,US,Davidson
+Sheetz,256,40.501399,-75.963934,1,rooftop,540,Shoemaker Ave,Shoemakersville,PA,Berks County,19555,US,Berks
+Wawa,8386,40.545904,-74.425872,1,rooftop,555,New Durham Rd,Piscataway,NJ,Middlesex County,08854,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,629,40.451668,-80.129222,1,rooftop,5554,Steubenville Pike,McKees Rocks,PA,Allegheny County,15136,US,Allegheny
+Wawa,5254,27.41736,-80.381765,1,rooftop,5575,Okeechobee Rd,Fort Pierce,FL,St. Lucie County,34950,US,MapWise (and individual Florida counties)
+Wawa,8104,40.012904,-75.068494,1,rooftop,5233-65,Harbison Ave,Philadelphia,PA,Philadelphia County,19124,US,Philadelphia
+Sheetz,161,39.386882,-77.409023,1,rooftop,5601,Buckeystown Pike,Frederick,MD,Frederick County,21704,US,Frederick County
+Wawa,5190,28.201823,-80.671197,1,rooftop,5605,N Wickham Rd,Melbourne,FL,Brevard County,32940,US,MapWise (and individual Florida counties)
+Wawa,830,39.316221,-75.614906,1,rooftop,5632,Dupont Pkwy,Smyrna,DE,New Castle County,19977,US,New Castle
+Sheetz,383,36.025657,-78.507748,1,rooftop,564,1 Hwy,Youngsville,NC,Franklin County,27596,US,NC Geographic Information Coordinating Council
+Wawa,208,40.035871,-75.571725,1,rooftop,567,Lancaster Ave,Malvern,PA,Chester County,19355,US,Chester
+Sheetz,487,39.922509,-79.72659,0.97,nearest_street,500,Pittsburgh Rd,Uniontown,PA,Fayette County,15401,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8609,36.885611,-76.179259,1,rooftop,5701,Northampton Blvd,Virginia Beach,VA,Virginia Beach city,23455,US,Virginia Geographic Information Network (VGIN)
+Wawa,5139,28.024965,-82.542426,1,rooftop,5702,W Waters Ave,Tampa,FL,Hillsborough County,33634,US,Hillsborough County
+Sheetz,7,40.472525,-78.425356,0.99,nearest_street,604,58th St,Altoona,PA,Blair County,16602,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,425,39.544801,-77.906654,1,rooftop,5715,Hammonds Mill Rd,Falling Waters,WV,Berkeley County,25419,US,Statewide
+Wawa,8005,40.21515,-75.545576,0.98,nearest_street,566,N Lewis Rd,Royersford,PA,Montgomery County,19468,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,609,41.404803,-81.784518,1,rooftop,13349,Snow Rd,Brookpark,OH,Cuyahoga County,44142,US,Cuyahoga
+Wawa,8341,40.566841,-74.563148,0.99,rooftop,124,Chimney Rock Rd,Bridgewater,NJ,Somerset County,08807,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5308,28.527732,-81.459597,1,rooftop,5700,Raleigh St,Orlando,FL,Orange County,32811,US, Loveland
+Wawa,5164,28.610277,-81.416044,1,rooftop,5820,Edgewater Dr,Orlando,FL,Orange County,32810,US,Orange County
+Wawa,687,37.165384,-76.465075,1,rooftop,5824,Geo Wash Mem Hwy,Yorktown,VA,York County,23692,US,Virginia Geographic Information Network (VGIN)
+Wawa,554,39.39216,-77.438149,1,rooftop,5833,Ballenger Creek Pike,Frederick,MD,Frederick County,21703,US,Frederick County
+Wawa,288,40.385839,-75.147335,1,rooftop,5854,Old Easton Rd,Doylestown,PA,Bucks County,18901,US,Bucks
+Sheetz,439,41.4022,-79.807086,0.99,rooftop,562,Allegheny Blvd,Franklin,PA,Venango County,16323,US,Venango
+Wawa,427,39.84347,-75.144463,1,rooftop,590,N Evergreen Ave,Woodbury,NJ,Gloucester County,08096,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,268,40.117449,-74.844547,1,rooftop,5000,Bristol Pike,Bristol,PA,Bucks County,19007,US,Bucks
+Wawa,5241,27.781283,-82.715612,1,rooftop,5901,9th Ave N,Saint Petersburg,FL,Pinellas County,33710,US, Loveland
+Sheetz,418,35.868183,-80.037194,1,rooftop,5905,Finch Farm Rd,Thomasville,NC,Randolph County,27360,US,Randolph
+Wawa,5101,28.405915,-81.457574,1,rooftop,5910,Central Florida Pkwy,Orlando,FL,Orange County,32821,US,Orange County
+Wawa,157,40.219329,-75.247815,0.98,nearest_street,154,Us Hwy 202,North Wales,PA,Montgomery County,19454,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,334,41.880483,-80.172417,1,rooftop,1000,Rte 6n,Edinboro,PA,Erie County,16412,US,Erie
+Wawa,923,40.053814,-74.139227,1,rooftop,595,Brick Blvd,Brick,NJ,Ocean County,08723,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8320,40.67331,-74.199952,1,rooftop,589,Spring St,Elizabeth,NJ,Union County,07201,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,584,38.548642,-76.986681,1,rooftop,5955,Crain Hwy,La Plata,MD,Charles County,20646,US,Statewide
+Sheetz,429,40.05999,-80.59654,1,rooftop,1,Cabela Dr,Triadelphia,WV,Ohio County,26059,US,Statewide
+Wawa,401,40.097328,-74.144505,1,rooftop,6,Old Lanes Mill Rd,Brick,NJ,Ocean County,08724,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,243,38.728475,-77.791449,1,rooftop,600,Blackwell Rd,Warrenton,VA,Fauquier County,20186,US,Virginia Geographic Information Network (VGIN)
+Wawa,460,40.003566,-75.021446,1,rooftop,600,Cinnaminson Ave,Palmyra,NJ,Burlington County,08065,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,480,35.789773,-78.739226,1,rooftop,600,Corporate Center Dr,Raleigh,NC,Wake County,27607,US,Wake
+Wawa,676,37.3471,-77.345248,1,rooftop,600,E* Hundred Rd,Chester,VA,Chesterfield County,23836,US,Virginia Geographic Information Network (VGIN)
+Sheetz,514,37.779116,-79.435244,1,rooftop,534,E Nelson St,Lexington,VA,Lexington city,24450,US,City of Lexington
+Sheetz,452,41.158896,-81.359966,1,rooftop,612,N Mantua St,Kent,OH,Portage County,44240,US,Portage
+Wawa,8044,40.459587,-75.369162,1,rooftop,600,N West End Blvd,Quakertown,PA,Bucks County,18951,US,Bucks
+Wawa,8337,39.943813,-74.968848,1,rooftop,600,State Highway 38,Maple Shade,NJ,Burlington County,08052,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,254,39.866555,-75.294624,0.98,nearest_street,439,Jansen Ave,Essington,PA,Delaware County,19029,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,193,40.022164,-75.062758,1,rooftop,6001,Harbison Ave,Philadelphia,PA,Philadelphia County,19135,US,Philadelphia
+Wawa,673,37.435115,-77.489372,1,rooftop,6001,Iron Bridge Rd,Richmond,VA,Chesterfield County,23234,US,Virginia Geographic Information Network (VGIN)
+Wawa,586,39.56851,-76.353354,1,rooftop,601,Hoagie Dr,Bel Air,MD,Harford County,21014,US,Harford
+Sheetz,208,39.166895,-78.163313,1,rooftop,601,Millwood Ave,Winchester,VA,Frederick County,22601,US,Virginia Geographic Information Network (VGIN)
+Wawa,867,39.817411,-75.457795,1,rooftop,697,Naamans Rd,Claymont,DE,New Castle County,19703,US,New Castle
+Wawa,860,39.684552,-75.733274,1,rooftop,601,Ogletown Rd,Newark,DE,New Castle County,19711,US,New Castle
+Sheetz,316,39.428576,-76.35485,1,rooftop,601,Pulaski Hwy,Joppa,MD,Harford County,21085,US,Harford
+Wawa,8075,40.138847,-74.98798,1,rooftop,701,Street Rd,Feasterville-Trevose,PA,Bucks County,19053,US,Bucks
+Wawa,563,38.561063,-76.066101,1,rooftop,601,Sunburst Hwy,Cambridge,MD,Dorchester County,21613,US,Statewide
+Sheetz,449,40.264175,-76.783042,1,rooftop,6010,Derry St,Harrisburg,PA,Dauphin County,17111,US,Dauphin
+Wawa,60,40.141359,-74.860663,1,rooftop,6016,Emilie Rd,Levittown,PA,Bucks County,19057,US,Bucks
+Wawa,972,39.886231,-75.086946,1,rooftop,21,Valley Rd,Mount Ephraim,NJ,Camden County,08059,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,260,40.172552,-76.195805,1,rooftop,602,S Reading Rd,Ephrata,PA,Lancaster County,17522,US,Lancaster
+Sheetz,664,35.797589,-78.500036,1,rooftop,6030,Village Park Dr,Knightdale,NC,Wake County,27545,US,Wake
+Wawa,693,37.244308,-77.410722,1,rooftop,604,Blvd,Colonial Heights,VA,Colonial Heights city,23834,US,Virginia Geographic Information Network (VGIN)
+Wawa,743,40.105232,-74.2041,1,rooftop,605,E County Line Rd,Lakewood,NJ,Ocean County,08701,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8091,40.06603,-75.5355,0.99,rooftop,595,Morehall Rd,Horsham,PA,Chester County,19044,US,Chester
+Wawa,842,39.788588,-75.697283,1,rooftop,7440,Lancaster Pike,Hockessin,DE,New Castle County,19707,US,New Castle
+Sheetz,519,39.399076,-77.406292,1,rooftop,6050,Buckeystown Pike,Frederick,MD,Frederick County,21704,US,Statewide
+Sheetz,518,40.243067,-76.992783,1,rooftop,6052,Carlisle Pike,Mechanicsburg,PA,Cumberland County,17050,US,Cumberland
+Wawa,8376,40.486894,-74.470823,1,rooftop,607,Somerset St,Somerset,NJ,Somerset County,08873,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5134,28.553246,-81.286681,1,rooftop,608,N Goldenrod Rd,Orlando,FL,Orange County,32807,US,Orange County
+Wawa,999,39.48372,-74.999453,1,rooftop,61,S Main Rd,Vineland,NJ,Cumberland County,08360,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,498,40.443547,-79.230782,0.98,nearest_street,,Us 22,Blairsville,PA,Indiana County,15717,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,359,41.463593,-75.650521,1,rooftop,610,Scranton Carbondale Hwy,Dickson City,PA,Lackawanna County,18519,US,Lackawanna
+Sheetz,644,39.87129,-77.028261,1,rooftop,6100,York Rd,New Oxford,PA,Adams County,17350,US,Adams
+Wawa,736,39.432293,-74.508986,1,rooftop,611,New Jersey Ave,Absecon,NJ,Atlantic County,08201,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,471,36.329506,-78.447629,1,rooftop,619,Ruin Creek Rd,Henderson,NC,Vance County,27537,US,NC Geographic Information Coordinating Council
+Wawa,5125,27.828804,-82.680324,1,rooftop,6200,34th St N,Pinellas Park,FL,Pinellas County,33781,US, Loveland
+Wawa,944,39.398438,-75.056021,1,rooftop,20,Sharp St,Millville,NJ,Cumberland County,08332,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,87,40.12038,-79.560732,0.96,nearest_street,6281,Porter Ave,Scottdale,PA,Westmoreland County,15683,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,549,38.994821,-76.532493,1,rooftop,628,Admiral Dr,Annapolis,MD,Anne Arundel County,21401,US,Anne Arundel County
+Sheetz,412,40.325065,-76.782501,0.99,rooftop,6290,Allentown Blvd,Harrisburg,PA,Dauphin County,17112,US,Dauphin
+Wawa,8628,36.897355,-76.226002,1,rooftop,6301,Military Hwy,Norfolk,VA,Norfolk city,23513,US,Virginia Geographic Information Network (VGIN)
+Wawa,8308,39.721838,-75.160685,0.99,rooftop,834,Lambs Rd,Mullica Hill,NJ,Gloucester County,08062,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8032,40.680575,-75.248099,1,rooftop,631,S 25th St,Easton,PA,Northampton County,18045,US,Northampton
+Wawa,979,40.082939,-74.479585,1,rooftop,633,Pinehurst Rd,New Egypt,NJ,Ocean County,08533,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8382,39.812047,-75.017402,1,rooftop,635,Chews Landing Rd,Clementon,NJ,Camden County,08021,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5193,26.045442,-80.230791,1,rooftop,6350,Stirling Rd,Hollywood,FL,Broward County,33024,US,Broward
+Wawa,5285,28.251993,-82.187898,1,rooftop,6500,Gall Blvd,Zephyrhills,FL,Pasco County,33542,US,Pasco
+Wawa,115,40.036212,-75.070317,1,rooftop,6400,Bustleton Ave,Philadelphia,PA,Philadelphia County,19149,US,Philadelphia
+Sheetz,409,35.552503,-77.404995,1,rooftop,650,Whitley Dr,Winterville,NC,Pitt County,28590,US,Pitt
+Wawa,5136,28.469634,-81.311671,1,rooftop,5597,Leevista Blvd,Orlando,FL,Orange County,32812,US, Loveland
+Wawa,5160,28.449462,-81.466658,1,rooftop,6500,W Sand Lake Rd,Orlando,FL,Orange County,32819,US,Orange County
+Wawa,8009,40.030069,-75.056023,1,rooftop,6506,Frankford Ave,Philadelphia,PA,Philadelphia County,19135,US,Philadelphia
+Wawa,8502,39.287371,-76.535354,1,rooftop,6571,Eastern Ave,Baltimore,MD,Baltimore city,21224,US,Statewide
+Sheetz,278,39.91221,-79.749009,0.97,nearest_street,41,Old New Salem Rd,Uniontown,PA,Fayette County,15401,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,195,40.246756,-77.029227,1,rooftop,6558,Carlisle Pike,Mechanicsburg,PA,Cumberland County,17050,US,Cumberland
+Wawa,983,40.461392,-74.400688,1,rooftop,656,Old Bridge Tpke,South River,NJ,Middlesex County,08882,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5212,26.618099,-80.147715,1,rooftop,6566,Lake Worth Rd,Lake Worth,FL,Palm Beach County,33467,US,Palm Beach County
+Sheetz,351,40.26833,-76.690047,1,rooftop,625,E Main St,Hummelstown,PA,Dauphin County,17036,US,Dauphin
+Sheetz,273,40.287706,-75.818817,1,rooftop,6600,E Perkiomen Ave,Birdsboro,PA,Berks County,19508,US,Berks
+Wawa,947,39.410508,-74.56884,1,rooftop,6678,Black Horse Pike,Egg Harbor Township,NJ,Atlantic County,08234,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,352,39.916499,-75.070168,1,rooftop,666,Haddon Ave,Collingswood,NJ,Camden County,08108,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,555,38.358118,-75.600478,1,rooftop,668,S Salisbury Blvd,Salisbury,MD,Wicomico County,21801,US,Statewide
+Wawa,73,39.940716,-75.272654,0.98,nearest_street,9,E Stratford Ave,Lansdowne,PA,Delaware County,19050,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8049,40.040837,-75.223688,1,rooftop,6701,Ridge Ave,Philadelphia,PA,Philadelphia County,19128,US,Philadelphia
+Wawa,377,39.728171,-75.013095,1,rooftop,672,Cross Keys Berlin Rd,Sicklerville,NJ,Camden County,08081,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8333,39.398954,-74.555494,1,rooftop,6750,Black Horse Pike,Egg Harbor Township,NJ,Atlantic County,08234,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,308,36.600153,-79.862975,1,rooftop,6758,Greensboro Rd,Ridgeway,VA,Henry County,24148,US,Virginia Geographic Information Network (VGIN)
+Wawa,38,40.149812,-74.97703,1,rooftop,676,Rosewood Ave,Feasterville-Trevose,PA,Bucks County,19053,US,Bucks
+Sheetz,465,41.380936,-81.735296,1,rooftop,6760,Ridge Rd,Cleveland,OH,Cuyahoga County,44129,US,Cuyahoga
+Wawa,5263,30.149535,-81.755989,1,rooftop,678,Blanding Blvd,Orange Park,FL,Clay County,32073,US,Clay County
+Sheetz,531,40.476775,-78.391793,0.99,rooftop,269,864 11th St St,Altoona,PA,Blair County,16601,US,Blair
+Wawa,5276,30.270408,-81.756069,1,rooftop,6787,Wilson Blvd,Jacksonville,FL,Duval County,32210,US,MapWise (and individual Florida counties)
+Wawa,8006,40.05587,-75.0907,1,rooftop,424,Longshore Ave,Philadelphia,PA,Philadelphia County,19111,US,Philadelphia
+Sheetz,605,40.078516,-80.873052,0.98,nearest_street,50602,Twp Hwy 436,Saint Clairsville,OH,Belmont County,43950,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,859,39.453027,-75.68033,1,rooftop,690,Middletown Odessa Rd,Middletown,DE,New Castle County,19709,US,New Castle
+Wawa,8327,39.719228,-75.112942,1,rooftop,698,Delsea Mnr,Glassboro,NJ,Gloucester County,08028,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,460,36.08121,-79.930465,1,rooftop,6930,W Market St,Greensboro,NC,Guilford County,27409,US,Guilford
+Wawa,183,40.046287,-75.070371,1,rooftop,6925-35,Castor Ave,Philadelphia,PA,Philadelphia County,19149,US,Philadelphia
+Sheetz,301,41.179918,-81.246554,1,rooftop,6941,State Rt 44,Ravenna,OH,Portage County,44266,US,Portage
+Sheetz,231,40.093957,-76.112262,1,rooftop,698,W Main St,New Holland,PA,Lancaster County,17557,US,Lancaster
+Wawa,863,39.694466,-75.598838,1,rooftop,7,E Commons Blvd,New Castle,DE,New Castle County,19720,US,New Castle
+Wawa,714,39.602695,-74.881441,1,rooftop,100,Cains Mill Rd,Williamstown,NJ,Atlantic County,08094,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8335,40.881296,-74.118449,1,rooftop,22,Jewell St,Garfield,NJ,Bergen County,07026,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,745,39.969793,-74.582567,1,rooftop,7,Juliustown Rd,Browns Mills,NJ,Burlington County,08015,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,11,40.519129,-78.397604,0.99,nearest_street,749,Chestnut Ave,Altoona,PA,Blair County,16601,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8052,40.040285,-75.057374,1,rooftop,7001,E Roosevelt Blv,Philadelphia,PA,Philadelphia County,19149,US,Philadelphia
+Wawa,5165,27.493396,-82.562127,1,rooftop,701,1st St E,Bradenton,FL,Manatee County,34208,US,Manatee
+Wawa,595,39.055519,-76.657552,1,rooftop,680,Crain Hwy N,Gambrills,MD,Anne Arundel County,21054,US,Anne Arundel County
+Sheetz,63,41.125265,-78.742309,1,rooftop,701,E Dubois Ave,Dubois,PA,Clearfield County,15801,US,Clearfield
+Sheetz,237,40.175967,-76.308248,1,rooftop,701,Furnace Hills Pike,Lititz,PA,Lancaster County,17543,US,Lancaster
+Wawa,794,39.862522,-74.172884,1,rooftop,701,N Main St,Lanoka Harbor,NJ,Ocean County,08734,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,292,40.152248,-75.348605,0.98,nearest_street,2906,Whitehall Rd,Norristown,PA,Montgomery County,19403,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,584,38.821963,-81.72395,1,rooftop,701,W Main St,Ripley,WV,Jackson County,25271,US,Statewide
+Wawa,360,39.770204,-75.13478,1,rooftop,701,Woodbury Glassboro Rd,Sewell,NJ,Gloucester County,08080,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,238,38.208063,-78.385047,1,rooftop,7020,Seminole Trl,Ruckersville,VA,Greene County,22968,US,Virginia Geographic Information Network (VGIN)
+Sheetz,483,36.278389,-80.340418,1,rooftop,703,E King St,King,NC,Stokes County,27021,US,City of King
+Wawa,5105,28.463612,-81.397631,1,rooftop,7030,S Orange Blossom Trl,Orlando,FL,Orange County,32809,US,Orange County
+Sheetz,350,37.609908,-77.520017,1,rooftop,7035,W Broad St,Richmond,VA,Henrico County,23294,US,Henrico
+Wawa,801,39.771193,-75.499912,1,rooftop,729,Philadelphia Pike,Wilmington,DE,New Castle County,19809,US,New Castle
+Wawa,8003,40.128253,-75.40617,0.98,nearest_street,6101,Shannondell Blvd,Norristown,PA,Montgomery County,19403,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,278,39.965068,-75.593728,1,rooftop,706,E Gay St,West Chester,PA,Chester County,19380,US,Chester
+Wawa,96,40.216112,-75.275877,0.99,nearest_street,708,E Walnut St,North Wales,PA,Montgomery County,19454,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,553,39.522333,-76.357692,1,rooftop,709,Bel Air Rd,Bel Air,MD,Harford County,21014,US,Harford
+Wawa,494,39.837215,-74.958412,1,rooftop,73,Lakeview Dr S,Gibbsboro,NJ,Camden County,08026,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,260,41.349297,-79.711128,1,rooftop,2372,Cranberry Rockland Rd,Cranberry,PA,Venango County,16319,US,Venango
+Wawa,8503,39.18023,-76.615601,1,rooftop,1111,Crain Hwy N,Glen Burnie,MD,Anne Arundel County,21061,US,Anne Arundel County
+Wawa,936,39.500732,-74.607569,1,rooftop,716,W White Horse Pike,Absecon,NJ,Atlantic County,08201,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,402,40.699981,-79.719519,1,rooftop,717,S Pike Rd,Sarver,PA,Butler County,16055,US,Butler
+Sheetz,33,40.599834,-78.32122,1,rooftop,718,555 E Bellwood Rd Rd,Altoona,PA,Blair County,16601,US,Blair
+Wawa,968,39.446412,-74.529229,0.99,rooftop,242,E White Horse Pike,Absecon,NJ,Atlantic County,08205,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,665,38.449556,-77.40373,1,rooftop,72,Austin Park Dr,Stafford,VA,Stafford County,22554,US,Virginia Geographic Information Network (VGIN)
+Sheetz,32,39.92914,-77.989662,1,rooftop,719,Lincoln Way E,McConnellsburg,PA,Fulton County,17233,US,Fulton
+Wawa,718,39.94037,-74.938519,1,rooftop,257,Ramblewood Pkwy,Mount Laurel,NJ,Burlington County,08054,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,654,36.790649,-76.235509,1,rooftop,720,Woodlake Dr,Chesapeake,VA,Chesapeake city,23320,US,Virginia Geographic Information Network (VGIN)
+Wawa,170,39.849015,-75.536895,0.98,nearest_street,723,Naamans Creek Rd,Chadds Ford,PA,Delaware County,19317,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,125,40.06094,-75.191944,1,rooftop,7236-40,Germantown Ave,Philadelphia,PA,Philadelphia County,19119,US,Philadelphia
+Sheetz,364,38.080729,-78.990495,1,rooftop,726,Tinkling Spring Rd,Fishersville,VA,Augusta County,22939,US,Virginia Geographic Information Network (VGIN)
+Wawa,5214,26.782443,-80.092503,1,rooftop,7289,Garden Rd,West Palm Beach,FL,Palm Beach County,33404,US,Palm Beach County
+Wawa,380,39.514998,-74.925625,1,rooftop,729,S Harding Hwy,Buena,NJ,Atlantic County,08310,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8600,37.537659,-77.531373,1,rooftop,7316,Forest Hill Ave,Richmond,VA,Richmond city,23225,US,Virginia Geographic Information Network (VGIN)
+Sheetz,358,37.147446,-80.586945,1,rooftop,7335,Lee Hwy,Radford,VA,Pulaski County,24141,US,Virginia Geographic Information Network (VGIN)
+Wawa,43,40.178364,-75.225672,0.98,nearest_street,801,N Bethlehem Pike,Spring House,PA,Montgomery County,19477,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,625,38.417984,-82.445129,1,rooftop,740,6th Ave,Huntington,WV,Cabell County,25701,US,Statewide
+Wawa,5146,27.996907,-82.37234,1,rooftop,7410,E Hillsborough Ave,Tampa,FL,Hillsborough County,33610,US,Hillsborough County
+Wawa,8037,40.622565,-75.360763,1,rooftop,741,E Broad St,Bethlehem,PA,Northampton County,18018,US,Northampton
+Sheetz,197,39.081062,-78.216267,1,nearest_street,,I 81,Stephens City,VA,Frederick County,22655,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8306,40.415512,-74.066922,1,rooftop,75,Appleton Ave,Leonardo,NJ,Monmouth County,07737,US,Monmouth
+Wawa,85,40.055309,-75.646973,1,rooftop,750,N Pottstown Park,Exton,PA,Chester County,19341,US,Chester
+Sheetz,557,42.105732,-80.149988,0.99,rooftop,2860,W 6th St,Erie,PA,Erie County,16505,US,Erie
+Wawa,672,37.500329,-77.535086,1,rooftop,7514,Midlothian Tpke,Richmond,VA,Chesterfield County,23225,US,Virginia Geographic Information Network (VGIN)
+Sheetz,456,37.363228,-81.057773,1,rooftop,751,Oakvale Rd,Princeton,WV,Mercer County,24740,US,Statewide
+Sheetz,620,35.876282,-78.538949,1,rooftop,7511,Ramble Way,Raleigh,NC,Wake County,27616,US,NC Geographic Information Coordinating Council
+Sheetz,611,35.904237,-78.95943,1,nearest_street,,I 40,Durham,NC,Durham County,27713,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,196,40.459137,-78.592832,1,rooftop,7551,Admiral Peary Hwy,Cresson,PA,Cambria County,16630,US,Cambria
+Wawa,266,40.572126,-75.616982,1,rooftop,7572,Schantz Rd,Allentown,PA,Lehigh County,18106,US,Lehigh
+Wawa,423,40.023636,-74.856243,1,rooftop,76,Springside Rancocas Rd,Mount Holly,NJ,Burlington County,08060,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,160,39.834668,-75.794942,1,rooftop,761,Gap Newport Park,Avondale,PA,Chester County,19311,US,Chester
+Wawa,8004,40.160762,-74.84816,1,rooftop,7737,New Falls Rd,Fairless Hills,PA,Bucks County,19030,US,Bucks
+Sheetz,339,40.836143,-77.802144,1,rooftop,765,Benner Pike,State College,PA,Centre County,16801,US,Centre
+Wawa,446,39.616579,-75.228805,1,rooftop,759,Us Highway 40,Elmer,NJ,Salem County,08318,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,235,40.821315,-76.848871,1,rooftop,766,N Susquehanna Trl,Selinsgrove,PA,Snyder County,17870,US,Snyder
+Sheetz,19,40.618274,-79.152953,0.99,nearest_street,600,South St,Indiana,PA,Indiana County,15701,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,5233,26.327175,-80.203465,1,rooftop,7705,N State Rd 7,Pompano Beach,FL,Broward County,33067,US,Broward
+Wawa,8525,39.154214,-76.743966,1,rooftop,7706,Milestone Pkwy,Hanover,MD,Anne Arundel County,21076,US,Anne Arundel County
+Wawa,262,40.039402,-75.032856,1,rooftop,7715,Frankford Ave,Philadelphia,PA,Philadelphia County,19136,US,Philadelphia
+Wawa,685,37.08065,-76.459639,1,rooftop,772,J Clyde Morris Blvd,Newport News,VA,Newport News city,23601,US,City of Newport News
+Wawa,836,38.539916,-75.070728,1,rooftop,774,Garfield Prkwy,Bethany Beach,DE,Sussex County,19930,US,Sussex
+Sheetz,526,41.705314,-81.361816,1,rooftop,7771,Lake Shore Blvd,Mentor,OH,Lake County,44060,US,Lake
+Sheetz,616,40.243216,-76.706425,1,rooftop,777,Middletown Rd,Hummelstown,PA,Dauphin County,17036,US,Dauphin
+Sheetz,442,41.215757,-77.179069,1,rooftop,7775,N Rt 220 Hwy,Linden,PA,Lycoming County,17744,US,Lycoming
+Sheetz,394,41.659073,-81.377287,1,rooftop,7787,Reynolds Rd,Mentor,OH,Lake County,44060,US,Lake
+Wawa,8507,39.141706,-76.649188,1,rooftop,7800,Parke West Dr,Glen Burnie,MD,Anne Arundel County,21061,US,Statewide
+Sheetz,229,40.313714,-79.671446,0.99,nearest_street,,Us 30,Irwin,PA,Westmoreland County,15642,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8634,37.613268,-77.328064,1,rooftop,7847,Compass Point Ln,Mechanicsville,VA,Hanover County,23111,US,Virginia Geographic Information Network (VGIN)
+Wawa,8025,39.991012,-76.020129,1,rooftop,787,Route 41,Gap,PA,Lancaster County,17527,US,Lancaster
+Sheetz,143,39.358022,-78.03883,1,rooftop,7899,Winchester Ave,Inwood,WV,Berkeley County,25428,US,Statewide
+Sheetz,436,36.128584,-80.060423,1,rooftop,790,N Main St,Kernersville,NC,Forsyth County,27284,US,NC Geographic Information Coordinating Council
+Sheetz,507,35.666406,-78.699332,1,rooftop,7950,Fayetteville Rd,Raleigh,NC,Wake County,27603,US,Cary
+Wawa,8087,40.054324,-75.049502,1,nearest_street,,Us 1,Philadelphia,PA,Philadelphia County,19152,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,276,40.074874,-75.084248,1,rooftop,7913-29,Oxford Ave,Philadelphia,PA,Philadelphia County,19111,US,Philadelphia
+Wawa,5166,28.345467,-81.604678,1,rooftop,7940,W Irlo Bronson Mem Hwy,Kissimmee,FL,Osceola County,34747,US,MapWise (and individual Florida counties)
+Sheetz,628,40.352427,-76.715394,1,rooftop,7970,Linglestown Rd,Harrisburg,PA,Dauphin County,17112,US,Dauphin
+Sheetz,332,38.446282,-78.853178,1,rooftop,796,E Market St,Harrisonburg,VA,Rockingham County,22802,US,Virginia Geographic Information Network (VGIN)
+Wawa,366,40.010453,-74.803443,1,rooftop,8,Orchard Ln,Mount Holly,NJ,Burlington County,08060,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,482,39.492778,-74.457986,1,rooftop,7,S New York Rd,Absecon,NJ,Atlantic County,08205,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,988,39.859648,-74.206552,0.99,rooftop,800,Lacey Rd,Forked River,NJ,Ocean County,08731,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,998,39.811885,-75.068408,0.99,rooftop,800,N Black Horse Pike,Blackwood,NJ,Camden County,08012,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,916,40.532806,-74.777464,1,rooftop,800,Us Highway 202,Three Bridges,NJ,Hunterdon County,08887,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,477,39.900637,-75.075853,1,rooftop,814,White Horse Pike,Oaklyn,NJ,Camden County,08107,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,608,40.012573,-77.536925,0.99,rooftop,7775,Olde Scotland Rd,Shippensburg,PA,Franklin County,17257,US,Franklin
+Wawa,155,40.018245,-75.240161,0.98,nearest_street,36,Rock Hill Rd,Bala-Cynwyd,PA,Montgomery County,19004,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,84,40.063219,-75.086078,1,rooftop,7301,Rockwell Ave,Philadelphia,PA,Philadelphia County,19111,US,Philadelphia
+Wawa,8603,37.625276,-77.531707,1,rooftop,8017,W Broad St,Richmond,VA,Henrico County,23294,US,Virginia Geographic Information Network (VGIN)
+Sheetz,538,35.973772,-80.034223,1,rooftop,804,Westchester Dr,High Point,NC,Guilford County,27262,US,Guilford
+Wawa,5154,28.088529,-82.451939,1,rooftop,15002,N Nebraska Ave,Tampa,FL,Hillsborough County,33618,US, Loveland
+Wawa,5113,28.568938,-81.278319,1,rooftop,8049,E Colonial Dr,Orlando,FL,Orange County,32825,US, Loveland
+Wawa,590,39.561292,-76.966838,1,rooftop,805,Leidy Rd,Westminster,MD,Carroll County,21157,US,Carroll
+Sheetz,510,36.120226,-80.65902,1,rooftop,805,S State St,Yadkinville,NC,Yadkin County,27055,US,NC Geographic Information Coordinating Council
+Sheetz,64,40.903006,-78.228442,1,rooftop,808,N Front St,Philipsburg,PA,Clearfield County,16866,US,Clearfield
+Sheetz,528,42.006338,-80.308427,1,rooftop,722,E Main St,Girard,PA,Erie County,16417,US,Erie
+Wawa,5208,28.451446,-81.363285,1,rooftop,8099,S Orange Ave,Orlando,FL,Orange County,32809,US,Orange County
+Sheetz,473,37.748988,-81.137544,1,rooftop,810,Ritter Dr,Beaver,WV,Raleigh County,25813,US,Statewide
+Sheetz,634,35.873597,-78.728835,1,rooftop,8101,Glenwood Ave,Raleigh,NC,Wake County,27612,US,NC Geographic Information Coordinating Council
+Wawa,5299,28.260147,-81.590235,1,rooftop,7575,Osceola Polk Line Rd,Davenport,FL,Osceola County,33837,US, Loveland
+Wawa,8606,36.926867,-76.318155,1,rooftop,8105,Hampton Blvd,Norfolk,VA,Norfolk city,23505,US,City of Norfolk
+Sheetz,211,40.312663,-76.583776,0.98,nearest_street,22,S Duke St,Palmyra,PA,Lebanon County,17078,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,589,38.77223,-76.06094,1,rooftop,8118,Ocean Gtwy,Easton,MD,Talbot County,21601,US,Statewide
+Wawa,485,39.404194,-74.368992,1,rooftop,813,W Brigantine Ave,Brigantine,NJ,Atlantic County,08203,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,181,40.064154,-75.054339,1,rooftop,8144-52,Castor Ave,Philadelphia,PA,Philadelphia County,19152,US,Philadelphia
+Wawa,8066,40.105259,-75.12471,0.98,nearest_street,880,York Rd,Jenkintown,PA,Montgomery County,19046,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,235,39.885433,-75.307648,0.99,nearest_street,759,9th Ave,Prospect Park,PA,Delaware County,19076,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,45,40.483389,-78.732869,1,rooftop,818,W High St,Ebensburg,PA,Cambria County,15931,US,Cambria
+Sheetz,499,42.064885,-80.035773,1,rooftop,8186,Perry Hwy,Erie,PA,Erie County,16509,US,Erie
+Sheetz,181,40.934785,-77.815213,1,rooftop,850,S Eagle Valley Rd,Bellefonte,PA,Centre County,16823,US,Centre
+Sheetz,573,38.275402,-77.204003,1,rooftop,8206,Kings Hwy,King George,VA,King George County,22485,US,King George
+Wawa,8053,39.892139,-75.24058,0.99,rooftop,8220,Bartram Ave,Philadelphia,PA,Philadelphia County,19153,US,Philadelphia
+Wawa,8070,39.96591,-75.281143,0.98,nearest_street,8239,W Chester Pike,Upper Darby,PA,Delaware County,19082,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,61,40.665271,-79.01499,0.98,nearest_street,800,Franklin St,Clymer,PA,Indiana County,15728,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,932,39.856301,-75.076342,1,rooftop,825,N Black Horse Pike,Runnemede,NJ,Camden County,08078,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8080,40.079023,-75.160144,0.98,nearest_street,8290,Limekiln Pike,Wyncote,PA,Montgomery County,19095,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,5266,30.196282,-81.822939,1,rooftop,8251,Old Middleburg Rd S,Jacksonville,FL,Duval County,32222,US,Duval
+Sheetz,495,35.936016,-80.237346,1,rooftop,8283,Old Us Hwy 52,Lexington,NC,Davidson County,27295,US,Davidson
+Sheetz,314,40.398841,-79.421512,0.98,nearest_street,106,Us Hwy 22,New Alexandria,PA,Westmoreland County,15670,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,668,38.355559,-77.510335,1,rooftop,830,Warrenton Rd,Fredericksburg,VA,Stafford County,22406,US,Stafford
+Wawa,572,39.11063,-76.631521,1,rooftop,8300,Veterans Hwy,Millersville,MD,Anne Arundel County,21108,US,Anne Arundel County
+Wawa,5196,28.024845,-82.458783,1,rooftop,8325,N Florida Ave,Tampa,FL,Hillsborough County,33604,US,Hillsborough County
+Wawa,5109,28.279988,-82.676657,1,rooftop,8330,Ridge Rd,Port Richey,FL,Pasco County,34668,US,MapWise (and individual Florida counties)
+Sheetz,160,39.433119,-77.813372,1,rooftop,8332,Martinsburg Pike,Shepherdstown,WV,Jefferson County,25443,US,Statewide
+Sheetz,210,39.464433,-77.364885,1,rooftop,8410,Fountain Rock Rd,Walkersville,MD,Frederick County,21793,US,Statewide
+Wawa,699,37.26617,-76.676399,1,rooftop,842,Merrimac Trl,Williamsburg,VA,York County,23185,US,Virginia Geographic Information Network (VGIN)
+Sheetz,474,41.805046,-77.084349,1,rooftop,81,W Wellsboro St,Mansfield,PA,Tioga County,16933,US,Tioga
+Wawa,5317,27.99864,-80.648759,1,rooftop,1500,Emerson Dr SE,Palm Bay,FL,Brevard County,32907,US, Loveland
+Sheetz,270,38.770174,-77.453841,1,rooftop,8504,Centreville Rd,Manassas,VA,Prince William County,20111,US,Virginia Geographic Information Network (VGIN)
+Wawa,5108,28.280967,-82.716193,1,rooftop,8522,Us Highway 19,Port Richey,FL,Pasco County,34668,US,MapWise (and individual Florida counties)
+Sheetz,545,38.194144,-77.507863,1,rooftop,8533,Jefferson Davis Hwy,Fredericksburg,VA,Spotsylvania County,22407,US,Spotsylvania
+Sheetz,603,40.475206,-76.293667,1,rooftop,8555,Lancaster Ave,Bethel,PA,Berks County,19507,US,Berks
+Wawa,951,39.819911,-75.16077,1,rooftop,18,Cherry Ave,Woodbury Heights,NJ,Gloucester County,08097,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5138,28.440296,-81.404364,1,rooftop,8574,S Orange Blossom Trl,Orlando,FL,Orange County,32809,US,Orange County
+Wawa,5252,27.850769,-82.638195,1,rooftop,8601,4th St N,Saint Petersburg,FL,Pinellas County,33702,US,Pinellas
+Sheetz,115,40.561237,-80.039837,1,rooftop,8601,Old Perry Hwy,Pittsburgh,PA,Allegheny County,15237,US,Allegheny
+Wawa,8121,40.211015,-75.012288,1,rooftop,882,Second Street Pike,Richboro,PA,Bucks County,18954,US,Bucks
+Sheetz,169,40.361305,-78.419847,1,rooftop,8695,106 Route 36th Pike,East Freedom,PA,Blair County,16637,US,Blair
+Wawa,558,39.335944,-76.481603,1,rooftop,8731,Pulaski Hwy,Rosedale,MD,Baltimore County,21237,US,Baltimore
+Sheetz,392,39.9427,-77.633713,1,rooftop,875,Norland Ave,Chambersburg,PA,Franklin County,17201,US,Franklin
+Wawa,111,40.104853,-75.164609,0.98,nearest_street,59,Limekiln Pike,Glenside,PA,Montgomery County,19038,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,677,37.64294,-77.461051,1,rooftop,8800,Brook Rd,Glen Allen,VA,Henrico County,23060,US,Virginia Geographic Information Network (VGIN)
+Wawa,5215,27.838937,-82.761538,1,rooftop,8850,Park Blvd N,Largo,FL,Pinellas County,33777,US,City of Pinellas Park
+Wawa,379,39.689643,-75.017329,1,rooftop,882,Glassboro Rd,Williamstown,NJ,Gloucester County,08094,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5119,28.347705,-81.647093,1,rooftop,8849,W Irlo Bronson Memorial Hwy,Winter Garden,FL,Orange County,34787,US,Orange County
+Wawa,986,40.379294,-74.454987,1,rooftop,381,Deans Rhode Hall Rd,Jamesburg,NJ,Middlesex County,08831,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,682,37.635224,-77.50879,1,rooftop,8851,Staples Mill Rd,Lakeside,VA,Henrico County,23228,US,Virginia Geographic Information Network (VGIN)
+Sheetz,362,40.077469,-80.69358,1,rooftop,887,National Rd,Wheeling,WV,Ohio County,26003,US,Statewide
+Wawa,5209,28.389222,-81.505928,1,rooftop,8894,Vinings Way Blvd,Orlando,FL,Orange County,32836,US,Orange County
+Sheetz,478,40.163285,-76.153306,1,rooftop,891,E Main St,Ephrata,PA,Lancaster County,17522,US,Lancaster
+Wawa,5141,27.893993,-82.763055,1,rooftop,8910,Ulmerton Rd,Largo,FL,Pinellas County,33771,US,Pinellas
+Wawa,5318,28.036062,-80.645998,1,rooftop,895,Palm Bay Rd,Melbourne,FL,Brevard County,32904,US,MapWise (and individual Florida counties)
+Wawa,459,39.645489,-75.33841,1,rooftop,876,State Highway 45,Woodstown,NJ,Salem County,08098,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,130,40.582064,-79.778896,1,rooftop,899,Freeport Rd,Creighton,PA,Allegheny County,15030,US,Allegheny
+Wawa,309,40.11211,-74.34184,1,rooftop,9,Bennetts Mills Rd,Jackson,NJ,Ocean County,08527,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8627,38.344199,-77.496346,1,rooftop,9,S Gateway Dr,Fredericksburg,VA,Stafford County,22406,US,Virginia Geographic Information Network (VGIN)
+Sheetz,372,40.960393,-76.57673,1,rooftop,116,Woodbine Ln,Danville,PA,Montour County,17821,US,Montour
+Sheetz,254,39.657511,-79.954465,1,rooftop,918,Chestnut Rdg,Morgantown,WV,Monongalia County,26505,US,Statewide
+Sheetz,258,40.672435,-76.23522,0.98,nearest_street,892,Gordon Nagle Trl,Pottsville,PA,Schuylkill County,17901,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,379,40.502538,-80.222665,1,rooftop,9100,University Blvd,Coraopolis,PA,Allegheny County,15108,US,Allegheny
+Wawa,8015,39.86371,-75.679259,1,rooftop,901,E Baltimore Park,Media,PA,Chester County,19063,US,Chester
+Wawa,5135,28.604989,-81.36572,1,rooftop,901,N Orlando Ave,Winter Park,FL,Orange County,32789,US, Loveland
+Wawa,8144,39.942844,-75.157196,1,rooftop,901-3,South St,Philadelphia,PA,Philadelphia County,19147,US,Philadelphia
+Sheetz,310,40.987489,-80.663404,1,rooftop,9010,Market St,North Lima,OH,Mahoning County,44452,US,Mahoning
+Wawa,700,39.649537,-74.176564,1,rooftop,105,W 9th St,Beach Haven,NJ,Ocean County,08008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,851,38.928068,-75.431449,1,rooftop,902,N Dupont Blvd,Milford,DE,Kent County,19963,US,Kent
+Sheetz,552,41.343213,-81.825909,1,rooftop,17796,Whitney Rd,Strongsville,OH,Cuyahoga County,44136,US,Cuyahoga
+Wawa,5202,27.640246,-80.513234,1,rooftop,9050,20th St,Vero Beach,FL,Indian River County,32966,US,Indian River
+Wawa,698,37.271328,-77.316942,1,rooftop,907,Colonial Corner Dr,Hopewell,VA,Hopewell city,23860,US,Virginia Geographic Information Network (VGIN)
+Wawa,473,39.526372,-74.643941,1,rooftop,907,White Horse Pike,Egg Harbor City,NJ,Atlantic County,08215,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,910,40.238925,-74.228476,1,rooftop,909,State Highway 33,Freehold,NJ,Monmouth County,07728,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Sheetz,657,40.258203,-76.918056,1,rooftop,91,Erford Rd,Camp Hill,PA,Cumberland County,17011,US,Cumberland
+Wawa,8119,40.390715,-75.995903,1,rooftop,910,W Leesport Rd,Leesport,PA,Berks County,19533,US,Berks
+Wawa,299,40.624609,-75.442501,1,rooftop,911,Union Blvd,Allentown,PA,Lehigh County,18109,US,Lehigh
+Wawa,103,39.948153,-75.157007,1,rooftop,912-28,Walnut St,Philadelphia,PA,Philadelphia County,19107,US,Philadelphia
+Sheetz,267,39.112967,-77.539393,1,rooftop,915,Edwards Ferry Rd NE,Leesburg,VA,Loudoun County,20176,US,Loudoun
+Wawa,810,39.740026,-75.598469,1,rooftop,915,New Rd,Wilmington,DE,New Castle County,19805,US,New Castle
+Wawa,362,39.78443,-74.991764,1,rooftop,917,Erial Rd,Clementon,NJ,Camden County,08021,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,8602,37.649752,-77.403752,1,rooftop,9179,Chamberlayne Rd,Mechanicsville,VA,Hanover County,23116,US,Virginia Geographic Information Network (VGIN)
+Wawa,5179,28.666176,-81.420591,1,rooftop,919,W Sr 436,Altamonte Springs,FL,Seminole County,32714,US,Seminole
+Wawa,211,40.054786,-75.004291,1,rooftop,9201,Frankford Ave,Philadelphia,PA,Philadelphia County,19114,US,Philadelphia
+Wawa,5265,28.355264,-80.742162,1,rooftop,923,King St W,Cocoa,FL,Brevard County,32922,US, Loveland
+Wawa,5174,28.432974,-81.256706,1,rooftop,9235,Narcoossee Rd,Orlando,FL,Orange County,32827,US,Orange County
+Sheetz,539,36.40809,-78.977195,1,rooftop,925,N Madison Blvd,Roxboro,NC,Person County,27573,US,Person
+Wawa,19,39.910167,-75.280226,0.99,nearest_street,133,Wayne Ave,Darby,PA,Delaware County,19023,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8323,40.577078,-74.287364,1,rooftop,930,Us Highway 1,Avenel,NJ,Middlesex County,07001,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,950,39.322177,-74.514031,1,rooftop,9300,Ventnor Ave,Margate City,NJ,Atlantic County,08402,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,23,39.880304,-75.309635,0.99,nearest_street,540,Madison Ave,Prospect Park,PA,Delaware County,19076,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,284,40.192412,-75.528467,0.98,nearest_street,982,Walnut St,Royersford,PA,Montgomery County,19468,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,8054,40.08833,-75.043283,0.99,rooftop,9501,Northeast Ave,Philadelphia,PA,Philadelphia County,19115,US,Philadelphia
+Wawa,927,40.042817,-74.231504,1,rooftop,94,State Highway 70,Toms River,NJ,Ocean County,08755,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,5236,26.193098,-80.276648,1,rooftop,9400,W Commercial Blvd,Fort Lauderdale,FL,Broward County,33351,US,Broward
+Sheetz,341,37.447873,-77.569196,1,rooftop,9449,Amberdale Dr,Richmond,VA,Chesterfield County,23236,US,Virginia Geographic Information Network (VGIN)
+Sheetz,28,40.016005,-78.466813,1,rooftop,1,Sheetz Plaza Rd,Bedford,PA,Bedford County,15522,US,Bedford
+Wawa,342,39.055391,-74.7596,1,rooftop,9404,3rd Ave,Stone Harbor,NJ,Cape May County,08247,US,Cape May
+Wawa,8309,39.759784,-74.25379,1,rooftop,945,W Bay Ave,Barnegat,NJ,Ocean County,08005,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+Wawa,108,40.049714,-74.989543,1,rooftop,9456,State Rd,Philadelphia,PA,Philadelphia County,19114,US,Philadelphia
+Wawa,8644,38.750512,-77.448372,1,rooftop,9471,Liberia Ave,Manassas,VA,Prince William County,20110,US,Prince William
+Wawa,294,40.012171,-75.262411,0.99,nearest_street,1000,Montgomery Ave,Narberth,PA,Montgomery County,19072,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,296,41.180805,-81.474561,1,rooftop,4130,Hudson Dr,Stow,OH,Summit County,44224,US,Summit
+Wawa,5129,27.814631,-82.770595,1,rooftop,9501,Bay Pines Blvd,Saint Petersburg,FL,Pinellas County,33708,US,City of Pinellas Park
+Wawa,5167,27.858487,-82.327364,1,rooftop,9613,S Us Highway 301,Riverview,FL,Hillsborough County,33578,US, Loveland
+Sheetz,215,40.479555,-78.012982,1,rooftop,7588,Lake Raystown Shopping Ctr,Huntingdon,PA,Huntingdon County,16652,US,Huntingdon
+Wawa,198,39.882732,-75.535837,0.98,nearest_street,121,Brinton Lake Rd,Thornton,PA,Delaware County,19373,US,TIGER/Line?? dataset from the US Census Bureau
+Wawa,5274,30.287219,-81.558275,1,rooftop,9707,Beach Blvd,Jacksonville,FL,Duval County,32246,US,Duval
+Sheetz,230,39.860555,-79.954729,1,rooftop,973,S Eighty 8th Rd,Carmichaels,PA,Greene County,15320,US,Greene
+Sheetz,266,41.25014,-81.364503,1,rooftop,9745,State Rt 14,Streetsboro,OH,Portage County,44241,US,Portage
+Wawa,8604,36.914137,-76.24238,1,rooftop,975,Little Creek Rd,Norfolk,VA,Norfolk city,23518,US,Virginia Geographic Information Network (VGIN)
+Sheetz,596,35.63588,-78.442231,1,rooftop,9777,US 70 Bus Hwy W,Clayton,NC,Johnston County,27520,US,NC Geographic Information Coordinating Council
+Wawa,222,40.244377,-75.240067,0.98,nearest_street,989,N Wales Rd,North Wales,PA,Montgomery County,19454,US,TIGER/Line?? dataset from the US Census Bureau
+Sheetz,543,38.222508,-77.49197,1,rooftop,9825,Hospital Blvd,Fredericksburg,VA,Spotsylvania County,22408,US,Virginia Geographic Information Network (VGIN)
+Sheetz,577,40.488611,-78.043047,1,rooftop,5700,Shaner Blvd,Huntingdon,PA,Huntingdon County,16652,US,Huntingdon
+Sheetz,513,35.634784,-78.713897,1,rooftop,9915,Fayetteville Rd,Fuquay-Varina,NC,Wake County,27526,US,NC Geographic Information Coordinating Council
+Sheetz,651,40.372762,-76.649852,1,rooftop,9916,Allentown Blvd,Grantville,PA,Dauphin County,17028,US,Dauphin
+Wawa,5182,28.478904,-81.247706,1,rooftop,9959,Leevista Blvd,Orlando,FL,Orange County,32829,US,Orange County
+Wawa,8330,40.267379,-74.471826,0.99,rooftop,960,State Highway 33,Jamesburg,NJ,Middlesex County,08831,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
